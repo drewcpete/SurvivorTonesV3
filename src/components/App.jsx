@@ -2,6 +2,7 @@ import React from "react";
 import { Switch, Route } from "react-router-dom";
 import { Home } from "./Home";
 import Toolbar from "./Toolbar/Toolbar"
+import SeasonChart from "./SeasonChart.jsx"
 
 
 class App extends React.Component {
@@ -26,6 +27,9 @@ class App extends React.Component {
                 <main style={{marginTop: "64px", backgroundColor: "red"}}>
                     <p>Survivor Finale Tones!</p>
                 </main>
+                
+                <SeasonChart/>
+                
             </div>
         );
     }
