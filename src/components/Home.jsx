@@ -10,7 +10,7 @@ var bar = {
   
       <div  className="container">
         <div className="welcome">
-          <h4>Thanks for coming!</h4>
+          <h4>Survivor Season Tones!</h4>
         </div>
 
       </div>
