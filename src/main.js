@@ -1,10 +1,14 @@
 function tweetToString(json) {
     var seasonText = "";
-    for (let i = 0; i < json.length; i++) {
+    console.log("length"+json.results.length);
+    for (let i = 0; i < json.results.length; i++) {
         const text = json.results[i].text;
-        console.log(text)
-        seasonText.concat(text);
+        // console.log(text)
+        seasonText = seasonText + text;
+        // seasonText.concat(text);
+
     }
+    console.log("season" +seasonText)
     return seasonText;
 }
 
@@ -38,12 +42,12 @@ var s19json = require("./twitterData/s19tweetData.json");
 
 
 var s13Text = tweetToString(s13json);
-var s14Text = tweetToString(s14json);
-var s15Text = tweetToString(s15json);
-var s16Text = tweetToString(s16json);
-var s17Text = tweetToString(s17json);
-var s18Text = tweetToString(s18json);
-var s19Text = tweetToString(s19json);
+// var s14Text = tweetToString(s14json);
+// var s15Text = tweetToString(s15json);
+// var s16Text = tweetToString(s16json);
+// var s17Text = tweetToString(s17json);
+// var s18Text = tweetToString(s18json);
+// var s19Text = tweetToString(s19json);
 // var s20Text = tweetToString(s20json);
 // var s21Text = tweetToString(s21json);
 // var s22Text = tweetToString(s22json);
