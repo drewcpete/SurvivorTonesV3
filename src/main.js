@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 // Twitter data to string for each season
 
 function tweetToString(json) {
@@ -68,7 +70,7 @@ var s13Text = tweetToString(s13json);
 // var s37Text = tweetToString(s37json);
 // var s38Text = tweetToString(s38json);
 // var s39Text = tweetToString(s39json);
-export default s13Text;
+
 
 // console.log(s13Text)
 
@@ -79,13 +81,13 @@ const { IamAuthenticator } = require('ibm-watson/auth');
 const toneAnalyzer = new ToneAnalyzerV3({
   version: '2017-09-21',
   authenticator: new IamAuthenticator({
-    apikey: process.env.apikey,
+    apikey: process.env.APIKEY,
   }),
   url: 'https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/0d09ef0e-0aad-4d91-9a39-31d817d93616',
 });
 
 const toneParams = {
-    toneInput: {'text': text},
+    toneInput: {'text': s13Text},
     contentType: 'text/plain',
 } ;
 
