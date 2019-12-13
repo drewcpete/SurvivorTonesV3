@@ -30,6 +30,16 @@ function Toolbar() {
                     <ul>
                         <li><a href="/">Seasons</a></li>
                         <li><a href="/">Tones</a></li>
+                        <ul>
+                            <li>Anger</li>
+                            <li>Fear</li>
+                            <li>Joy</li>
+                            <li>Sadness</li>
+                            <li>Analytical</li>
+                            <li>Confident</li>
+                            <li>Tentative</li>
+                            <li></li>
+                        </ul>
                         <li><a href="/">Twitter Users</a></li>
                         <li><a href="/">Location</a></li>
                     </ul>

@@ -1,3 +1,5 @@
+// Twitter data to string for each season
+
 function tweetToString(json) {
     var seasonText = "";
     console.log("length"+json.results.length);
@@ -6,15 +8,13 @@ function tweetToString(json) {
         // console.log(text)
         seasonText = seasonText + text;
         // seasonText.concat(text);
-
     }
     console.log("season" +seasonText)
     return seasonText;
 }
-
+var s13json = require("./twitterData/s13tweetData.json");
 var s14json = require("./twitterData/s14tweetData.json");
 var s15json = require("./twitterData/s15tweetData.json");
-var s13json = require("./twitterData/s13tweetData.json");
 var s16json = require("./twitterData/s16tweetData.json");
 var s17json = require("./twitterData/s17tweetData.json");
 var s18json = require("./twitterData/s18tweetData.json");
@@ -68,6 +68,32 @@ var s13Text = tweetToString(s13json);
 // var s37Text = tweetToString(s37json);
 // var s38Text = tweetToString(s38json);
 // var s39Text = tweetToString(s39json);
+export default s13Text;
+
+// console.log(s13Text)
+
+// Watson Tone Analyzer
+const ToneAnalyzerV3 = require('ibm-watson/tone-analyzer/v3');
+const { IamAuthenticator } = require('ibm-watson/auth');
+
+const toneAnalyzer = new ToneAnalyzerV3({
+  version: '2017-09-21',
+  authenticator: new IamAuthenticator({
+    apikey: process.env.apikey,
+  }),
+  url: 'https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/0d09ef0e-0aad-4d91-9a39-31d817d93616',
+});
+
+const toneParams = {
+    toneInput: {'text': text},
+    contentType: 'text/plain',
+} ;
 
 
-console.log(s13Text)
+toneAnalyzer.tone(toneParams)
+.then(toneAnalysis => {
+    console.log(JSON.stringify(toneAnalysis, null, 2));
+})
+.catch(err => {
+    console.log("error", err)
+});
