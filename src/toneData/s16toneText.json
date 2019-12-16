@@ -1,0 +1,724 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "14905",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "87c12989e1cfaeb2d1f11ce3a7b0c074",
+    "x-dp-watson-tran-id": "87c12989e1cfaeb2d1f11ce3a7b0c074",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "2139",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.663674,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Survivor Micronesia Day 36 What was Erik Thinking: Survivor Micronesia Season 16 was certainly one for .. http://tinyurl.com/4u75usAdvice",
+        "tones": [
+          {
+            "score": 0.6821,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "For The 4 Remaining Contestants On Survivor: Micronesia - Fans vs. Favorites: We're down to the.. http://tinyurl.com/643xcfI",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "have a new article for Survivor Micronesia\\r",
+        "tones": [
+          {
+            "score": 0.577367,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Erik is the Most Stupidest Survivor Ever\\r",
+        "tones": [
+          {
+            "score": 0.741548,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "http://www.tvrobot..com/tv/survivor/stupidest/Survivor: Micronesia - Fans vs. Favorites - Episode 13, “I Think That Is What You Call A Life Lesson”:.. http://tinyurl.com/624l7xSurvivor",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "Micronesia 16x13 Holy shit.",
+        "tones": [
+          {
+            "score": 0.781415,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "N acredito!",
+        "tones": [
+          {
+            "score": 0.579367,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "Erik, o jogador mais burro da história do programa.Temporada fodástica.",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "Melhor do reality.SURVIVOR Micronesia (season finale) on Sunday May 11th *Monday here in Philippines* I pray that Parvati Shallow will win......watching Survivor: Micronesia.",
+        "tones": [
+          {
+            "score": 0.592039,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "it's amazing how much i can hate amanda.survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "micronesia.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "genious.",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "this show is pure genious.Advice For The 5 Remaining Contestants On Survivor: Micronesia - Fans vs. Favorites: Survivor: Microne.. http://tinyurl.com/5n6bgjTV",
+        "tones": [
+          {
+            "score": 0.604329,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "Review: Survivor: Micronesia - The Beginning of the End http://tinyurl.com/535ctqPublished",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "a new post: Survivor 16 Micronesia - Ponderosa videos ( http://tinyurl.com/5rcxoc",
+        "tones": [
+          {
+            "score": 0.579486,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Ponderosa videos ( http://realitytvfan.org/?p=1543 )Empezado Survivor Fans Vs Fave, en micronesia.",
+        "tones": [
+          {
+            "score": 0.556969,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "Pinta bien, vamos a terminar anatomia de grey season 3.Survivor Micronesia 16x12.",
+        "tones": [
+          {
+            "score": 0.610359,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "Foda.",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "Melhor reality show da década.Survivor Micronesia: I'm Gonna Fix Her! - http://jsr.qlnk.netPublished a new post: Survivor 16 Micronesia - Episode # 12 ( http://tinyurl.com/5bhd2x",
+        "tones": [
+          {
+            "score": 0.548177,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 12 ( http://realitytvfan.org/?p=1532 )Vidstreaming for Survivor Micronesia's recent eppy.Watching Survivor:MicronesiaWatching TV (Survivor: Micronesia -- Fans vs. Favorites)Survivor: Micronesia—Fans vs. Favorites — I'm Gonna Fix Her! — (New, Reality, 2008) — 8:00 PM on CBS HD - http://www.justtvnuts.com/Watching",
+        "tones": [
+          {
+            "score": 0.588562,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Survivor:MicronesiaTV Review: Survivor Micronesia - So It's Come to This http://tinyurl.com/3lhh2kPublished",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "a new post: Survivor 16 Micronesia - Episode # 11 ( http://tinyurl.com/5wagzv",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 11 ( http://realitytvfan.org/?p=1500 )@yapstar: Survivor Micronesia reward winners visit island nation of YapPublished a new post: Survivor 16 Micronesia - Episode # 10 ( http://tinyurl.com/5vpv22",
+        "tones": [
+          {
+            "score": 0.580767,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 10 ( http://realitytvfan.org/?p=1449 )TV Review: Survivor Micronesia - Devil Went Down to Micronesia http://tinyurl.com/6baq56Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "Micronesia: I Promise - http://3hq.qlnk.netSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "Micronesia 16x10: Holy fucking nuts!",
+        "tones": [
+          {
+            "score": 0.772268,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "FODÁSTICO, INCRÍVEL!",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "The biggest blind side ever!!!New episode of Talking About Survivor for Survivor Micronesia Episode 9! http://christianastuff.powerblogs.com/posts/1208135581.shtmlSurvivor",
+        "tones": [
+          {
+            "score": 0.542506,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "Micronesia - 16x09: And the merge comes!!! 'It's not the idol.",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "it's a fucking stick'..HAHAHAHAH.",
+        "tones": [
+          {
+            "score": 0.900316,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "Ep. foda, temporada foda.TV Review: Survivor: Micronesia - Tribe Stupidity http://tinyurl.com/4sfdoc08.04.10 Survivor Micronesia - Just Breathe (It’s 2 a.m. and I’m still under water) -- http://scouta.com/faves/2wKEOXb1wM3Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "Micronesia: I'm in Such a Hot Pickle! - http://exq.qlnk.netPublished a new post: Survivor 16 Micronesia - Episode # 9 ( http://tinyurl.com/6d5p5a",
+        "tones": [
+          {
+            "score": 0.572338,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 9 ( http://realitytvfan.org/?p=1409 )Survivor Micronesia 16x08: OMG! OMG! OMG! Que temporada fudida!Published a new post: Survivor 16 Micronesia - Episode # 8 ( http://tinyurl.com/6gpccp",
+        "tones": [
+          {
+            "score": 0.644186,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 8 ( http://realitytvfan.org/?p=1381 )TV Review: Survivor: Micronesia - Their True Sides Show http://tinyurl.com/659rb6just",
+        "tones": [
+          {
+            "score": 0.53785,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "watched Survivor: Micronesia, and discovers her intense dislike for whiny emotional players.Survivor Micronesia: Lost Puppy Dog - http://ukq.qlnk.netSurvivor",
+        "tones": [
+          {
+            "score": 0.508428,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.743104,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Micronesia 16x04-07: Nesse ritmo tem tudo pra ser a melhor temporada do reality.",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "E olha que a fusão das tribos nem aconteceu ainda.Survivor Micronesia 16x03: É o melhor reality show que ninguém vê!Published a new post: Survivor 16 Micronesia - Episodes getting removed.",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "( http://tinyurl.com/2ncpq7",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episodes getting removed.",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "( http://realitytvfan.org/?p=1336 )Editing my blog post: Survivor 16 Micronesia - Episode # 1 ( http://tinyurl.com/3687sr",
+        "tones": [
+          {
+            "score": 0.526026,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 2 ( http://tinyurl.com/2pmhmn",
+        "tones": [
+          {
+            "score": 0.540385,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 3 ( http://tinyurl.com/39y25j",
+        "tones": [
+          {
+            "score": 0.540385,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 4 ( http://tinyurl.com/2jmlep",
+        "tones": [
+          {
+            "score": 0.540385,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 5 ( http://tinyurl.com/2q2ggp",
+        "tones": [
+          {
+            "score": 0.540385,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 6 ( http://tinyurl.com/348w7p",
+        "tones": [
+          {
+            "score": 0.540385,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": ")Editing my blog post: Survivor 16 Micronesia - Episode # 7 ( http://tinyurl.com/2jyvga",
+        "tones": [
+          {
+            "score": 0.540385,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": ")Published a new post: Survivor 16 Micronesia - Episode # 7 ( http://tinyurl.com/2jyvga",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": ")Fiddling with my blog post: Survivor 16 Micronesia - Episode # 7 ( http://realitytvfan.org/?p=1322 )TV Review: Survivor: Micronesia - It Wasn't on Thursday Night! http://tinyurl.com/27t66tSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Micronesia: Like a Wide-Eyed Kid in the Candy Store! - http://4tq.qlnk.netNew",
+        "tones": [
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "tonight: Wife Swap, Suppernanny, Survivor: Micronesia, Moment of Truth, American Idol, America's Next Top Model, Pussycat DollsTV Review: Survivor: Micronesia - Penner's Last Stand http://tinyurl.com/32v434Published",
+        "tones": [
+          {
+            "score": 0.508372,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "a new post: Survivor 16 Micronesia - Episode # 6 ( http://tinyurl.com/348w7p",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": ")Fiddling with my blog post: Survivor 16 Micronesia - Episode # 6 ( http://realitytvfan.org/?p=1303 )Survivor Micronesia: It Hit Everyone Pretty Hard! - http://iqq.qlnk.netWatching",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "TV (Survivor: Micronesia -- Fans vs. Favorites)watching Survivor: MicronesiaTV Review: Survivor: Micronesia - Survival of the Weakest http://tinyurl.com/2mj9boSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Micronesia: He's a Ball of Goo! - http://g1p.qlnk.netPublished a new post: Survivor 16 Micronesia - Episode # 5 ( http://tinyurl.com/2q2ggp",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": ")Fiddling with my blog post: Survivor 16 Micronesia - Episode # 5 ( http://realitytvfan.org/?p=1276 )MythTV recorded Survivor: Micronesia -- Fans vs. Favorites, Mar 6th 2008 at 20:00 on WCBS.Published a new post: Survivor 16 Micronesia - Episode # 4 ( http://tinyurl.com/2jmlep",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": ")Fiddling with my blog post: Survivor 16 Micronesia - Episode # 4 ( http://realitytvfan.org/?p=1254 )TV Review: Survivor: Micronesia - Like a Lawyer http://tinyurl.com/39hwkmSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "Micronesia: That's Baked, Barbecued and Fried! - http://izp.qlnk.netNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "TV review: Survivor Micronesia: Fans vs. Favorites 2/28/08 http://tinyurl.com/22slzwNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "tonight: Survivor: Micronesia, Celebrity Apprentice, Eli Stone, Lipstick Jungle, Great Performances, Make Me a SupermodelSurvivor Micronesia: I Should Be Carried on the Chariot-Type Thing - http://4xp.qlnk.netTV",
+        "tones": [
+          {
+            "score": 0.763978,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "Review: Survivor Micronesia - Surviving the Battle http://tinyurl.com/2bwj25Published",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "a new post: Survivor 16 Micronesia - Episode # 3 ( http://tinyurl.com/39y25j",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": ")MythTV recorded Survivor: Micronesia -- Fans vs. Favorites, Feb 21st 2008 at 20:00 on WCBS.Watching TV (Survivor: Micronesia -- Fans vs. Favorites)Watching TV (Survivor: Micronesia -- Fans vs. Favorites)Watching TV (Survivor: Micronesia -- Fans vs. Favorites)New episode of Talking About Survivor - Survivor Micronesia Week 2! http://christianastuff.powerblogs.com/posts/1203376655.shtmlLoving",
+        "tones": [
+          {
+            "score": 0.625313,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "Survivor Micronesia.",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "Eppy 2 rocked!",
+        "tones": [
+          {
+            "score": 0.793691,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "That's what you call blindside!LOL Exciting eppy next week---Let's get physical!",
+        "tones": [
+          {
+            "score": 0.845104,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": ":)Watching Survivor:MicronesiaSurvivor Micronesia: The Sounds of Jungle Love - http://rmp.qlnk.netMythTV",
+        "tones": [
+          {
+            "score": 0.920873,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "recorded Survivor: Micronesia -- Fans vs. Favorites, Feb 14th 2008 at 20:00 on WCBS.Survivor: MicronesiaThe island scenery on Survivor is much better than the show.",
+        "tones": [
+          {
+            "score": 0.601742,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Micronesia is beautiful.new",
+        "tones": [
+          {
+            "score": 0.900394,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "tonight: Lost, Supernatural, Survivor: Micronesia, Celebrity Apprentice, Lipstick Jungle, Eli Stone, Smallville, NAACP Image AwardsNew episode of Talking About Survivor... Survivor Micronesia premiere!",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "http://feeds.feedburner.com/TalkingAboutSurvivorI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "a bit disappointed that Jonny Fairplay was the first bootee in Survivor Micronesia.",
+        "tones": [
+          {
+            "score": 0.823311,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "But then again, he's an as+s.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": ":D Ozzy and Ami FTW!!!I thought the ad said Survivor: Minnesota, not Micronesia.",
+        "tones": [
+          {
+            "score": 0.629936,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "Let's face it - MN would have been more entertaining.",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Next time, CBS.Survivor Micronesia: You Guys Are Dumber Than You Look - http://vvp.qlnk.netAML:",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "The Survivor: Micronesia, Fans vs. Favorites contest!: *as with The Amazing Race recaps, spoiler.. http://tinyurl.com/2qbzzxAML:",
+        "tones": [
+          {
+            "score": 0.724507,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "The Survivor: Micronesia, Fans vs. Favorites contest!: *as with The Amazing Race recaps, spoiler.. http://tinyurl.com/2qbzzxwatching",
+        "tones": [
+          {
+            "score": 0.724507,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "new Survivor on cbs.com, looking good.",
+        "tones": [
+          {
+            "score": 0.779041,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "Micronesia is beautiful.MythTV recorded Survivor: Micronesia -- Fans vs. Favorites, Feb 7th 2008 at 20:00 on WCBS.\"}",
+        "tones": [
+          {
+            "score": 0.785801,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

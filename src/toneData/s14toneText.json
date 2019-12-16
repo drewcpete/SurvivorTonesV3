@@ -1,0 +1,205 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "3625",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "93e0abd99ba7150645e20953685c74f3",
+    "x-dp-watson-tran-id": "93e0abd99ba7150645e20953685c74f3",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "483",
+    "date": "Mon, 16 Dec 2019 05:50:05 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.61164,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.781287,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Watching the end of Survivor Fiji finale... and working on http://Chris24.ca/podcasting",
+        "tones": [
+          {
+            "score": 0.532676,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "- My Podcasts page (partly done)Oh fuck!",
+        "tones": [
+          {
+            "score": 0.643276,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Almost forgot about the \\\"Survivor: Fiji\\\" season finale!!! Phew! :PWatching Survivor: Fiji.",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "The right guy won if it could not be Yaumoncan't say that he really cared who won 'Survivor: Fiji' after Yau-man got voted out, but he's glad Earl won over the rest of 'em.Catching up with Survivor:Fiji and wondering if I care.is",
+        "tones": [
+          {
+            "score": 0.630969,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "watching the 'SURVIVOR: FIJI' finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "I can't believe it's over already.",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "One of the best seasons ever.is",
+        "tones": [
+          {
+            "score": 0.898076,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "counting down the minutes to the season finale of 'Survivor: Fiji!'watching Survivor:Fiji - what a disappointing season, in term of hunks, sigh :&lt;Posting to an old obsolete blog on myspace inviting some Survivor friends over to Twitter.",
+        "tones": [
+          {
+            "score": 0.768658,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Might see some good Survivor Fiji comments.Watching _Survivor: Fiji_ with Lois (we just finished packing); heavy rain slows, but there's a Tornado watch.Watching Survivor Fiji... bbs!watching _Survivor: Fiji_ and putting a \\\"ThisAmericanLife\\\" on Lois' waterproof MP3 player (guess who's going swimming tomorrow?)Catching up on a backlog of Survivor:Fiji episodes.",
+        "tones": [
+          {
+            "score": 0.698904,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "Really hard to get into this season.watching",
+        "tones": [
+          {
+            "score": 0.672495,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Survivor Fijirecording survivor fiji for the boss :)guilty pleasure for today: Survivor Fijiwhile waiting for the iMovie to finish, we're watching _Survivor: Fiji_.Up late watching Survivor:Fiji on TivoThree down!",
+        "tones": [
+          {
+            "score": 0.797883,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Now I can relax and watch the DVR of Survivor Fiji..Now listening to \\\"THE MICROUPDATE, SURVIVOR: FIJI -Anthony wasn't man enough...for the men\\\".Watching Survivor Fiji4 weeks behind on Survivor: Fiji.",
+        "tones": [
+          {
+            "score": 0.707045,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Watching the backlog on DVRback from Chess Club; feeding my mind with _Survivor: Fiji_.Survivor Fiji: Now on my screenwatched the first ep of Survivor Fiji, Grissom's back in CSI and I love Gary Sinise's work in CSI NY.Excited for the Survivor: Fiji season premiere.Home watching Survivor FijiSurvivor Fiji is on tonight!",
+        "tones": [
+          {
+            "score": 0.843057,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "\"}",
+        "tones": []
+      }
+    ]
+  }
+}

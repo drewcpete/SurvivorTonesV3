@@ -1,0 +1,988 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17517",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "06e70d84ff382925d1163367296ccf6e",
+    "x-dp-watson-tran-id": "06e70d84ff382925d1163367296ccf6e",
+    "x-edgeconnect-midmile-rtt": "58",
+    "x-edgeconnect-origin-mex-latency": "1465",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.588952,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.544269,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"If anyone spoils the Survivor finale for me tonight I will literally kill you.",
+        "tones": [
+          {
+            "score": 0.670363,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "❤️RT @Survivor_Tweet: Stream the epic conclusion of #Survivor #secondchance LIVE w/ #CBSAllAccess tonight at 8/7c! https://t.co/sun6y5FoZR",
+        "tones": [
+          {
+            "score": 0.802327,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "ht…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "@Survivor_Tweet: We're Livestreaming behind-the-scenes @ the #SurvivorFinale @ 7:30ET/4:30PT! Watch here: https://t.co/FeUJ9wdu6S",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "https:…Watching",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "#survivor ponderosa videos is physically painful because everyone has so much fun and I just wanna be on there so bad!@MT_Survivor Anyone  but WentworthTypically my attention would be all on Rangers/Knights but it gets me for an hour then it's all about the Survivor finale for 3 hours.Anyone else pumped about the survivor season finale?!!En mi funeral entierrenme mientras una banda sonora toca \\\"Eye of the tiger\\\" #Survivor &lt;3@SpencerBGM Well whatever happened, remember you are always a Survivor favorite.RT @James_Cockayne: Ms Nadia Murad Basa Tahee, Yazidi survivor of #ISIS attacks, bravely addresses the @UN Security Council #endslavery htt…We're Livestreaming behind-the-scenes @ the #SurvivorFinale @ 7:30ET/4:30PT! Watch here: https://t.co/FeUJ9wdu6S",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "https://t.co/aTaJ8H56vnSurvivor-Burning Heart Sonando en CHECHERADIO 80S 90S - #BaladasRokeras Escuchanos! https://t.co/RLTg4qjBJpRT",
+        "tones": [
+          {
+            "score": 0.691395,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "@JeffProbst: Survivor fans!!! Make sure you #survivorfinale for all your tweets tonight so we can find them and use them on the show!",
+        "tones": [
+          {
+            "score": 0.64662,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.812632,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "K…RT @LoveNLunchmeat: I really need to go on the show Survivor.",
+        "tones": [
+          {
+            "score": 0.608811,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "Not for the money or the fame.",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "It's just the only way I'm ever gonna effectiv…@Kim_is__bored I'll do a poll below if your choices are vote here.",
+        "tones": [
+          {
+            "score": 0.512193,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.797088,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "If not vote above.",
+        "tones": [
+          {
+            "score": 0.939594,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "#SurvivorFinale #Survivor@RPatrickAllen AP is obviously the CBPOTY.. the reason he needed a comeback is not criteria.",
+        "tones": [
+          {
+            "score": 0.641954,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.6821,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "I say this as a recent cancer survivor also.Y mañana, final de #Survivor.",
+        "tones": [
+          {
+            "score": 0.527095,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "A ver si tuviese también un ganador que nos ilusionase... #TeamSpencer@Survivor_Tweet @7 Bad link???RT @HuffPostCrime: The real human cost of assuming a rape survivor is lying https://t.co/3Nk2oEFHYZRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "@USUN: \\\"We are truly in awe of your courage\\\" —@AmbassadorPower in UNSC to Nadia, survivor of human trafficking #EndSlavery https://t.co/…“I",
+        "tones": [
+          {
+            "score": 0.574479,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.586608,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "was the age of 21.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "I weighed 72 pounds.”",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "- Holocaust survivor Bill Harvey https://t.co/p6NbvrVohFRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "@Survivor_Tweet: Tonight's #SurvivorFinale is gonna be epic.",
+        "tones": [
+          {
+            "score": 0.637136,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "So cancel your plans &amp; don't miss a moment, starting at 8/7c on @CBS.",
+        "tones": [
+          {
+            "score": 0.736973,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "http…If",
+        "tones": [
+          {
+            "score": 0.982476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "I don't get home in time for the #Survivor there will be hell to paySURVIVOR FINALE TONIGHT!!! #TeamWentworthRT @Survivor_Tweet: Tonight's #SurvivorFinale is gonna be epic.",
+        "tones": [
+          {
+            "score": 0.53493,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "So cancel your plans &amp; don't miss a moment, starting at 8/7c on @CBS.",
+        "tones": [
+          {
+            "score": 0.736973,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "http…Looks",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "life my life is now going to depend on if I can ever get on SurvivorRT @SpencerBGM: #Survivor dressing rooms!",
+        "tones": [
+          {
+            "score": 0.736428,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.713028,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "This won't be awkward @stephenfishbach https://t.co/DLssPbDF0CI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "missing survivor tonight and I haven't been this upset in quite some time.",
+        "tones": [
+          {
+            "score": 0.733664,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.867767,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "#SurvivorIsLifeWho's the greatest #Survivor Winner of all timeRT @Survivor_Tweet: Stream the epic conclusion of #Survivor #secondchance LIVE w/ #CBSAllAccess tonight at 8/7c! https://t.co/sun6y5FoZR",
+        "tones": [
+          {
+            "score": 0.81198,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.560944,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "ht…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "@JeffProbst: Survivor fans!!! Make sure you #survivorfinale for all your tweets tonight so we can find them and use them on the show!",
+        "tones": [
+          {
+            "score": 0.64662,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.812632,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "K…RT @TripleThreatCLE: TV Tonight #GrizzliesBulls #BucksClippers #WildnOut #Survivor #UNC #TheChallengeBloodlines https://t.co/2zQjkoSxrT",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "htt…What were your favorite changes on #Survivor this season?",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "See mine before tonight's finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "@buff_usa https://t.co/B5JVX78UPMRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "@PatriotFeatures: Honoring Battle of the Bulge survivor Don Boyer at his passing.",
+        "tones": [
+          {
+            "score": 0.502343,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "Another #greatestgeneration member gone.",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "https://t.co/…@BBDiscuss",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "I create the comps for survivorRT @EARTHDOGBB: Survivor Starts Soon #SurvivorFinale ",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "RT IF U WANT JEREMY TO WIN @jeremy2collins ",
+        "tones": [
+          {
+            "score": 0.581199,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "#teamjeremy #SurvivorSecondChance https:/…@DpageantbuFF I'm hoping Spencer is handed the check too.",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "#SurvivorRT @Spokodiz: survivor hoje vai ter a duração de 3 episodios de masterchefgreenbergsays: medieisme: tenoko1: callmegoddess618: pro-choice-is-love: survivor-surviving:... https://t.co/bF0Z9WqxusSharpei-Pug",
+        "tones": [
+          {
+            "score": 0.692932,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "puppy mill survivor 'Nelson' is ready for his new family: Ten-week-old Nelson, a Sharpei-Pu... https://t.co/agSxERCCvL",
+        "tones": [
+          {
+            "score": 0.702516,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "#puppyExcited to see @theshirin tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "Smart, beautiful &amp; a love for The Genius solidifies her as my favourite female #survivor this season!",
+        "tones": [
+          {
+            "score": 0.936925,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "=)@Carol30040 @Survivor_Tweet  Great shirt!!!!RT @Survivor_Fans: Retweet if you are super excited to see the finale and reunion tonight!",
+        "tones": [
+          {
+            "score": 0.896838,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "#Survivor #SecondChance #SurvivorFinaleCan't wait to see Jeremy win Survivor!",
+        "tones": [
+          {
+            "score": 0.603035,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "He's a great soul.Just about ready for the @Survivor_Tweet finale.",
+        "tones": [
+          {
+            "score": 0.80155,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.909883,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "https://t.co/ooOrHHnnWC@haaveyoumetmike",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "@vanessamichett_ because Vanessa can't watch #survivor tonight, I will be tweeting her fake spoilers the entire time@Mandi_1971 FYI: #Survivor is live today on GO at 12pm.",
+        "tones": [
+          {
+            "score": 0.716723,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "I'll be working 😭RT @FashionLuvAshly: #WineWednesday 🍷👽@ABDUCTIONWINE @Survivor_Tweet @REALBillyGarcia @Real_TaliaRae @affluentmag @parvatishallow @babesofm…I'm a survivorRT @FashionLuvAshly: #WineWednesday 🍷👽@ABDUCTIONWINE @Survivor_Tweet @REALBillyGarcia @Real_TaliaRae @affluentmag @parvatishallow @babesofm…RT @BostonRob: Its @Survivor_Tweet finale day!!!",
+        "tones": [
+          {
+            "score": 0.532512,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "We can't wait! @JeffProbst @MarkBurnettTVRT @HaymakerHattie: I just won a fish in the office holiday gift swap - will name it after whoever wins #Survivor tonight.I added a video to a @YouTube playlist https://t.co/LD4qlOmjTc",
+        "tones": [
+          {
+            "score": 0.846078,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "Roblox | I am not a survivor | Episode 4Hanging out with the #Survivor Crew last night.",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "The Brazilian Dragoon ❤️ #SurvivorFinale https://t.co/PmwGT77TcKIf",
+        "tones": [
+          {
+            "score": 0.89462,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "anyone I know tweets survivor finale spoilers you're dead to me...",
+        "tones": [
+          {
+            "score": 0.59728,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "But also would be excited to find someone else who watches still lol@RupertBoneham who will win tonight?",
+        "tones": [
+          {
+            "score": 0.806867,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.809841,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "Who are you rooting for??! @Survivor_Tweet #suspense@Survivor_Tweet BEST.",
+        "tones": [
+          {
+            "score": 0.756691,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "SEASON.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "EVER!!!!!!  Thanks to all who made it so fantastic!What were your favorite changes to #Survivor this season?",
+        "tones": [
+          {
+            "score": 0.917705,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "See mine: https://t.co/3FBCsadlPQ",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "#Survivorfinale @Buff_USAMake sure all you fans tweet to us during the finale and reunion.",
+        "tones": [
+          {
+            "score": 0.92125,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "We want to see a Survivor fan meltdown here and we'll respond to them all!RT @Survivor_Tweet: Tonight's #SurvivorFinale is gonna be epic.",
+        "tones": [
+          {
+            "score": 0.652363,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.560944,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "So cancel your plans &amp; don't miss a moment, starting at 8/7c on @CBS.",
+        "tones": [
+          {
+            "score": 0.736973,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "http…One",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "hour until the @Survivor_Tweet finale!! I'm totes #TeamKelley @KelleyWentworthRT @NevadaSPCA: Mungojerrie, 12, gentle soul.",
+        "tones": [
+          {
+            "score": 0.517076,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "#adopt",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "Abuse survivor, ready to love, longs for peace-of-mind.",
+        "tones": [
+          {
+            "score": 0.902138,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "https://t.co/E0b31ZiiKd",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "https:…I Walk For My MOM  https://t.co/7kT7DwkWPZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "via @Etsy #breast #cancer #survivor #walk https://t.co/gDQgWvy66wI",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "Walk For My MOM  https://t.co/AoaqIeBRYR",
+        "tones": [
+          {
+            "score": 0.557665,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "via @Etsy #breast #cancer #survivor #walk https://t.co/BVQHHjEh1tI",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "Walk For My MOM  https://t.co/rlSUE1mTte",
+        "tones": [
+          {
+            "score": 0.557665,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "via @Etsy #breast #cancer #survivor #walk https://t.co/qBB90HBvIDCe",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "soir à la télé  :",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "#Survivor - Finale",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "#EDLT",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "#CesGarsLà",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "#AHSHotel",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "#Kingdom",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "#Salvail avec @OfficielPierreRT @FashionLuvAshly: #WineWednesday 🍷👽@ABDUCTIONWINE @Survivor_Tweet @REALBillyGarcia @Real_TaliaRae @affluentmag @parvatishallow @babesofm…Boston Marathon bombing survivor dies | Local News - WCVB Home https://t.co/0MEBR2zn9W",
+        "tones": [
+          {
+            "score": 0.529241,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "via @WCVBTV Tonight #GrizzliesBulls #BucksClippers #WildnOut #Survivor #UNC #TheChallengeBloodlines https://t.co/2zQjkoSxrT",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "https://t.co/xBx1U66oX9Co-worker",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "- \\\"Wait, you're really taking off to watch Survivor?\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "Me,",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "stone faced and serious - \\\"Yeah.",
+        "tones": [
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Why?",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "Is that a problem?\\\"",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": ":-D",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": ":-D",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": ":-Dhttps://t.co/rgBzd99fSf",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "Poll Results: What did you think of WWE Survivor… https://t.co/jdksbsdliJRT",
+        "tones": [
+          {
+            "score": 0.984016,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "@JeffProbst: Survivor fans!!! Make sure you #survivorfinale for all your tweets tonight so we can find them and use them on the show!",
+        "tones": [
+          {
+            "score": 0.64662,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.812632,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "K…RT @ERGoddessMD: Since Sept of my 10yo has read Unbroken, Go Set a Watchman, American Sniper &amp;No Easy Day.",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "Going to bookstore now for Lone …Who will it be?",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "#solesurvivor #SurvivorCambodia #SecondChance #Survivor #Finale #TeamSpencer… https://t.co/yEbNtwhubwMiss",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "@missfoxytasha #SurvivorFinale #Survivor https://t.co/IbJW2ITo1YMan",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "I was rooting for Woo! 😢 #Survivor@canuck4liberty you have an awesome survivor brain 😊survivor hoje vai ter a duração de 3 episodios de masterchefHa cometido el error más estúpido de la historia de Survivor, pero para mí Erik siempre será el superviviente más cute de todos &lt;3#WineWednesday 🍷👽@ABDUCTIONWINE @Survivor_Tweet @REALBillyGarcia @Real_TaliaRae @affluentmag @parvatishallow @babesofmma @GordonVasquez 🍷👽Survivor finally tonight@CodeBlackCBS I really hate survivor tonight @MGH_8RT @junta_rs: クリスマスの翌日はすんげー豪華なこのダンス！",
+        "tones": [
+          {
+            "score": 0.845085,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "自分の時間が終われば完全にお客さんになりますw",
+        "tones": []
+      },
+      {
+        "sentence_id": 102,
+        "text": "#nine_lives #real_survivor_sound https://t.co/cng2QxFI5KRT",
+        "tones": [
+          {
+            "score": 0.64446,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

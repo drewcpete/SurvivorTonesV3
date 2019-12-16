@@ -27,7 +27,7 @@ componentWillMount(){
                 datasets: [
                     {
                         label: "Season Tones",
-                        data:  Analyze(allText);
+                        data:  Analyze(allText),
                             // 61,
                             // 54,
                             // 33,
@@ -95,5 +95,5 @@ componentWillMount(){
             </div>
         );
     }
-}
+
 export default App;

@@ -1,0 +1,911 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16044",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "fbf92d08aee0c25c98f0baca117a9ac5",
+    "x-dp-watson-tran-id": "fbf92d08aee0c25c98f0baca117a9ac5",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1729",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.547683,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.606403,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"one of my favorite nights of the year... the survivor finale🤪RT @TheSimms: 🚨 GIVEAWAY!",
+        "tones": [
+          {
+            "score": 0.662395,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "❄️ 2x Survivor Pass: Vikendi!",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "👇Click the link below to enter!",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "https://t.co/Yg5geYbn5B",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "#PUBG",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "#Vikendi #Giveaway…I can't remember being this excited about a #Survivor finale #SurvivorDavidVsGoliath https://t.co/l7nl4mWmthAnyway",
+        "tones": [
+          {
+            "score": 0.843776,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "I would prefer people I know to not go on these shows, unless it's your dream and we're cool in which case I… https://t.co/paU3MVPc4NRT",
+        "tones": [
+          {
+            "score": 0.503805,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "@survivorcbs: Check out what the castaways are doing before the #Survivor finale!",
+        "tones": [
+          {
+            "score": 0.788547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "👇@L5Roby this little reminder from @JeffProbst as you’re just over 2 hrs away from the 3 hr season finale and live (… https://t.co/K1UtkWSd4GRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "@dailyamberheard: For everyone wondering about the fashion brand Amber Heard is talking about in her essay: TOD’S is the one that droppe…RT @AvoriLiz: I've got keys to give away for a free survivor pass!",
+        "tones": [
+          {
+            "score": 0.534927,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Show up in chat and type '!survivor' for your chance to win!! Starting t…RT @Survivor_Reddit: In case Kara wins Season 37 😂😂",
+        "tones": [
+          {
+            "score": 0.654792,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "from /u/VGK89 #Survivor https://t.co/hCFIOk71s4",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "https://t.co/ZdAEGK6Cm0RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "@beckylinzz: She was told that before the Survivor Series match?",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Things change quick and fast in the WWE.",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "https://t.co/1ifnUZ5KSTRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "@PaulSorrentino3: #BadTVShowPitchIdeas",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "survivor between nancy pelosi and chuck schumer as they struggle to afford access to healthcare o…Breast Cancer, Breast Cancer Survivor, Fight Like A Girl, Cancer Survivor, Cancer Awareness, Front Auto Tag, Fight… https://t.co/uwnJA2ymYE#QuePasoConPaz",
+        "tones": [
+          {
+            "score": 0.71647,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "⁉️",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "Se lo preguntan en USA, se lo preguntan en el mundo.",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "Seguirán",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "sin investigar y responder ??… https://t.co/utC7ZoGEkMRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "@PattyMurray: I call on every woman, man, mom, dad, sexual assault survivor, &amp; anyone else who cares about campus safety &amp; preventing se…bless your timeline.",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "likes charge, retweets cast!!!! #survivor https://t.co/ROMT4yBLoNRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "@historylvrsclub: 'Comanche' the only survivor of the Custer Massacre, by John C. H Grabill, 1887 https://t.co/ikNVhLjxdJRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "@survivorcbs: Check out what the castaways are doing before the #Survivor finale!",
+        "tones": [
+          {
+            "score": 0.788547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "👇RT @BreastAdvocate: DOWNLOAD THE BREAST ADVOCATE APP NOW!",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "Are you a #BreastCancer patient or survivor, at high risk of developing breast ca…The #Survivor Final 6 in order of who I WANT to win:",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "1- Davie",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "2- Kara",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "3- Nick",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "4- Angelina",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "5- Alison",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "6- MikeRT @russellhantz: Here it is y’all!",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Cheating on survivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "https://t.co/Z5rw3vg2Lj",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "#RT #survivor #cheatingI can’t believe the #survivor finale is already tonight!",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "I’m excited but also sad 😩Who ever wins tonight, it doesn’t matter as this was such a great season and big props on who ever edited it!",
+        "tones": [
+          {
+            "score": 0.6104,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.752532,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "#SurvivorFinale #SurvivorSurvivor Royale, the best survival game.",
+        "tones": [
+          {
+            "score": 0.719565,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "Do you have what it takes to be number 1? https://t.co/0vsGSoaSWoDear,",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "Lord.",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "I don't ask for much.",
+        "tones": [
+          {
+            "score": 0.965509,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "But if you're up there, please let there be a jet ski or skydiver on my televisio… https://t.co/ERsvE5xnzLMy",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "favorites from survivor season 37 https://t.co/0HVYHcbnXeRT",
+        "tones": [
+          {
+            "score": 0.577882,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "@FirstBook: A 100-Year-Old Holocaust Survivor on How Books Save Lives - https://t.co/C1tmxDF0Wi",
+        "tones": [
+          {
+            "score": 0.515627,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "https://t.co/dFbknqwYaCThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "#Survivor Final 6 in order of what I think their likelihood is to win:",
+        "tones": [
+          {
+            "score": 0.503286,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.61476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "1- Nick",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "2- Davie",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "3- Kara",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "4- Alison",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "5- Mike",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "6- AngelinaRT @QueenFairyMe: My heart broke for her in this moment.",
+        "tones": [
+          {
+            "score": 0.807227,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "She is a survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "She's a fighter.",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "And I love her for all that she is.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.874372,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "💖 @ParisHi…RT @historylvrsclub: 'Comanche' the only survivor of the Custer Massacre, by John C. H Grabill, 1887 https://t.co/ikNVhLjxdJHoy",
+        "tones": [
+          {
+            "score": 0.717883,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "se estrena un nuevo episodio de #SurvivorDavidvsGoliath, Solo quedan 7 sobrevivientes, La final está cada vez m… https://t.co/PDTzvjP4QZSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "Royale, the best survival game.",
+        "tones": [
+          {
+            "score": 0.701602,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "Do you have what it takes to be number 1? https://t.co/kxuXvO3lWrRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "@caseymaura: Christian is the reason you watch #survivor a true refreshing player.",
+        "tones": [
+          {
+            "score": 0.546117,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.672469,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "Angelina is the reason I want to burn my TV.RT @historylvrsclub: 'Comanche' the only survivor of the Custer Massacre, by John C. H Grabill, 1887 https://t.co/ikNVhLjxdJRT",
+        "tones": [
+          {
+            "score": 0.611,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "@SavinTheBees: A Jojo 20 player battle royale game just got announced for Summer 2019 for japan arcades called JoJo’s Bizarre Adventure:…RT @jessicalewis89: What an amazing season!🔥🔥 ",
+        "tones": [
+          {
+            "score": 0.777894,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "Big night ahead - first, the #SurvivorFinale then the Reunion!🌴😆🌴 Grab a seat and *smuggle*…RT @trustfundbaylee: ok ladies should i record a reaction video to the last 15 mins of survivor aka the winner revealed, just do a summary…I can't wait!!! Let's do this Jeff #jeffprobst #SurvivorFinale #Survivor https://t.co/enxzDCXDvZO",
+        "tones": [
+          {
+            "score": 0.872917,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "que eu noto é que as mulheres estão se ferrando em survivor pq ela não conseguem ficar unidas muito tempo.",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "Ou fic… https://t.co/E86ZBFcPxZRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "@TobyLevyShoah: As a Holocaust Survivor, this research breaks my heart.",
+        "tones": [
+          {
+            "score": 0.759773,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "1/3 of Europeans know little or nothing about the Holocaust.",
+        "tones": [
+          {
+            "score": 0.909883,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "Ple…RT @PattyMurray: I call on every woman, man, mom, dad, sexual assault survivor, &amp; anyone else who cares about campus safety &amp; preventing se…RT @survivorcbs: Here's @JeffProbst LIVE on the set of the #Survivor finale gearing up for what will be an EPIC night!",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "Don’t miss a second…One hour until the #Survivor finale/reunion!",
+        "tones": [
+          {
+            "score": 0.697698,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "I'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "so stoked!Just muted all things Survivor on Twitter for 24 hours.RT @nycscr: Hey guys, do you think I would make a good stocking stuffer???",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "I can squeeze in there!!!  ",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "Our silly girl Itashi is a 4 year o…@LastYearGame This game is what slasher games need to live up too.",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "Friday was fun but needed help and dedicated ser… https://t.co/q5BklqC3c7@KatrinaResists",
+        "tones": [
+          {
+            "score": 0.753296,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "@theNiteMadness @HollywoodDebi @bfosterls7 @Touch_My_Tweets @ResisterSis20 @Black2thBone… https://t.co/cFZmmGDjhqSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "Bias is a Big CX Measurement Risk https://t.co/VhzJ9aRNiU",
+        "tones": [
+          {
+            "score": 0.546184,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "#CXRT @survivorcbs: It all comes down to this.",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "The 2-hour finale of #Survivor is TONIGHT at 8/7c! Plus, the Live Reunion Show airs right after…'Comanche' the only survivor of the Custer Massacre, by John C. H Grabill, 1887 https://t.co/ikNVhLjxdJRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "@julienforts: I shit you not JoJo is getting a battle royale arcade game releasing next year in Japan.",
+        "tones": [
+          {
+            "score": 0.656788,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "“JoJo’s Bizarre Adventure: Last S…RT @DaltonRoss: Raise your hand if you’re excited for tonight’s #Survivor finale.",
+        "tones": [
+          {
+            "score": 0.79029,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "https://t.co/eB3EaCuF6fThinking",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "about #Survivor.",
+        "tones": [
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "I think either Davie or Nick will make it to the final three but I would be shocked if t… https://t.co/kgmyew2f0BDavie is FEELIN' it backstage.",
+        "tones": [
+          {
+            "score": 0.537523,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "#Survivor https://t.co/coKo43Sf91RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "@SurvivorQuotesX: You can’t give tribute to great moments from #Survivor finales without paying homage to the greatest jury moment of al…RT @PUBG: Survivor Pass: Vikendi brings with it new seasonally appropriate items, emotes and missions as well as our new coupon system.",
+        "tones": [
+          {
+            "score": 0.859475,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "See…Just realized we’re probably gonna get a sneak peek at the 3 legends returning next season during tonight’s finale.…",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "https://t.co/iQuJ8HcemhBefore",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "you try to tarnish the good name of Survivor aka the King of Reality TV, know that there are 37 seasons (and… https://t.co/8MttmwK2tMAlright",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "gotta put on sweats and write and settle in for Survivor.RT @survivorcbs: It all comes down to this.",
+        "tones": [
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "The 2-hour finale of #Survivor is TONIGHT at 8/7c! Plus, the Live Reunion Show airs right after…RT @BriCorridan: Last-minute plea to @JeffProbst—the well-deserved praise for #Survivor has mostly been due to the tremendous cast, so plea…RT @RepThomasMassie: Remarkably, it’s settled law that the police have no duty to protect.",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "A survivor of Columbine, who vigorously support…Consider yourself warned: if you don’t want the #SurvivorFinale spoiled, please mute me tonight.",
+        "tones": [
+          {
+            "score": 0.670204,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "If",
+        "tones": [
+          {
+            "score": 0.997482,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "you don’t want… https://t.co/g1072xhr5BCheck",
+        "tones": [
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "out what the castaways are doing before the #Survivor finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 103,
+        "text": "👇RT @PattyMurray: I call on every woman, man, mom, dad, sexual assault survivor, &amp; anyone else who cares about campus safety &amp; preventing se…Playing Eye Of The Tiger by Survivor https://t.co/KY1c7JhT2BFallout",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 105,
+        "text": "Cosplayer: @Smilesarebetter ",
+        "tones": []
+      },
+      {
+        "sentence_id": 106,
+        "text": "Taken at @SupanovaExpo Melbourne 2016",
+        "tones": []
+      },
+      {
+        "sentence_id": 107,
+        "text": "#falloutsurvivor #fallout… https://t.co/q6gI60jD8ERT",
+        "tones": [
+          {
+            "score": 0.536223,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.579367,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 108,
+        "text": "@SU2C: We’re grateful for @SurvivorCBS’s auction benefitting #StandUpToCancer!",
+        "tones": [
+          {
+            "score": 0.774283,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

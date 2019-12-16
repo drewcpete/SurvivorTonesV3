@@ -1,121 +1,31 @@
-require('dotenv').config();
-const fs = require('fs')
+var s13Tonejson = require("./toneData/s13toneText.json");
+var s14Tonejson = require("./toneData/s14toneText.json");
+var s15Tonejson = require("./toneData/s15toneText.json");
+var s16Tonejson = require("./toneData/s16toneText.json");
+var s17Tonejson = require("./toneData/s17toneText.json");
+var s18Tonejson = require("./toneData/s18toneText.json");
+var s19Tonejson = require("./toneData/s19toneText.json");
+var s20Tonejson = require("./toneData/s20toneText.json");
+var s21Tonejson = require("./toneData/s21toneText.json");
+var s22Tonejson = require("./toneData/s22toneText.json");
+var s23Tonejson = require("./toneData/s23toneText.json");
+var s24Tonejson = require("./toneData/s24toneText.json");
+var s25Tonejson = require("./toneData/s25toneText.json");
+var s26Tonejson = require("./toneData/s26toneText.json");
+var s27Tonejson = require("./toneData/s27toneText.json");
+var s28Tonejson = require("./toneData/s28toneText.json");
+var s29Tonejson = require("./toneData/s29toneText.json");
+var s30Tonejson = require("./toneData/s30toneText.json");
+var s31Tonejson = require("./toneData/s31toneText.json");
+var s32Tonejson = require("./toneData/s32toneText.json");
+var s33Tonejson = require("./toneData/s33toneText.json");
+var s34Tonejson = require("./toneData/s34toneText.json");
+var s35Tonejson = require("./toneData/s35toneText.json");
+var s36Tonejson = require("./toneData/s36toneText.json");
+var s37Tonejson = require("./toneData/s37toneText.json");
+var s38Tonejson = require("./toneData/s38toneText.json");
+// var s39json = require("./toneData/s39toneText.json");
 
-// Twitter data to string for each season
-
-function tweetToString(json) {
-    var seasonText = "";
-    console.log("length"+json.results.length);
-    for (let i = 0; i < json.results.length; i++) {
-        const text = json.results[i].text;
-        // console.log(text)
-        seasonText = seasonText + text;
-    }
-    console.log("season" +seasonText)
-    return seasonText;
+function getFear(json){
+    
 }
-
-var s13json = require("./twitterData/s13tweetData.json");
-var s14json = require("./twitterData/s14tweetData.json");
-var s15json = require("./twitterData/s15tweetData.json");
-var s16json = require("./twitterData/s16tweetData.json");
-var s17json = require("./twitterData/s17tweetData.json");
-var s18json = require("./twitterData/s18tweetData.json");
-var s19json = require("./twitterData/s19tweetData.json");
-var s20json = require("./twitterData/s20tweetData.json");
-var s21json = require("./twitterData/s21tweetData.json");
-var s22json = require("./twitterData/s22tweetData.json");
-var s23json = require("./twitterData/s23tweetData.json");
-var s24json = require("./twitterData/s24tweetData.json");
-var s25json = require("./twitterData/s25tweetData.json");
-var s26json = require("./twitterData/s26tweetData.json");
-var s27json = require("./twitterData/s27tweetData.json");
-var s28json = require("./twitterData/s28tweetData.json");
-var s29json = require("./twitterData/s29tweetData.json");
-var s30json = require("./twitterData/s30tweetData.json");
-var s31json = require("./twitterData/s31tweetData.json");
-var s32json = require("./twitterData/s32tweetData.json");
-var s33json = require("./twitterData/s33tweetData.json");
-var s34json = require("./twitterData/s34tweetData.json");
-var s35json = require("./twitterData/s35tweetData.json");
-var s36json = require("./twitterData/s36tweetData.json");
-var s37json = require("./twitterData/s37tweetData.json");
-var s38json = require("./twitterData/s38tweetData.json");
-// var s39json = require("./twitterData/s39tweetData.json");
-
-
-var s13Text = tweetToString(s13json);
-var s14Text = tweetToString(s14json);
-var s15Text = tweetToString(s15json);
-var s16Text = tweetToString(s16json);
-var s17Text = tweetToString(s17json);
-var s18Text = tweetToString(s18json);
-var s19Text = tweetToString(s19json);
-var s20Text = tweetToString(s20json);
-var s21Text = tweetToString(s21json);
-var s22Text = tweetToString(s22json);
-var s23Text = tweetToString(s23json);
-var s24Text = tweetToString(s24json);
-var s25Text = tweetToString(s25json);
-var s26Text = tweetToString(s26json);
-var s27Text = tweetToString(s27json);
-var s28Text = tweetToString(s28json);
-var s29Text = tweetToString(s29json);
-var s30Text = tweetToString(s30json);
-var s31Text = tweetToString(s31json);
-var s32Text = tweetToString(s32json);
-var s33Text = tweetToString(s33json);
-var s34Text = tweetToString(s34json);
-var s35Text = tweetToString(s35json);
-var s36Text = tweetToString(s36json);
-var s37Text = tweetToString(s37json);
-var s38Text = tweetToString(s38json);
-// var s39Text = tweetToString(s39json);
-
-var allText = [s13Text, s14Text, s15Text, s16Text, s17Text, s18Text, s19Text,s20Text,s21Text,s22Text,s23Text,s24Text,s25Text,s26Text,s27Text,s28Text,s29Text,s30Text,s31Text,s32Text,s33Text,s34Text,s35Text,s36Text,s37Text,s38Text]
-let textCount= 0;
-for (let i = 0; i < allText.length; i++) {
-    textCount +=allText[i].length 
-    console.log(allText[i].length)
-          
-}
-console.log(textCount)
-// console.log(s13Text)
-
-// Watson Tone Analyzer
-const ToneAnalyzerV3 = require('ibm-watson/tone-analyzer/v3');
-const { IamAuthenticator } = require('ibm-watson/auth');
-
-const toneAnalyzer = new ToneAnalyzerV3({
-  version: '2017-09-21',
-  authenticator: new IamAuthenticator({
-    apikey: process.env.APIKEY,
-  }),
-  url: 'https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/0d09ef0e-0aad-4d91-9a39-31d817d93616',
-});
-let rawTone = "";
-function Analyze(tweetArray){
-    for (let i = 0; i < allText.length; i++) {
-        const toneParams = {
-            toneInput: {'text': allText[i]},
-            contentType: 'text/plain',
-        } ;
-        toneAnalyzer.tone(toneParams)
-        .then(toneAnalysis => {
-             rawTone = rawTone + (JSON.stringify(toneAnalysis, null, 2));
-            fs.writeFile("tweetTones")
-        })
-
-        .catch(err => {
-            console.log("error", err)
-        });
-        
-    }
-    return rawTone
-}
-let toneDataJSON = Analyze(allText);
-fs.writeFile("tweetTone.json", toneDataJSON, (err) =>{
-    if(err) throw err;
-})
-
-// function AssignTone()

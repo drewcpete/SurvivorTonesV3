@@ -1,0 +1,1070 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "18501",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "426b24cacd6f66aea8d669c4a4ecdcf9",
+    "x-dp-watson-tran-id": "426b24cacd6f66aea8d669c4a4ecdcf9",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "2710",
+    "date": "Mon, 16 Dec 2019 05:50:07 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.603971,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.552522,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.542098,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Survivor finale night.The only thing I'm more hyped for than GOML is the survivor finale.RT @BonnieSilkman: Here’s the sweet survivor.",
+        "tones": [
+          {
+            "score": 0.639663,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "He’s doing great!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "The vet says she’s never seen anything like this.",
+        "tones": [
+          {
+            "score": 0.528654,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "If anyone knows who used…The bad outweighs the good and I constantly remind myself how evil the #Narcex #narcissist really is, they have no… https://t.co/WOCxYgjjsE@BobbyKent_",
+        "tones": [
+          {
+            "score": 0.796123,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "That's fantastic, Bobby!",
+        "tones": [
+          {
+            "score": 0.807632,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "Give her a big hug from me.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "I'm a survivor too, 9 years after the diagnosis.",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "I… https://t.co/UofCkTKuxX#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "finale w ginger WEEEEEE #TeamRick pls n thanks https://t.co/0CZcU09TAnRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "@JamilSmith: The @ACLU filed a lawsuit today to block the abortion ban that is not yet in effect in my native Ohio.",
+        "tones": [
+          {
+            "score": 0.524766,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.847497,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "If they don’t succee…#Survivor I’ve been rooting for Lauren all game but I don’t think anyone will vote for her.",
+        "tones": [
+          {
+            "score": 0.696092,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Still hoping Joe gets b… https://t.co/rvfbHtkUsOtime",
+        "tones": [
+          {
+            "score": 0.551381,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "for Lauren to win! 😌 #SurvivorRT @CYSurvist: SURVIVOR 2019",
+        "tones": [
+          {
+            "score": 0.805826,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "15/05 - TOTAL STATISTIC",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "@CYSurvist #SurvivorGreece #Survivor2019 #survivorekstra #survivorpanaroma #Yusuf #At…It’s time... #survivor finale!!!#Survivor #Survivor #Survivor #Survivor #Survivor #SurvivorI do hope they announce the winner fairly early in the program, not delay the winning announcement until 10:55 or so.",
+        "tones": [
+          {
+            "score": 0.673708,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.727988,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "#SurvivorSeason finale time!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Here we go!",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "Mute me now if you are unable to watch at this time.",
+        "tones": [
+          {
+            "score": 0.83582,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "Consider yourselves warned!! #Survivor!I'm looking forward to the finale of #SurvivorEdgeofExtinction  in a few minutes.",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Been a great season.",
+        "tones": [
+          {
+            "score": 0.881019,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "I",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "see plent… https://t.co/kgl0nZrBZAPreviously",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "on #Survivor... https://t.co/4S6UXX2pTGTime",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "for the #Survivor finaleSURVIVOR FINALE NIGHT 🔥🔥🔥 LET’S GOOOOOO !!!! #EdgeOfExtinction #TeamLauren #TeamVictoria #TeamAubryTÁ COMEÇANDO GALERAAAAAAAA #SurvivorEDGE OF EXTINCTION FINALE TIME, been anxious as hell about this all freakin week and now it's time to crown another… https://t.co/YQR1PGaQDSfoco",
+        "tones": [
+          {
+            "score": 0.560832,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "#SurvivorTime for @JeffProbst and the Survivor Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "Lets's go Devons!! #homeTownBlacksburg #SurvivorFinale #SurvivorRT @LiveAction: A 5-month-old baby boy was born alive after a botched abortion and suffered for 10 hours on a cold table before he died.",
+        "tones": [
+          {
+            "score": 0.652375,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "Th…Survivor finale time!!#survivor finale time!! https://t.co/JvN6tWiI8ABroke",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "8100 on Earth Forty-Two.",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "And now, time for Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "And pizza.Finale — watching SurvivorRT @AndyHerren: What I want to see happen on tonight’s #Survivor finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "And I want it to happen early.",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "https://t.co/5NlCqC15J7Cant",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "wait for #survivor finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "Go devens!!!!!Finale night!",
+        "tones": [
+          {
+            "score": 0.538463,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "#Survivor@3onyourside you idiots we don't want to watch you people, give us survivor, I hate you people#Survivor..Reem you're a hardass but I can appreciate you 😘If Rick wins, then this season's edit is super lopsided.",
+        "tones": [
+          {
+            "score": 0.526965,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "In fact, it's pretty much guaranteed to be super lopsided… https://t.co/eccobb6aowRT",
+        "tones": [
+          {
+            "score": 0.568032,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "@JamilSmith: The @ACLU filed a lawsuit today to block the abortion ban that is not yet in effect in my native Ohio.",
+        "tones": [
+          {
+            "score": 0.524766,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.847497,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "If they don’t succee…#Survivor finale time!",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "I'm usually so, so excited, and tonight I'm totally fascinated with what might happen, since… https://t.co/SeBaxFfMlr#Survivor",
+        "tones": [
+          {
+            "score": 0.74504,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Here we gooooAlso regardless who wins, remember we’re a family twitter, so we’ll most likely stand together in our disdain!",
+        "tones": [
+          {
+            "score": 0.723345,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.704683,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "#SurvivorRT @jeff_kaye: “’This motion is 1st time a survivor of the CIA torture program has moved to suppress their statements obtained by use of to…OH SHIT IT'S THE FINALE- #Survivorthe only two outcomes ill accept from tonight’s #survivor finale: joe comes back and wins or devens winning.",
+        "tones": [
+          {
+            "score": 0.529551,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "that… https://t.co/IOFpderDKNVAI",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "COMEÇAR MDSSSS #SurvivorRT @NBCSRedskins: In this NEW Redskins Talk, \\\"Survivor\\\" expert and mega-fan @DaltonRoss joins the hosts to analyze Haskins, the O-line and…Alright ladies and gentlemen, thinkers and dreamers, we're coming back for the evening stream.",
+        "tones": [
+          {
+            "score": 0.719247,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "We'll be doing some… https://t.co/CxnPLS7RuyIt’s",
+        "tones": [
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "survivor timeeeeeee 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼RT @JamilSmith: The @ACLU filed a lawsuit today to block the abortion ban that is not yet in effect in my native Ohio.",
+        "tones": [
+          {
+            "score": 0.552075,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "If they don’t succee…It’s almost Time  #Survivor https://t.co/lRXH3AsnHb#survivor",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "#SurvivorFinale here we go y’allWe are locked out of twitter so please retweet and let people know I’m live tweeting survivor here now.",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "#Survivor #EdgeOfExtinction#survivor live blogging The (TV) Show Must Go On...: Survivor 38: Edge of Extinction - Season Finale Bl... https://t.co/YDQMG1Bqn9The",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Terror Within: A Survivor's Tale - The Tower - The Tower https://t.co/XNHY5xSLxBWHO is ready for @Survivor?",
+        "tones": [
+          {
+            "score": 0.56731,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "I am so excited &amp; Can not wait!!!",
+        "tones": [
+          {
+            "score": 0.938194,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "Here we go! 💯💃😁@keithtweetsalot would like them to HOOK UP! #Survivor #Survivor38 https://t.co/QX9mWVS22lok,",
+        "tones": [
+          {
+            "score": 0.753538,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "here we gooooo",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "3-hr season 38 finale of #SURVIVOR!!!!!",
+        "tones": [
+          {
+            "score": 0.502535,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "I will keep #METS on my laptopRT @th3j35t3r: The @ACLU filed a lawsuit today to block the abortion ban that is not yet in effect in Ohio.",
+        "tones": [
+          {
+            "score": 0.560285,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.793846,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "If they don’t succeed, people l…RT @JamilSmith: The @ACLU filed a lawsuit today to block the abortion ban that is not yet in effect in my native Ohio.",
+        "tones": [
+          {
+            "score": 0.66863,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "If they don’t succee…RT @survivorcbs: Get comfy!",
+        "tones": [
+          {
+            "score": 0.651142,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "The epic 3-hour finale of #Survivor: Edge of Extinction kicks off at 8/7c.",
+        "tones": [
+          {
+            "score": 0.548309,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "RETWEET if you'll be watching.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "https…Buckle up... three hours of #Survivor REEEEEEEEEEEEEEEEEEEEEMwell y’all, its been a wild ride but here’s my last #Survivor live tweet thread 🥰 ",
+        "tones": [
+          {
+            "score": 0.564172,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "#TeamLauren https://t.co/cMzVUD52Ct#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "I like everybody left, but the troll in me is going to be more than a little disappointed if Rick doesn’t win....As a melanoma survivor, I don't condone this.",
+        "tones": [
+          {
+            "score": 0.727715,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "As a fan of entertainment, this is spectacular @AriyaDaivariWWE https://t.co/sAigkhltSMRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "@shannonrwatts: Nine years ago today, Kedrick Ali Morrow Jr. was shot and killed one month before his high school graduation.",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Thinking…@Geminis_Angell @Survivor_Reddit @survivorcbs Got my tweetin fingers ready, my #raspberrysour from @OtterCreekBeer… https://t.co/3JHHllMIbK#SURVIVOR",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "FINALE TIME!!!!Just went out and got a pizza from blaze, fries from Wendy’s, and a Baja blast from Taco Bell, and I timed it perfe… https://t.co/EDIg37fPFqHe's",
+        "tones": [
+          {
+            "score": 0.618788,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "ready for #Survivor #survivorfinale #DogsofTwitter https://t.co/4WIvQs4WezWho",
+        "tones": [
+          {
+            "score": 0.568654,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "wins #Survivor tonight?",
+        "tones": [
+          {
+            "score": 0.713423,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "#RHAPThis finale show is going to be the best one they had in a while #SurvivorRT @RockyForKy: \\\"As a 24-year cancer survivor, I understand the necessity of medical marijuana.",
+        "tones": [
+          {
+            "score": 0.561871,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "I was a co-sponsor of a bill last session t…I still say Lauren will win.",
+        "tones": [
+          {
+            "score": 0.512984,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "She’s got that whole winner’s edit going on and that’s ok with me.",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "Her or Gavin.",
+        "tones": [
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "BUT i… https://t.co/LV9Q3R6E0GThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "time is here....#Survivor finale night!!!🍍RT @LiveAction: A 5-month-old baby boy was born alive after a botched abortion and suffered for 10 hours on a cold table before he died.",
+        "tones": [
+          {
+            "score": 0.638327,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "Th…RT @Thrones_Memes: Interview from a King’s Landing survivor 😂",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "#GameOfThrones https://t.co/lyCqY44h2ji'd",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "say something about Devens, but I accidentally tweeted the wrong amount of key words in order a few weeks ago w… https://t.co/u2bMMJQL1fMy",
+        "tones": [
+          {
+            "score": 0.609856,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "prediction for tonight is Lauren because I don’t believe Rick’s luck is going to last him until the end #Survivor #SurvivorFinaleIt is time for the 3 hour season finalé of #Survivor... Hoping #RickDevans doe not win #CBSRT @ResiFacts: 4th Survivor mode was conceived on a day that #ResidentEvil 2 (1998) director Hideki Kamiya was late to the office.",
+        "tones": [
+          {
+            "score": 0.675867,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.515711,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "He found…Alright, @survivorcbs, let's do this.",
+        "tones": [
+          {
+            "score": 0.838593,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "#SurvivorCan't wait for @survivorcbs finale tonight.",
+        "tones": [
+          {
+            "score": 0.579725,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "Guess I'll be staying up late to watch &amp; not be on here for spoilers.",
+        "tones": [
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "M… https://t.co/BrYv4tsMgERT",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "@Thrones_Memes: Interview from a King’s Landing survivor 😂",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "#GameOfThrones https://t.co/lyCqY44h2j@survivorcbs",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "cheering for either Rick, Lauren, Wentworth, David, Joe or Aubry to win!!",
+        "tones": [
+          {
+            "score": 0.725617,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "So many good players!!… https://t.co/EQmuTPAqi4Hey",
+        "tones": [
+          {
+            "score": 0.630821,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "@3onyourside You know what would be nice??",
+        "tones": [
+          {
+            "score": 0.61301,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "If you don't interrupt the #Survivor finale by droning on and on for… https://t.co/mJOWq9O30IIt's",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "#Survivor time!!! Finale, baby.",
+        "tones": [
+          {
+            "score": 0.605401,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "Who do you think will win?",
+        "tones": [
+          {
+            "score": 0.767504,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "https://t.co/Hu8U2nXKv7@AshsDreamboard",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "What if Wendy didn't play to win Survivor but to get that Sia money?",
+        "tones": [
+          {
+            "score": 0.532007,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "Urgh, her mind amazes me, she'… https://t.co/LR4N6aCfNyRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 102,
+        "text": "@aubrybracco: Who’s pumped?! #Survivor https://t.co/KnZ9RGCPPcI",
+        "tones": [
+          {
+            "score": 0.519814,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "don’t even know who I’m rooting for on #Survivor anymore.",
+        "tones": [
+          {
+            "score": 0.655467,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 104,
+        "text": "I guess Gavin because of the pineapple shirt?Survivor finale here we go.",
+        "tones": [
+          {
+            "score": 0.51489,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 105,
+        "text": "#SurvivorEdgeofExtinction #teamdevensIn these divided times, I would like to announce that I am pro-@RickDevensWGXA #Survivor #SurvivorFinale #LaCheeserie@survivor_feral @TobiasMcStoicks @PlayWarframe i have an i7 + 1080",
+        "tones": []
+      },
+      {
+        "sentence_id": 106,
+        "text": "its not slow",
+        "tones": []
+      },
+      {
+        "sentence_id": 107,
+        "text": "discord is the literal only thing thats slow AF on it@TuitaBrenoso @danilo_nunes Aqui nesse post tem os mais conhecidos.",
+        "tones": []
+      },
+      {
+        "sentence_id": 108,
+        "text": "https://t.co/2vqTwDbhK4RT",
+        "tones": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,944 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "15174",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "9f8cda529f18fc6dc2f6d1f1568f4a75",
+    "x-dp-watson-tran-id": "9f8cda529f18fc6dc2f6d1f1568f4a75",
+    "x-edgeconnect-midmile-rtt": "57",
+    "x-edgeconnect-origin-mex-latency": "2104",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.624309,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"‘Survivor: Blood vs. Water’ interview: Tyson Apostol on winning, his injury, and his alliance http://t.co/HYhPJoEWKP",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "#SurvivorTyson Apostol crowned 'Survivor: Blood vs. Water' champion, defeating Monica ... - Reality TV World.. http://t.co/4LrVa1zeDa",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "#Survivor'Survivor: Blood vs. Water' ends tonight with two-hour finale (new photos, video) - The Birmingham New.. http://t.co/YHOHtpVcqN",
+        "tones": [
+          {
+            "score": 0.668455,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "#Survivor'Survivor: Blood vs. Water' crown a sole survivor - Contra Costa Times.. http://t.co/Y8JrqEoEfW",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "#Survivor'Survivor: Blood vs. Water' Finale Recap: A Hero in Villain's Clothing - BuddyTV.. http://t.co/BmQmX3ZN4S",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "#Survivor'Survivor: Blood vs. Water' Winner Revealed - Hollywood Reporter.. http://t.co/WA80SKJlE2",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "#SurvivorIn 'Survivor: Blood vs. Water' finale, the notorious Colton Cumbie finds a ... - The Birmingham News -.. http://t.co/VnwO4oO0gA",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "#Survivor'Survivor: Blood vs. Water' Winner Reveals Plans for the $1 Million Prize - Hollywood Reporter.. http://t.co/Bsu1eQN5Cm",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "#SurvivorWho Won Survivor: Blood vs. Water?",
+        "tones": [
+          {
+            "score": 0.663652,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "- TV Guide.. http://t.co/P2z9mEcOQe",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "#SurvivorSurvivor: Blood vs. Water - (some people at) Ponderosa: http://t.co/wuI7OCih1R",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "via @youtube +ίντριγκα Vytas@10kiwigirl @v_verite  'Survivor': Monica on being slammed at the final Tribal Council -- 'It hurt me' http://t.co/KtCagjDPD1Survivor:",
+        "tones": [
+          {
+            "score": 0.50491,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Blood vs. Water Finale: Find Out Who Won Season 27! http://t.co/6d0sOg9X07RT",
+        "tones": [
+          {
+            "score": 0.808637,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "@EW: 'Survivor': Gervase explains why he thought he could win http://t.co/dqJ6X0WDspRT",
+        "tones": [
+          {
+            "score": 0.52575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.928936,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "@Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.725715,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "h…Survivor: Blood vs. Water Season Finale http://t.co/teTkwOXi6sRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "@robcesternino: Hopefully all your #SurvivorFinale questions will be answered in my Fun-Loving Interviews with the #Survivor Final 7: ht…Survivor: Blood vs. Water - From Winner To Writer: http://t.co/eYALgMsVlh",
+        "tones": [
+          {
+            "score": 0.821134,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "via @youtubeRT @realitytvworld: Check out the first part of our interview with #Survivor winner @TysonApostol http://t.co/zbhrWazUrcCheck",
+        "tones": [
+          {
+            "score": 0.650094,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.743682,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "out the first part of our interview with #Survivor winner @TysonApostol http://t.co/zbhrWazUrcRT",
+        "tones": [
+          {
+            "score": 0.658085,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "@Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.725715,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "h…RT @DaltonRoss: Did you think I wouldn't have an #Survivor exit interview with Gervase?",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "DON'T LET THAT FOOL YOU!!!!",
+        "tones": [
+          {
+            "score": 0.574577,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "Here it is: http://t.co…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "@Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.725715,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "h…RT @Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.699616,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "h…RT @Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.699616,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "h…'Survivor' finale Q&amp;A: Tina as 'hands down' winner?",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "http://t.co/W2tcarHnYg#UCWRadio",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "'Survivor' finale Q&amp;A: Tina as 'hands down' winner?",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "http://t.co/BS1gq4g2x3",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "#entertainmentSurvivor Blood VS Water Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "Whooo! #BestRealityShow http://t.co/zwkgSQeCwh\\\"‘Survivor’:",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "Gervase explains why he thought he could win\\\" http://t.co/LJakUCCaJc",
+        "tones": [
+          {
+            "score": 0.549608,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.961411,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "#tvshows'Survivor: Blood vs. Water' crowns a sole survivor http://t.co/KC4lh5p4rsRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "@EW: 'Survivor': Gervase explains why he thought he could win http://t.co/dqJ6X0WDsp'Survivor:",
+        "tones": [
+          {
+            "score": 0.52575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.909883,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "Blood vs. Water': Tyson Apostol explains how 'fate was on my side ... http://t.co/RdI84JxDrk@10kiwigirl",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "@v_verite 'Survivor: Blood vs. Water': Tyson Apostol explains how 'fate was on my side every single step' http://t.co/UnJAuEHT6LRT",
+        "tones": [
+          {
+            "score": 0.6821,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "@EW: 'Survivor': Gervase explains why he thought he could win http://t.co/dqJ6X0WDspRT",
+        "tones": [
+          {
+            "score": 0.52575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.928936,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "@EW: 'Survivor': Gervase explains why he thought he could win http://t.co/dqJ6X0WDspRT",
+        "tones": [
+          {
+            "score": 0.52575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.928936,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "@EW: 'Survivor': Gervase explains why he thought he could win http://t.co/dqJ6X0WDspRT",
+        "tones": [
+          {
+            "score": 0.52575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.928936,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "@Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.725715,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "h…RT @robcesternino: To update an earlier item, all the #Survivor exit interviews are now playing as they should in the new podcast: http://t…To update an earlier item, all the #Survivor exit interviews are now playing as they should in the new podcast: http://t.co/oLSU0qBTvDRT",
+        "tones": [
+          {
+            "score": 0.720214,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.636672,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "@EW: 'Survivor': Gervase explains why he thought he could win http://t.co/dqJ6X0WDsp'Survivor':",
+        "tones": [
+          {
+            "score": 0.52575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.909883,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "Gervase explains why he thought he could win http://t.co/dqJ6X0WDspRT",
+        "tones": [
+          {
+            "score": 0.55274,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.961411,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "@DaltonRoss: Did you think I wouldn't have an #Survivor exit interview with Gervase?",
+        "tones": [
+          {
+            "score": 0.821913,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "DON'T LET THAT FOOL YOU!!!!",
+        "tones": [
+          {
+            "score": 0.574577,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "Here it is: http://t.co…Did",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "you think I wouldn't have an #Survivor exit interview with Gervase?",
+        "tones": [
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "DON'T LET THAT FOOL YOU!!!!",
+        "tones": [
+          {
+            "score": 0.574577,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "Here it is: http://t.co/heUbTMooxD‘Survivor’:",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "Gervase explains why he thought he could win: Gervase Peterson had “early boot” written all over h... http://t.co/hJoPmChZ7W‘Survivor’:",
+        "tones": [
+          {
+            "score": 0.500722,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.747994,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "Gervase explains why he thought he could win: Gervase Peterson had “early boot” written all over h... http://t.co/BwqEcwE8Cm‘Survivor’:",
+        "tones": [
+          {
+            "score": 0.500722,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.747994,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "Gervase explains why he thought he could win: [ew_image url=\\\"http://t.co/BVyUs6lHVy... http://t.co/mMIfuth7so‘Survivor’:",
+        "tones": [
+          {
+            "score": 0.909883,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "Gervase explains why he thought he could win: [ew_image url=\\\"http://t.co/Zh4sAGsvkX... http://t.co/nsClpZUIGERT",
+        "tones": [
+          {
+            "score": 0.928936,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "@Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.725715,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "h…RT @Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": [
+          {
+            "score": 0.580993,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "http://t.co…'Survivor'",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "crowns its 27th champion: \\\"Survivor: Blood vs. Water\\\" was full of surprises this ... http://t.co/ZSFnSJtKEI",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "#parents #halifaxRT @Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.669614,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Watch his winning moment here: http://t.co/U2FZgHjYwN",
+        "tones": [
+          {
+            "score": 0.619706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "h…RT @Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": [
+          {
+            "score": 0.580993,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "http://t.co…Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "Blood vs Water! :)) #NowWatchingRT @Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "http://t.co…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "@Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "http://t.co…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "@Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "http://t.co…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "@Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "http://t.co…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "@Survivor_Tweet: On the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "http://t.co…On",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "the live reunion show the castaways reunited to discuss the drama from this season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "Watch it again here!",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "http://t.co/qkd2ngN1ZH",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "#SurvivorRT @Survivor_Tweet: RT to congratulate Tyson on winning #Survivor: Blood vs. Water!",
+        "tones": [
+          {
+            "score": 0.732862,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

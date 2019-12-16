@@ -1,0 +1,768 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "14751",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "441d67138f81d015daa4351112e4ee1a",
+    "x-dp-watson-tran-id": "441d67138f81d015daa4351112e4ee1a",
+    "x-edgeconnect-midmile-rtt": "52",
+    "x-edgeconnect-origin-mex-latency": "2967",
+    "date": "Mon, 16 Dec 2019 05:50:07 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.630047,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"TV Tonight: 'Survivor' crowns its 32nd champion; 'Empire' goes out with a bang: WATCH THIS: \\\"Survivor\\\" (8 p.m... https://t.co/tR4yQZXKYQ@_ecesemih",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "sağolll  sen soyleyince hemen kullandım  😉 #Survivor https://t.co/ygQWOtxuSFBioPortfolio",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "News 911 Survivor Tree to be Planted at Mercy Hospital Joplin: JOPLIN Mo.",
+        "tones": [
+          {
+            "score": 0.622672,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "May ... https://t.co/FmBT0Ima8a",
+        "tones": [
+          {
+            "score": 0.99997,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "BioPortfolio NewsYolanda survivor is new 'Tawag ng Tanghalan' champ https://t.co/2L1CirFmWc",
+        "tones": [
+          {
+            "score": 0.510997,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "https://t.co/9mMo1xN3ZIRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "@FeyzaBasyigit_: #Survivor ",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "Hakan; ",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "\\\" Serkaya göre en az 2 Gömlek daha saygılı Atakanla Semih \\\" https://t.co/iH6zvqXmu5RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "@fatma8580uk: Yaaa bide bora vardı milyarlar harcayan ne dalaveriler gördü bu gözler neeee #Survivor  https://t.co/8YONOkPuKUEzgiciler",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "serkayı savunmuyor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Bi tane ezgi serkay sayfası var o savunuyr ordanda serkaycılar bol rt yapıyr #survivor https://t.co/fmgEDjeNLlRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "@avataristhatun: Atakanın ne dediğini anlamayan insanlar yanlış yerlere çekmeyin 👊 #Survivor https://t.co/Vr83UnyxDURT",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "@SerkayTutuncuF: 1bayan 1 erkegin gucunu ankete soru sormak kadar gerizekali olmak nasil bir seydir aceba?",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "@HakanHatipoglu #survivor htt…RT @DemetAkalin: Survivor panorama daki konusan seyirciyi biri acil tv programi yapsin aklibasinda konusan tek kisi o sanirim #survivorpano…Survivor Gizem'den zehir zemberek açıklamalar!",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "https://t.co/B10dyXipVX",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "@survivorturkiye",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "@tv8 @acunilicali @Acuncom https://t.co/wu5FE6FHpBRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "@survivorcbs: First Look Photos: Who will be named the winner of #Survivor #KaohRong?https://t.co/jvFZ3TJ1Zu",
+        "tones": [
+          {
+            "score": 0.541008,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "https://t.co/a9lMcsCdaLRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "@ABSCBNNews: Yolanda survivor is new 'Tawag ng Tanghalan' champ https://t.co/pB9wD3G2dZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "https://t.co/g1wyIqtneqRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "@p_namtae: วงเกาหลีที่พึ่งเดส่วนมาก็มาจาก survivor ทั้งนั้นแฟนคลับส่วนหนึ่งก็มาจากรายการ ไม่ต้องเริ่มต้นใหม่ตั้งแต่แรกBiri vardı bağırırsan dinlerler die fırça çekmişti kurreye unutuldu gitti bak kibar kıbar konuşanı demo taktir etti olması gereken #SurvivorRT @olug_sedat: #Survivor @SvrPanorama ",
+        "tones": [
+          {
+            "score": 0.511528,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": " Yunusu objektifliğinden dolayı en son takdir edebilecek isim sensin POLYANA 👎RT @Persona_Central: SMT: Devil Survivor 2: Record Breaker (3DS) is $24.99 (from $39.99) until May 30, 2016.",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "- https://t.co/ZgSop5VktK",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "http…HAPPY #SURVIVOR FINALE DAYRT @0_whocares: Ezgi : \\\"Atakan hiç bir zaman lider olmalıyım demedi çünkü egosu yok.",
+        "tones": [
+          {
+            "score": 0.736667,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Ama duruşu ve karakteri diğerlerinden üstteydi.",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "SES…@EnoughAbuseUK I couldn't agree more.",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "As an Incest survivor I found talking bout itwas &amp; STILL is taboo its seen as the darkest of subjectsRT @ttbisurvivor: The courageousness of you, the #TBI Survivor!",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "My blog at https://t.co/Q3CoI4XPyP",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "#braininjury",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "@caregivers #abi https://t.…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "@columbia_fr: #JeudiColumbia 5 albums #Survivor de @stuckinthesound à gagner aujourd’hui !",
+        "tones": [
+          {
+            "score": 0.530423,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "💿 🎁",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "RT + Suivez-nous pour participer https://…I liked a @YouTube video https://t.co/6e7RHVX16A",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Rocky III (FULL INTRO) with \\\"The Eye Of The Tiger\\\" by SurvivorRT @entarzzyorumlar: Kırmızı renk olmuşsun semik hayırdır kanki?",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "Ateşin mi var ?",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "Ahahshshsh #Survivor https://t.co/OfXSOSURc6RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "@DemetAkalin: Survivor panorama daki konusan seyirciyi biri acil tv programi yapsin aklibasinda konusan tek kisi o sanirim #survivorpano…RT @avataristhatun: Tuğba Atakanın üstüne yürüdüğü zaman ne kadar saygılı olduğunu hatırlıyorsunuz dimi?",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "Serkaya bakar mısın terbiyesiz kay…@Survivor_Tweet @Survivor_S32 @JeffProbst Today is Bitter sweet for #Survivor Fans Excited for Final tribal but sad this season is over.#Survivor",
+        "tones": [
+          {
+            "score": 0.640948,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "#SurvivorPanorama ",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "1⃣ kadının 1⃣inçi ",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "olması 👏👏",
+        "tones": [
+          {
+            "score": 0.654305,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "Zaten gönülsüzderde",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "erkek Yok ",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "hepsi ⚽️ https://t.co/m9jWSyHBrFI",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "loved this station that I discovered on #Pandora Hidden Beach Records.",
+        "tones": [
+          {
+            "score": 0.858323,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "It's got some fabulous jazz compositions.",
+        "tones": [
+          {
+            "score": 0.736617,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "https://t.co/ijNl0QCyJN🆕",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Corsair Flash Survivor Stealth 3.0 512 Go https://t.co/yeTHjQsPLr",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "#NewsLDLC https://t.co/fBZeuOjc9zatakancılar",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "ve semuşçular artık yan ekrandan nagihana oy bile veriyo.",
+        "tones": [
+          {
+            "score": 0.772752,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "Bunlar nagihanın askeri oldular artık #survivorYan ekrana sor pinini o söyler  #SurvivorDesignated Survivor starring #NataschaMcElhone looks EPIC.",
+        "tones": [
+          {
+            "score": 0.831945,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "https://t.co/VMDPrL1Eq9RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "@francesharris0n: #lka 09 war survivor: \\\"Each day we lived between life and death with the injured &amp; corpses.",
+        "tones": [
+          {
+            "score": 0.784733,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "My mother was injured whil…RT @ABSCBNNews: Yolanda survivor is new 'Tawag ng Tanghalan' champ https://t.co/pB9wD3G2dZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "https://t.co/g1wyIqtneq\\\"On",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Being . . . .",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "A Breast Cancer Survivor\\\" on @LinkedIn https://t.co/bcjQdTGkTGMy",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "Soul Surviving Maurice White Tribute on Nuwave Radio  - Enjoy! https://t.co/UXTV3n3pHq",
+        "tones": [
+          {
+            "score": 0.854482,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "https://t.co/13441LCufU@sarahfpurcell",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "would you like to cover this #mentalhealth story?https://t.co/iJAruzv6h3",
+        "tones": [
+          {
+            "score": 0.52999,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "We have just 5 days left to make a huge impact!@safirethealba",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "I just wanted to congratulate you for being a great survivor whooooh👏 and thank you for the updates here☺!We have a holocaust survivor coming to speak tomorrow, Anne frankly I'm excitedÖyle alırız aklını pininide unutursun pungunuda akıllı ol #SurvivorTuğba ne dedi öyle yarım kalıyor falan 😄 #survivorDesignated Survivor 1. Sezon 2. Tanıtım Fragmanı https://t.co/CJONXpLRtiRT",
+        "tones": [
+          {
+            "score": 0.840289,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "@jimmolineaux: My favorite event on the @OTWupdates schedule.",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "#BeThere",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "https://t.co/fWPYNcjtFu",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "#SupportIndyWrestling https://t.co/56vhTC…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "@RachelFeltman: Really excited for this show where Kiefer Sutherland plays a dad and also a president https://t.co/JinXxYbwOr@itsOLY",
+        "tones": [
+          {
+            "score": 0.8602,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "would you like to cover this Yorkshire #mentalhealth story?https://t.co/iJAruzv6h3",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "We have just 5 days left to make a huge impact!Tonight is the #Survivor finale.",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "Also my son's HS⚾️ final conference game of the season (out of town).",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "I'll be at ⚾️ &amp; late for tweeting.RT @LogoTV: Love you @lee_fontaine.",
+        "tones": [
+          {
+            "score": 0.814454,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "You are survivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "💖 #DragRace https://t.co/1A1lcP1iNmRT",
+        "tones": [
+          {
+            "score": 0.9225,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "@DCerelim: Semih e bastırın #Survivor #SurvivorPanaroma https://t.co/Tq5QiKWFIgRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "@yazdansonra: Atakan'ın arkadaşı Murat Ismık",
+        "tones": [
+          {
+            "score": 0.74403,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "\\\"Atakan'ın ailesinin konu edilmemesini ve annesi ile ilgili hikayeler uydurulmamasını\\\" rica…@MyRuthann343 my eldest sister is a breast cancer survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "..My favorite event on the @OTWupdates schedule.",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "#BeThere",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "https://t.co/fWPYNcjtFu",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "#SupportIndyWrestling https://t.co/56vhTCITIaYuzsuzlukte",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "son nokta",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "#SurvivorRT @avataristhatun: Atakanın ne dediğini anlamayan insanlar yanlış yerlere çekmeyin 👊 #Survivor https://t.co/Vr83UnyxDURT",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "@Persona_Central: SMT: Devil Survivor 2: Record Breaker (3DS) is $24.99 (from $39.99) until May 30, 2016.",
+        "tones": [
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "- https://t.co/ZgSop5VktK",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "http…Semih e bastırın #Survivor #SurvivorPanaroma https://t.co/Tq5QiKWFIgRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "@ezgii_ve_atakan: En efsane thug life 😂😂😂 @ezgiavci_ @HakanHatipoglu  #survivor https://t.co/KWo8f1KUPK@Annakhait",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "I'm happy that I can see you again on Survivor eventhough it is a Reunion, I wish u have a 2nd Chance in S 34... from Philippines#Survivor #SurvivorPanorama https://t.co/1Qh5eZP16sSurvivor",
+        "tones": [
+          {
+            "score": 0.718827,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "panorama ya Karl Marx gelmiş yoldaşlar https://t.co/ZIvM6k5RkeRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "@0_whocares: Ezgi \\\"smaç basıcam\\\" söyleminin Atakan'ın farklı bir lugatta konuştuğu için olduğunu söyledi zaten kişiye söylenmedi dedi.SE…YAN EKRANA GELİN YUNUS-SEMİH ANKETİ VAR  #Survivor #SurvivorPanorama #SemihÖztürkHappy #Survivor Day /o/Semihçiler buna yüklenin lütfen #SemihÖztürk #Survivor Semih https://t.co/d5Y6MuMOxF@Bretzelll",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "Ecoute tous les albums et tu en redemanderas !",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "😆 La variété dans les tonalités de la voix de José dans \\\"Survivor\\\" sont énormes !RT @Sametay69: Annesi ile babası ayrı olan birine anne nedir diye sorun Atakan bunun burukluğunh yaşamış biri sonuna kadar haklı arkandayız…@lauren_jrn would you like to cover this #mentalhealth story?https://t.co/iJAruzv6h3",
+        "tones": [
+          {
+            "score": 0.625641,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "We have just 5 days left to make a huge impact!RT @FeyzaBasyigit_: #Survivor ",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "Hakan; ",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "\\\" Serkaya göre en az 2 Gömlek daha saygılı Atakanla Semih \\\" https://t.co/iH6zvqXmu5@tayana_simons",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "would you like to cover this #mentalhealth story?https://t.co/iJAruzv6h3",
+        "tones": [
+          {
+            "score": 0.52999,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "We have just 5 days left to make a huge impact!RT @ayseeedeniz2011: O kadar güzel anlatmışki anlayana tabi #Survivor  https://t.co/6PJdBAfxWyRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 103,
+        "text": "@FeyzaBasyigit_: #Survivor ",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 105,
+        "text": "Hakan ilk defa doğru birşey dedi",
+        "tones": []
+      },
+      {
+        "sentence_id": 106,
+        "text": "SEMİHİN SAYGISINDAN ŞÜPHE ETMEDİK HİÇ BİR ZAMAN ZATEN",
+        "tones": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "18860",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "347116b336980a6b1dc784061bcd2132",
+    "x-dp-watson-tran-id": "347116b336980a6b1dc784061bcd2132",
+    "x-edgeconnect-midmile-rtt": "58",
+    "x-edgeconnect-origin-mex-latency": "1716",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.566451,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.611907,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @BBCMarkDaly: Football abuse survivor Pete Haynes, interviewed by Jackie Bird, on speaking out about abuse, his family's pride and the w…Feeling grateful!",
+        "tones": [
+          {
+            "score": 0.580796,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "💝💝🎀 #tistheseason #gratitude #christmaswishes #hope #breastcancer #survivor… https://t.co/MOuqs6XSOjRT",
+        "tones": [
+          {
+            "score": 0.894013,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "@TheMichaelaB: Green room shenanigans!",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "S33 Finale on deck!! #MillennialsvsGenX #Survivor #survivorfinale #MannequinChallenge https://t.c…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "@democracynow: Warehouse fire survivor: Oakland \\\"needs to fund and protect people, that are right now under attack, from eviction\\\" https…Ready for this survivor finale like 💆#teamdavid #SurvivorRT @medusart: Βγάζει ο Σκάι ξανα το #survivor λες και κάνουμε τίποτα άλλο από το 2010 να πούμε!",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "#thevoicegrhappy survivor finale day ;)RT @TheStrokeAssoc: Tonight's #biglifefix features stroke survivor Graham who was #LostforWords after a #stroke watch the trailer here: htt…#NowPlaying SURVIVOR - SOUND HOLIC Vs.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "ZYTOKINE feat.",
+        "tones": [
+          {
+            "score": 0.776875,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "Nana Takahashi #MWhisp https://t.co/5WBlnNaCCi",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "https://t.co/OR2xjAtQ6zMoffett",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "Field Air Tragedy - The Story of Sole Survivor, Bruce Mallibert https://t.co/RUmHcAmb76",
+        "tones": [
+          {
+            "score": 0.519561,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.579367,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "via @YouTubeRT @RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.RT @RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.RT @AndyHerren: Survivor finale tonight!",
+        "tones": [
+          {
+            "score": 0.711343,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "It's the Super Bowl for people who have to spend 365 days a year answering the question, \\\"Survivor…@Domz_OvO Survivor's RemorseRT @RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.RT @AndyHerren: Survivor finale tonight!",
+        "tones": [
+          {
+            "score": 0.718203,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "It's the Super Bowl for people who have to spend 365 days a year answering the question, \\\"Survivor…All I want is for tonight's #Survivor finale to go better than last season's because that was just a huge disappointment.Survivor finale = Survivor party = Fiori's pizza @JeffProbst #thanksjeff@_Cooper Wait, you watch Survivor too?@MusicMonkey survivor finale?",
+        "tones": [
+          {
+            "score": 0.660108,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "already?",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "last time i checked in there were a lot of people left lol.RT @Ian_Mosby: As an addendum to my earlier tweets: it's strange &amp; problematic that survivor testimony is mostly absent from the TRC's 2 vo…5 Tips for Getting Through the Holidays When You Have Seasonal Affective… https://t.co/2AZML4dIUF",
+        "tones": [
+          {
+            "score": 0.650062,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "#MentalHealthRT @RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.RT @CBSEveningNews: \\\"I kept praying under the table.",
+        "tones": [
+          {
+            "score": 0.616997,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "Lord kept me calm.\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Survivor of Charleston church massacre recounts shooting.",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "Mark Str…RT @DavidBloomberg: I will be livetweeting #Survivor for &gt;3 hours in &lt;90 minutes!",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "#RHAP3-year-old cancer survivor becomes honorary CPD officer: David Juarez is 3 years old, and his dream is to be a…… https://t.co/yKBqG9vVU0I'm",
+        "tones": [
+          {
+            "score": 0.632476,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "rooting for Ken or Hannah!!  #SurvivorRT @Shy_Survivor: @RomanEscort You don't have an \\\"industry\\\".",
+        "tones": [
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "Rape for money is criminal abuse, not industrial.",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "@MeghanEMurphy @Diana_Fire_…RT @Shy_Survivor: @RomanEscort People like you want to NORMALIZE the sexual exploitation of women &amp; minors.",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "NOPE.",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "@MeghanEMurphy @Diana_Fir…Great friend, fashion blogger and two time breast cancer survivor, Jessica Moazami!",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "Love you… https://t.co/JDiFDREWn7RT",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "@RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.David grew so much throughout this game, he's worked hard &amp; challenged himself despite his fear of life!.",
+        "tones": [
+          {
+            "score": 0.500084,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "He deserves it tonight!",
+        "tones": [
+          {
+            "score": 0.558754,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "#SurvivorRT @Global_TV: Which generation will be crowned #Survivor champion?",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "#MillennialsvsGenX@mighty_boognish @CoxHelp @CBS8 i am a dog who enjoys watching SurvivorRT @Shy_Survivor: @RomanEscort Males calling feminists \\\"vile scum\\\" is totes progressive.",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "Or perhaps just #misogyny.",
+        "tones": [
+          {
+            "score": 0.999857,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "@MeghanEMurphy @Diana_F…Here I am at CBS Studios plays an actual Survivor challenge before I go inside and attend the… https://t.co/kd0p4pyu71RT",
+        "tones": [
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "@survivorcbs: Here's Everything You Need To Know Before Tonight's #Survivor: #MillennialsVsGenX Season Finale: https://t.co/GkmquBolVw",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "h…Y'all got predictions for who will win the million tonight?? Who are you rooting for?? #SurvivorOne hour until the #survivor finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "I got Jay or Adam to win.@goingfulltard survivor finale who you think gonna win?Home sick on the couch and I discover Survivor is being broadcast live.",
+        "tones": [
+          {
+            "score": 0.536435,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "Only perk of being ill.I liked a @YouTube video from @tvpromosdb https://t.co/Ukti8RkBIZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Designated Survivor 1x10 Sneak Peek \\\"The Oath\\\" (HD) Winter Finale@94rhythms i've got shame I've got scars, but i'll never show it, I'm a survivorSurvivor Results: Who Won Survivor 2016 &amp; Who Was Voted Off? 12/14/2016: The season finale is here as we… https://t.co/HbdhoousdT",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "#SurvivorRT @TheRock: Sadly, just got word that 99yr old Pearl Harbor survivor, Herb Weatherwax has passed away.",
+        "tones": [
+          {
+            "score": 0.905374,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "Tonight is dedicated to you.",
+        "tones": [
+          {
+            "score": 0.543873,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "#RockT…One more hour to go, but I can't wait!Can it be @survivorcbs finale time now?",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "#SurvivorRT @CBSEveningNews: \\\"I kept praying under the table.",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Lord kept me calm.\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "Survivor of Charleston church massacre recounts shooting.",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "Mark Str…RT @Survivor_Fans: Retweet if you will be watching the #survivorfinale tonight!",
+        "tones": [
+          {
+            "score": 0.533594,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "Bring it on!",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "May the best man/woman win! https://t.co/F2zp5…Can't",
+        "tones": [
+          {
+            "score": 0.844639,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "wait.",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "#Survivor #survivorfinale https://t.co/rG2a8IW8yX#survivorfinale",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "time.",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "I'm betting on David, Hannah and Ken in the final 3: https://t.co/4ZQu8REdYEAPRESENTO",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "A VCS O FUTURO VENCEDOR DE SURVIVOR #SurvivorMillennialsVsGenX https://t.co/HhbUXEfxxnRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "@RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.CADE AS PESSOAS Q ASSISTEM SURVIVOR SIMULTANEO????Going to watch the finale of Survivor tonight.Subs to go for Survivor Finale (@ Borgata Pizza Cafe) on #Yelp https://t.co/f3wKzXejGLStar",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "Trek: Discovery finally found its lead, and she is a survivor of the zombie apocalypse!",
+        "tones": [
+          {
+            "score": 0.824448,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.944551,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "https://t.co/KU3zngR08jRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "@TheMichaelaB: Green room shenanigans!",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "S33 Finale on deck!! #MillennialsvsGenX #Survivor #survivorfinale #MannequinChallenge https://t.c…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "@EWFlashback: After 16 years, which installment of #Survivor comes out on top?",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Our ranking of all 33 seasons: https://t.co/rAo68Osi4a",
+        "tones": [
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "ht…RT @RedmondSurvivor: Here are some of tonight's scene stealers, I mean, game changers.",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "#Survivor https://t.co/nEpdna65W1Obligatory",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "post before the finale: @kenofthejunglez for sole #Survivor!",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "Or @AdamScottKlein or @BretLaBelle.",
+        "tones": [
+          {
+            "score": 0.998976,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "Or anyone really :)RT @EWFlashback: After 16 years, which installment of #Survivor comes out on top?",
+        "tones": [
+          {
+            "score": 0.744032,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "Our ranking of all 33 seasons: https://t.co/rAo68Osi4a",
+        "tones": [
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "ht…RT @piersmorgan: Agreed, but victimhood is becoming a global malaise.",
+        "tones": [
+          {
+            "score": 0.510892,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Everyone has to be a 'survivor' at something.",
+        "tones": [
+          {
+            "score": 0.513911,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "Truth is, we're all su…I liked a @YouTube video from @tvpromosdb https://t.co/7sqIdP8woh",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "Designated Survivor 1x10 Sneak Peek #2 \\\"The Oath\\\" (HD) Winter FinaleRT @Trump_World: 99yr old Pearl Harbor survivor, Herb Weatherwax has passed away.",
+        "tones": [
+          {
+            "score": 0.784893,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "Tonight is dedicated to you @TheRock #RockTheTroops https…How am I gonna stay off social media for two hours tonight?? 😨 Dont talk to me!! Shhhhh!! La la la la!! 🙉🙈 #westcoast #Survivor #3HourFinaleAs an addendum to my earlier tweets: it's strange &amp; problematic that survivor testimony is mostly absent from the TRC's 2 vol History reportRT @Survivor_Fans: Retweet if you will be watching the #survivorfinale tonight!",
+        "tones": [
+          {
+            "score": 0.513645,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "Bring it on!",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "May the best man/woman win! https://t.co/F2zp5…RT",
+        "tones": [
+          {
+            "score": 0.844639,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "@afspnational: Learn about our Survivor Outreach Program through the story of one of our coordinators: https://t.co/3M9MkXS4xs",
+        "tones": [
+          {
+            "score": 0.56796,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "#SuicideL…RT @LouRiolo: Thank You to Trudy Album a Holocaust Survivor for visiting our students and sharing her message of Love, Hope &amp; #neverforget…i can't tell if i'm on a date or not but i need to go home and watch the finale of survivor@Amberharris35 hahaha, i need you as a survivor buddy!",
+        "tones": [
+          {
+            "score": 0.894749,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "😂RT @brontyman: Survivor's testimony, 911 call cap Dylann Roof trial as feds and defense rest their cases https://t.co/h8zTgAd8to",
+        "tones": [
+          {
+            "score": 0.668816,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "via @MicRT @DBGuggenheim: Cant wait for everyone to see tonight's episode of #DesignatedSurvivor ",
+        "tones": [
+          {
+            "score": 0.509039,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "https://t.co/5kWNY9peiLSurvivor's",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "testimony, 911 call cap Dylann Roof trial as feds and defense rest their cases https://t.co/h8zTgAd8to",
+        "tones": [
+          {
+            "score": 0.598205,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "via @MicRT @piersmorgan: Agreed, but victimhood is becoming a global malaise.",
+        "tones": [
+          {
+            "score": 0.557419,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Everyone has to be a 'survivor' at something.",
+        "tones": [
+          {
+            "score": 0.513911,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "Truth is, we're all su…Please please Adam for the win#SurvivorSurvivor finale tonight...can't wait! #Survivor #survivorfinale #jeffprobstPagi akang Ceper dan mas Dagienk.",
+        "tones": [
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "Request Eyes of Tiger dari Survivor dong.",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "Buat ngilangin ngantuk nih.",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "Thanks!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "@884GlobalRadioLooking forward to tonight's ep of @ABCDesignated Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "@RealKiefer promises it will be a good one!!  :)RT @huffpostqueer: Life after Trump: A gay survivor's guide https://t.co/ALJ8wXVrtqI",
+        "tones": [
+          {
+            "score": 0.870594,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "forgot that #Survivor finales take up the entire night lol.",
+        "tones": [
+          {
+            "score": 0.574048,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "Gonna miss the #Empire finale I guess then.RT @survivorcbs: Only one Castaway will be crowned Sole #Survivor.",
+        "tones": [
+          {
+            "score": 0.808581,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "Don't miss the #SurvivorFinale tonight at 8/7c on CBS: https://t.co/a92d…Prosecution",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "releases 911 call by survivor of the shooting at Mother Emanuel Church https://t.co/8PfIcRzOVHTrying",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "to dodge #Survivor spoilers for the next 6 hours so I’ll be jumping off social media!RT @TheRock: Sadly, just got word that 99yr old Pearl Harbor survivor, Herb Weatherwax has passed away.",
+        "tones": [
+          {
+            "score": 0.819452,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "Tonight is dedicated to you.",
+        "tones": [
+          {
+            "score": 0.543873,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "#RockT…Please be informed that I will be tweeting Survivor spoilers today.Ho appena guardato episodio S01E09 di Designated Survivor!",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "https://t.co/z04NyX9zMoRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "@herebemagic: Read an exclusive excerpt from STAR SURVIVOR by @vscotttheauthor at Here Be Magic #SciFi #Romance https://t.co/gvpwfnYDlY@lerdog",
+        "tones": [
+          {
+            "score": 0.731829,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "EU SEMPRE TBM &lt;3 HAHAHAHAHA acabo de ver já saio louco pra ver a reação do bonde survivorI just drove to Ft Gordon to remember that the shirt I'm returning came from Kohls.",
+        "tones": [
+          {
+            "score": 0.732766,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "Just not my day.",
+        "tones": [
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 100,
+        "text": "Gotta hurry for #SurvivorWho is winning?#Survivor@juliaioffe",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "As a survivor of incest, a brother, I can say that I have serious concerns Donald/Ivanka, but 55 years later still can't joke.Season finale of #Survivor and new episode of #Vikings gonna be a good night #EskimoApprovedhttps://t.co/Y3PEweLCXU... https://t.co/J26sW5UIsDRT",
+        "tones": [
+          {
+            "score": 0.525545,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "@RealKiefer: If you're enjoying the show, tonight's episode of Designated Survivor is one not to miss.Me waiting for the #Survivor: Game Changers preview tonight https://t.co/FzGSnBJbRDMe",
+        "tones": [
+          {
+            "score": 0.607088,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "waiting for the #Survivor: Game Changers preview tonight https://t.co/FzGSnBJbRDRT",
+        "tones": []
+      }
+    ]
+  }
+}

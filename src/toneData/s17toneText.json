@@ -1,0 +1,977 @@
+
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16778",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "ef1f435f0b985a026832c96ed00f3a47",
+    "x-dp-watson-tran-id": "ef1f435f0b985a026832c96ed00f3a47",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1831",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.514765,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.628948,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Got a Survivor Gabon buff from @AdsChick - way cool.",
+        "tones": [
+          {
+            "score": 0.778426,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Thanks sis!Survivor: Gabon &#8212; Susie&#8217;s Second-Place Finish: ",
+        "tones": [
+          {
+            "score": 0.719452,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "After flipping on the Onion Alliance, Susie Smith ch.. http://tinyurl.com/7pajs7Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "Gabon — Sugar’s Emotional Journey: She made it all the way to the final three, and although she didn&#.. http://tinyurl.com/8axj4nSurvivor:",
+        "tones": [
+          {
+            "score": 0.637406,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.515576,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Gabon &#8212; Sugar&#8217;s Emotional Journey: ",
+        "tones": [
+          {
+            "score": 0.622504,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "She made it all the way to the final three, and althou.. http://tinyurl.com/7zu2gn@StanleyTang",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Agree.",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "Survivor Gabon best season ever.winner of Survivor Gabon... Bob P. Crowley!!Finished watching Survivor Gabon.",
+        "tones": [
+          {
+            "score": 0.79666,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "One of the best seasons after Cook IslandThe B rolls on Survivor Gabon are amazing.",
+        "tones": [
+          {
+            "score": 0.948071,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "The show has it's ups and downs moments but it's worth watching for the visuals.Re: Survivor Gabon: Quote from: Tara on Today at 09:42:56 AMShe needed to be on Big Brother where she could lay .. http://tinyurl.com/9cqywgRe:",
+        "tones": [
+          {
+            "score": 0.656008,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Survivor Gabon: Quote from: disneyland lady on Today at 03:10:35 AM(we have all seen what olympians can do n.. http://tinyurl.com/7wtgzqRe:",
+        "tones": [
+          {
+            "score": 0.731098,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Survivor Gabon: I love Disneyland lady.&nbsp;",
+        "tones": [
+          {
+            "score": 0.86068,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "&nbsp;&nbsp; &nbsp; http://tinyurl.com/893dvxI",
+        "tones": [
+          {
+            "score": 0.580671,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "still thnk marcus of survivor gabon looks like paul newman.",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "somebody do a DNA test.Survivor: Gabon — Matty’s Adventure: He experienced Gabon&#8217;s wildlife like a wide-eyed child, proposed to h.. http://tinyurl.com/4wl8akSurvivor:",
+        "tones": [
+          {
+            "score": 0.659112,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.679542,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "Gabon &#8212; Matty&#8217;s Adventure: ",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "He experienced Gabon&#8217;s wildlife like a wide-eyed child, .. http://tinyurl.com/4camxfis",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "confirmed skipping dinner for today.",
+        "tones": [
+          {
+            "score": 0.970179,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "Now watching Survivor Gabon on channel 5.Survivor: Gabon Finale Blog - Box Office Prophets.",
+        "tones": [
+          {
+            "score": 0.505514,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "www.emperors-club.infoDepartment of Agriculture investigating seized Survivor Gabon artifacts; others are on eBay http://tinyurl.com/4gkr3pI",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "just got caught up on Survivor-Gabon.",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "Corinne is nasty!Re: Survivor Gabon: Guess what?Survivor isn&#39;t on tonight.&nbsp;",
+        "tones": [
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "http://tinyurl.com/4cmlhjSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "Gabon — Kenny Explains His Strategies: Kenny Hoang called himself the mastermind of Survivor: Gabon af.. http://tinyurl.com/4vyw8jSurvivor:",
+        "tones": [
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "Gabon &#8212; Kenny Explains His Strategies: ",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "Kenny Hoang called himself the mastermind of Survivor: G.. http://tinyurl.com/3udehzawww",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "JEEZ who's stupid!",
+        "tones": [
+          {
+            "score": 0.764589,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "deleted 5gb worth of Survivor Gabon.",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "DAMMIT.Survivor: Gabon Finale Blog - Box Office Prophets.. www.emperors-club.infoNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "blog post: Talking About Survivor - Survivor Gabon Ep 13 and Finale - Part 1 http://christianaellis.com/?p=405waiting",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "Survivor Gabon re-runs, not wanting to move since its raining and cold outside.'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "Gabon' Props Seized By Customs Authorities http://tinyurl.com/5ut5ddSales",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "Lessons From Survivor Gabon: http://EzineArticles.com/?id=1790553Boomer",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "Chronicles Middle-Aged Guy Wins &#8216;Survivor Gabon&#8217;: Bob Crowley, a 57-year-old.. http://tinyurl.com/5uqq8wSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "Gabon Finale Blog - Box Office Prophets.. www.emperor-club-vip.infoBy the way, I loved the ending of Survivor: Gabon.",
+        "tones": [
+          {
+            "score": 0.780739,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "But no votes for Sugar?",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "Come on!",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "Susie in final two?! COME ON! (&gt;_&lt;)@hotdogsladies How bout recite the Pledge of Allegiance backwards while being hung upside by their nuts and forced to watch Survivor:Gabon?\\\"you are undereducated, unemployed leech on society\\\" survivor gabonWatching Survivor: Gabon Episode 14 on CBS.com using an ssh proxy.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": ":DSurvivor: Gabon Tries To Harm US Agriculture http://snipurl.com/8if60Survivor:",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "Gabon Not Immune to U.S. Customs: Survivor's immunity idol has no effect on border patrollers.\\r\\r",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "\\r",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "The.. http://tinyurl.com/65evu9Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "Gabon Not Immune to U.S. Customs: Survivor's immunity idol has no effect on border patrollers.\\r\\r",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "\\r",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "The.. http://tinyurl.com/649m4zSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "Gabon Not Immune to U.S. Customs: Survivor's immunity idol has no effect on border patrollers.\\r\\r",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "\\r",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "The.. http://tinyurl.com/6ylcxnTop",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Stories: Survivor: Gabon Not Immune to U.S. Customs: Survivor's immunity idol has no effect on b.. http://tinyurl.com/63zmszSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "Gabon - More Finale Celebration Photos: [Photos: Monty Brinton/CBS, ©2008 CBS Broadcasting Inc.",
+        "tones": [
+          {
+            "score": 0.565948,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "All Ri.. http://tinyurl.com/56td73Entertainment",
+        "tones": [
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "News: &#8220;Survivor: Gabon&#8221; Finale Celebration Photos http://tinyurl.com/5ogxxzwatched",
+        "tones": [
+          {
+            "score": 0.567193,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "a bit of last Survivor Gabon ep this am b4 work.",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Good outcome, but not the 1 I was hoping for.",
+        "tones": [
+          {
+            "score": 0.747801,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "really enjoyed this series thoSurvivor: Gabon - Finale Celebration Photos: [Photos: Monty Brinton/CBS, ©2008 CBS Broadcasting Inc.",
+        "tones": [
+          {
+            "score": 0.798318,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "All Rights .. http://tinyurl.com/5qr5ckEntertainment",
+        "tones": [
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "News: Bob Crowley Wins &#8220;Survivor: Gabon&#8221; http://tinyurl.com/6qfdr8#blog",
+        "tones": [
+          {
+            "score": 0.547511,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "Survivor : Gabon 的获胜者是 Bob？  http://tinyurl.com/5wrq23Setting up BitTorrents and back to watching the Survivor: Gabon finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "Survivor in HD is just too nice.",
+        "tones": [
+          {
+            "score": 0.712086,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "Great scenery, and see bug bites.I &lt;3 survivor gabon + wine and board game nightSurvivor Gabon is the year's 8th most-popular show, while American Idol and Dancing with the Stars lead again http://tinyurl.com/5orf2msurvivor",
+        "tones": [
+          {
+            "score": 0.733216,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "gabon winner - http://riddlesoft.web44.netTime",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "for Check and the Heroes season finale.",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "The I get to watch the season finale of Survivor Gabon since I missed out last night.is",
+        "tones": [
+          {
+            "score": 0.781937,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "catching up with Survivor Gabon even though some let the winner's name slip already.",
+        "tones": [
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.792962,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": ":o(getting ready to find out who won Survivor Gabon, I have had to avoid the news online all day long!We Interview Survivor: Gabon Winner Bob Crowley http://twurl.nl/zczal1Corinne",
+        "tones": [
+          {
+            "score": 0.604214,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.717802,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "Kaplan The Wicked Wicked With of Survivor Gabon.",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "She has a linkedin profile http://short.to/cpg",
+        "tones": [
+          {
+            "score": 0.503734,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "- Corinne Kaplan - LinkedInReally shocked by Corinnes final remarks in Survivor, Gabon.",
+        "tones": [
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "Man I wanted to slap her so bad for saying that to SugarCongratulations to Bob Crowley - Survivor: Gabon Winner!:",
+        "tones": [
+          {
+            "score": 0.503717,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Last night we saw physics professor, Bob Crowley win t.. http://tinyurl.com/5edb5fRe:",
+        "tones": [
+          {
+            "score": 0.607481,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "Survivor Gabon: Kelly!&nbsp;",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "That was her name.&nbsp;",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "Thanks.My scenario was clearly off a bit... but it&#39.. http://tinyurl.com/6czfwcJessica",
+        "tones": [
+          {
+            "score": 0.631588,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.825035,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "Kiper at “Survivor: Gabon” Finale: As noted yesterday, Jessica &#8220;Sugar&#8221; Kiper, who played Jes.. http://tinyurl.com/5gl43eSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Gabon Thoughts - SeanPAune.com:",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "I haven&#8217;t done anything relating to Survivor in ages, mainly beca.. http://tinyurl.com/6qgqnuUpdate",
+        "tones": [
+          {
+            "score": 0.867767,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.73677,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "on my blog Survivor Gabon Thoughts: I haven&#8217;t done anything relating to Survivor i.. http://tinyurl.com/6hcvtw&#39;Survivor:",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "Gabon&#39; - Finale Live Thoughts - BuddyTV http://tinyurl.com/68kx9kloved",
+        "tones": [
+          {
+            "score": 0.630585,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "Survivor s17: Gabon.",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Bring on Brasil!!!Survivor Gabon Winner Bob Crowley on the CBS Early Show: \\r",
+        "tones": [
+          {
+            "score": 0.541603,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "Survivor Bob on Early Show Bob Crowley, the win.. http://tinyurl.com/5vmhsoThis",
+        "tones": [
+          {
+            "score": 0.589787,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "was the best season of Survivor EVER Gabon...Kenny was a snake and Randy an ass..hahahaEntertainment News: &#8220;Survivor: Gabon&#8221; Ace Gordon Arrested http://tinyurl.com/58n2l4Still",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "peeved at Corinne on Survivor Gabon.",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "HAD to blog about exactly WHY she is the worst networker in the world: http://tinyurl.com/5nwlmo24",
+        "tones": [
+          {
+            "score": 0.694227,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.839923,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "hours until Survivor: Gabon ends for me, too!'Survivor: Gabon' Winner Bob Crowley: Bob Crowley, the bow-tied physics teacher from Maine took home the top pri.. http://tinyurl.com/5befa8Survivor:",
+        "tones": [
+          {
+            "score": 0.525508,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "Say Goodbye to Gabon (season finale) - Software http://tinyurl.com/55uzbqLatest",
+        "tones": [
+          {
+            "score": 0.86953,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "Torrents Survivor _Gabon_Season17_All_Episodes [1/0]: Bit Torrent details:Category: TVOrig.. http://tinyurl.com/6n3zfuRe:",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Survivor Gabon: Quote from: Squid on Today at 03:55:27 AM&nbsp; I think that Homer and Tara should apply for.. http://tinyurl.com/67qdknSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "Gabon Finale! http://tinyurl.com/6qjer3Bob",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "Crowley wins Survivor Gabon, $1.1 million; is oldest winner ever http://tinyurl.com/5oryasAge",
+        "tones": [
+          {
+            "score": 0.680691,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "Before Beauty for Survivor: Gabon Winner: Robert \\\"Bob\\\" Crowley, a 57-year-old physics teacher from Maine was.. http://tinyurl.com/5jhe3557",
+        "tones": [
+          {
+            "score": 0.649177,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "Year Old Maine Physics Teacher BOB CROWLEY Wins Survivor Gabon http://ff.im/iFND57",
+        "tones": [
+          {
+            "score": 0.523284,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "Year Old Teacher BOB CROWLEY Wins Survivor Gabon http://tinyurl.com/5sqoeuwe're",
+        "tones": [
+          {
+            "score": 0.521149,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "watching http://snfd.tv/E3N",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "Survivor Gabon Final Insight fr Survivor Gur Glo Her Opinion-Survivor Guru Glo you Tube host of newscha...It's all over now, but you can revisit Survivor: Gabon as we quiz you on how well you know the season.",
+        "tones": [
+          {
+            "score": 0.548747,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.618258,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "http://is.gd/bMM7@",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "Recapist.com",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "Survivor: Say Goodbye To Gabon (Episodes 1714/1715): ",
+        "tones": [
+          {
+            "score": 0.858156,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "Who the heck is Susie?",
+        "tones": [
+          {
+            "score": 0.554452,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 100,
+        "text": "And ho.. http://tinyurl.com/6zwra2Survivor",
+        "tones": []
+      }
+    ]
+  }
+}

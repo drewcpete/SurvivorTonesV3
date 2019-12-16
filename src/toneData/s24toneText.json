@@ -1,0 +1,673 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "11844",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "111d1eaff628b7337757ab58b444925f",
+    "x-dp-watson-tran-id": "111d1eaff628b7337757ab58b444925f",
+    "x-edgeconnect-midmile-rtt": "58",
+    "x-edgeconnect-origin-mex-latency": "1074",
+    "date": "Mon, 16 Dec 2019 05:50:05 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.522755,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.621684,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Survivor final night!",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "Ow, ow!Survivor finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": ": )Pumped for the #Survivor Finale #TeamChelsea #TeamKatFinally the finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "The women rule the roost !! I'm hoping a good one wins!",
+        "tones": [
+          {
+            "score": 0.871195,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.75535,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "http://t.co/RGbDyOiH",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "@GetGlue @Survivor_TweetMotor units staged for survivor family escorts.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "http://t.co/4igJ1MDgSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "finale !",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "#tooexcitedsurvivor finale :DGetting ready to watch  #Survivor lets go Chelsea!SO ready for #survivorReady!!!",
+        "tones": [
+          {
+            "score": 0.825202,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "It Is ON!!! :-) #SurvivorSurvivor finale &lt;333333333\\\"Survivor\\\" finale time.",
+        "tones": [
+          {
+            "score": 0.653508,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "This year?",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "Jeff Probst just takes the check for a million bucks and leaves.Join us in the Morty's TV Fan Forums Chat Room tonight for the Show Your True Fan Colors Survivor Finale Party!#Survivor Finale set ! @cbs #7up !",
+        "tones": [
+          {
+            "score": 0.748293,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "http://t.co/iNB35EQ6Previously",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "onnnn #SurvivorShow time in 2 mins!",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Better run and get my snack!",
+        "tones": [
+          {
+            "score": 0.538261,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "#survivorFinale time!! Go KIM! http://t.co/ZhgXdMY2",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "@GetGlue @Survivor_TweetSurvivor Finale :) #SchroderFamilyTradition haSURVIVOR FINALE!",
+        "tones": [
+          {
+            "score": 0.612086,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "#teamsabrina #sundayfundayIt's almost time for #Survivor !!Survivor season finale is on!!Going to the final show Survivor, voters have Sabrina to win.",
+        "tones": [
+          {
+            "score": 0.569362,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "What do u think?",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "Vote http://t.co/PUk4dEfB",
+        "tones": [
+          {
+            "score": 0.8152,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "#survivor #squidoo #lensSurvivor Finale in like 1 minute!!!! Can't wait!!! :)Survivor is me and my mom time.",
+        "tones": [
+          {
+            "score": 0.692974,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "The Tierneys of course found a way to ruin it.COME ON KARLY I have ice cream to eat and survivor to watch#survivor Finally#survivor #girlpower #goKim #survivorfinaleSurvivor Sunday.",
+        "tones": [
+          {
+            "score": 0.624953,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.632066,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "#teamsabrinaGetting ready to watch this Survivor Finale! super excited &amp; proud of @IamSabrinaTI'm a Fan of Survivor on @GetGlue http://t.co/0MwJti2m@JeffProbst",
+        "tones": [
+          {
+            "score": 0.930482,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "when are we getting @HatchRichard and @sskj577  on survivor again?I'm watching Survivor (165 others checked-in) http://t.co/9ID46dR0",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "@GetGlue @Survivor_TweetRT @BenPalatino: 3 hours of survivor tonight #bestnightever#Survivor season finaleSurvivor finale on #CBSSurvivor Season Finale :)Survivor finale starts now!Survivor finale.",
+        "tones": [
+          {
+            "score": 0.534432,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "The only real-time TV I watch.Survivor (:RT @MitsubishiHVAC: These #Survivor ladies need #mitsubishicomfort to cool off.",
+        "tones": [
+          {
+            "score": 0.786688,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "http://t.co/tw7ZZmue",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "@survivor_tweets Watch for our comm ...Watching #survivor with Mom Jen and Steve.Yay, I am about to watch the survivor finale.",
+        "tones": [
+          {
+            "score": 0.725059,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "Damn I have homework due tonight and clearly I don't give a SHIT!Survivor time!!! Who gonna win??? :)Eek!",
+        "tones": [
+          {
+            "score": 0.851409,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.638987,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "Survivor tweets about to start, later gators!",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "~skips out~ #nospoilersI'm watching Survivor (165 others checked-in) http://t.co/KygvMsjz",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "@GetGlue @Survivor_TweetI'm watching Survivor (165 others checked-in) http://t.co/iVTiENG2",
+        "tones": [
+          {
+            "score": 0.620907,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "@GetGlue @Survivor_TweetWatching the Survivor finale even though no one besides Kim is smart enough to do what it takes to win.Survivor finale is starting in a couple minutes.\\\"@11kael:",
+        "tones": [
+          {
+            "score": 0.536653,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "#hashtag #survivor sucks weiner #quit tryn to be the best at being a poor islander\\\" hey look i can live off rice the longest#Survivor I'll be happy as long as the #SoleSurvivor isn't Christina or Alicia.starbucks",
+        "tones": [
+          {
+            "score": 0.509053,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "&amp; survivor finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": ":)Woo hoo! Survivor finale night!",
+        "tones": [
+          {
+            "score": 0.795403,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "Settled in with a blondie and high hopes of getting most of a sweater sleeve knitted.RT @MitsubishiHVAC: These #Survivor ladies need #mitsubishicomfort to cool off.",
+        "tones": [
+          {
+            "score": 0.534678,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.57374,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "http://t.co/tw7ZZmue",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "@survivor_tweets Watch for our comm ...SURVIVOR SEASON FINALE!!!!!!!!!!!Survivor finale!2 more minutes!! #Survivor @ChelseaMeissner @Christina_Cha @ColtonCumbie @IamSabrinaT @monicaculpepper @AliciaRRosa @KittenSWAG24Survivor timeeee#nowplaying: The Simpsons, Bob's Burgers, FAMILY GUY, The Cleveland Show, American Dad, Canada's Got Talent, Survivor: One World Finale.survivor",
+        "tones": [
+          {
+            "score": 0.663441,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "finalee 😄Survivor 2 hour finale.",
+        "tones": [
+          {
+            "score": 0.797187,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "#HeckYes 👍Nice!",
+        "tones": [
+          {
+            "score": 0.932921,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "RT @CBSTweet: #BigBangTheory fans!",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "Guess who’s ready for the #Survivor finale 2nite?",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "@missmayim &amp; @JeffProbst!",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "http://t.co/wYmPdVcIOur",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "live #Survivor chat is starting now.",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "Here's where you can chat with others, and ask our blogger questions: http://t.co/YBzuKpvTRT",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "@GlennCraven: Mom's a survivor and the pink bats are cute, but honestly, who over the age of 6 in America is NOT \\\"aware\\\" of breast ca ...Dodge all arrows!",
+        "tones": [
+          {
+            "score": 0.734391,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "Be a survivor.Survivor Finale #thetribehasspoken#survivor finale!! Wishing @IamSabrinaT  luck as she was my pick in my work pool.Everything, For Always http://t.co/Tjv27nVY",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "via @Beyond_SurvivorCome listen to the The Soul Survivor #16 show by Preppers Podcast ... on #BlogTalkRadio LIVE at http://t.co/dSQ3Jkv5#Survivor",
+        "tones": [
+          {
+            "score": 0.743772,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "#TeamKimI've said it was Kim ever since the pre-show interviews.",
+        "tones": [
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "I'll be shocked if she loses.",
+        "tones": [
+          {
+            "score": 0.663378,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "#survivorMothers day, watching #Survivor finale..",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Both our picks are in top 5! #chelsea #kimSo excited for the #survivor season finale!!!Survivor's on in two minutes :)Cannot wait for this! #Survivor #SoleSurvivorI'm watching Survivor (165 others checked-in) http://t.co/Uhq806LZ",
+        "tones": [
+          {
+            "score": 0.804548,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "@GetGlue @Survivor_TweetGonna miss #Survivor...hopefully not all of it though :( *fingers crossed* GO CHELSEA!Survivor season finale time!survivor finale @ 7!!!",
+        "tones": [
+          {
+            "score": 0.823317,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.731217,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "But I'm ready for big brother in July!!! @craig_bowling @Shaboolah0107 @pbradlYay survivor !!!!!!!#np Still A Survivor http://t.co/l5yu1deQ",
+        "tones": [
+          {
+            "score": 0.709166,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "by Akon http://t.co/I8MFfBF7",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "on @bbtweetmedia@emalzahn got my buff and hat on #survivorSurvivor Finale!",
+        "tones": [
+          {
+            "score": 0.626838,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "#GoTime #TeamChelseaSeason Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "http://t.co/9bjkCose",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "@GetGlue @Survivor_TweetSurvivor season finale #happytweetSo excited to watch the season finale of #SurvivorSurvivor One World finale!",
+        "tones": [
+          {
+            "score": 0.717624,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "I hope Kim wins c:Survivor Finale #outwit #outlast #outplayBreast cancer survivor serves as bat girl - http://t.co/QTm81qJx:",
+        "tones": [
+          {
+            "score": 0.534143,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "Breast cancer survivor serves as bat girlTwinsb... http://t.co/J0sLmxRFRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "@Survivor_Tweet: Tonight's hashtags are: #SoleSurvivor and #Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "Tweet away!!I woke up just in time for Survivor!Survivor finale.Survivor finale.@Survivor_Tweet",
+        "tones": [
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "#SoleSurvivor there will be a tie at final tribal and for the first time there will be two survivors.",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "Heard it here firstcan't wait to see the overflow of disappointment when there is no TDKR tv spots with Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "God...WB sucks at marketingTime for #survivor#Survivor finale tonight!Survivor!!!Reminder: Survivor blog will be LATE tomorrow.",
+        "tones": [
+          {
+            "score": 0.65866,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "I'll tweet and FB when ready, but don't look for it until the evening.",
+        "tones": [
+          {
+            "score": 0.581108,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Still workingSurvivor finale #SoulSurvivor Chelsea better win Survivor over Kim or Elise!\"}",
+        "tones": [
+          {
+            "score": 0.643571,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      }
+    ]
+  }
+}

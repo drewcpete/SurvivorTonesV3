@@ -1,0 +1,983 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17404",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "f7983601865d63ab0a5812066ff596ef",
+    "x-dp-watson-tran-id": "f7983601865d63ab0a5812066ff596ef",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "2185",
+    "date": "Mon, 16 Dec 2019 05:50:07 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.630641,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.562559,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @Survivor_29_: - - Woo really is a stand-up guy.RT @MalcolmWHW: \\\"Perhaps I shouldn't wear a blue button down today...\\\" -Jeff Probst, never #SurvivorRT @RealityRecaps: The decision I made was based on how I live my life (after Tony told me that's how I should feel).",
+        "tones": [
+          {
+            "score": 0.715519,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "-Woo #survivor #survi…MP3アルバムのヒット商品→ #8: Light The Sky (Soul Survivor Live 2010) http://t.co/piyYpz5vzA",
+        "tones": [
+          {
+            "score": 0.698552,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "#MP3 　#日本国内のヒット商品Survivor Cagayan: Playing Strategically, Not Emotionally http://t.co/G8MP5Z5aSp@DJsmicka",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "Ima let you finish but Survivor is the greatest show of all time!!!@jeffprobst GET OUR MATH TEACHER, DENNIS AKEY ON SURVIVER.",
+        "tones": [
+          {
+            "score": 0.724191,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "HE WILL WIN #survivor #BAMF #AkerBrether http://t.co/UAPzstk6YyI",
+        "tones": [
+          {
+            "score": 0.718171,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "went to bed before the survivor finale winner announcement.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "Can you tell I was disappointed?",
+        "tones": [
+          {
+            "score": 0.803201,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "I vote spencer for #AllStarsGot a couple new listings in my Etsy shop!",
+        "tones": [
+          {
+            "score": 0.772238,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "This card would be great for a survivor of cancer or other serious... http://t.co/tiEKuS3BFKRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "@GossipNews365: #hollywood ‘Survivor: Cagayan’ Finale: The Right Player Won The $1 Millon: From the beginning of ‘Survivor: Ca... http:/…The best immunity challenge I've seen in survivor #survivorfinale #bestforlast #importantwin #morepuzzles http://t.co/z5avYAZAiMRT",
+        "tones": [
+          {
+            "score": 0.697795,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "@mjgranger1: ‘Lone Survivor’ Marcus Luttrell Has a Great Idea to Immediately Fix the VA http://t.co/9Ih9M73zn9",
+        "tones": [
+          {
+            "score": 0.735305,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.61476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": ".@tracieeeeee",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": ".@isusan66",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "…Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE PAINT!!!! http://t.co/frqfQZzkXb#autotrade",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE... http://t.co/ziFQQKpnXQ",
+        "tones": [
+          {
+            "score": 0.634843,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "#usedcars #forsale@JeffProbst finally a deserving winner who played the perfect game of survivor!",
+        "tones": [
+          {
+            "score": 0.895292,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "#survivortonyDodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE PAINT!!!! http://t.co/Hxy4i2jo8yTurkey",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "mine survivor blames company for tragedy - By DESMOND BUTLER and SUZAN FRASERAssociated Press SAVASTEPE,... http://t.co/FUFjdpfyjUQué",
+        "tones": [
+          {
+            "score": 0.588705,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "de sentimientos encontrados con la final de #Survivor.#CarAds",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE PAINT!!!! http://t.co/CjAkVaM0Vu",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "#AutoTrade#AutoTrader #Freeads Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350,... http://t.co/L1ZuxqRdVo",
+        "tones": [
+          {
+            "score": 0.628778,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "#auto #CarAds#autotrade Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE... http://t.co/5jrhqAU5KC",
+        "tones": [
+          {
+            "score": 0.692893,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "#usedcars #forsale#CarAds Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE PAINT!!!! http://t.co/JfM2r2MjAK",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "#AutoTrade@PervertedSiscon -- survivor/#Autotrade Dodge : Dart Swinger SURVIVOR, CLEAN, ORIGINAL, SLANT SIX, 225 CID, TH350, NICE PAINT!!!! http://t.co/0ugjshv9rb",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "#usedcarstony's beard #survivor 😷\\\"@WinaiPadsorn: จับแกนนำไปอยู่บ้านเดียวกันเพื่อ? ",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "ก.",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "AF, The Star",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "ข.",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "The Survivor ",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "ค.",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "The Hunger Games",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "ง.",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "Full House\\\"/:)@DanGheesling Why couldn't last night's Survivor jury been the BB14 jury?Sana maabutan ko ang umpisa ng season finale ng Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "Waze, please be accurate.I’m watching #LoneSurvivor on Digital HD and earning points with @Viggle!",
+        "tones": [
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Buy the movie and start earning!",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "http://t.co/hBZHnpaZ1r",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "#viggleRT @Siegrist1224: @connieandcurtis even @JeffProbst doesn't DVR #Survivor anymore.",
+        "tones": [
+          {
+            "score": 0.801703,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "They need to jazz it up with Bgrade celebs like #DWTS @G…@emmastraub Did you at least get to see the end of Survivor?Celebrate the HERO in you...versus being consumed by the HURT to you!!! #SurvivorRT @UberFacts: Regina Rohde , a survivor of the Columbine High massacre went on to attend Virginia Tech during the time of the Virginia Tec…Deborah Peter is sole survivor of Boko Haram attack.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Her father, Christian pastor",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "murdered, Brother, murdered.",
+        "tones": [
+          {
+            "score": 0.536946,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "Church burned #tcot #sgp #p2Leaving work after a night shift and the cleaning lady reveals who won survivor to me #RATTLEDRT @SpencerBGM: I'm exhausted.",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "I'm relieved.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "I'm sad the season's over and happy to find closure.",
+        "tones": [
+          {
+            "score": 0.733136,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "THANK YOU to everyone who has shown suppo…RT @Survivor_Tweet: RT if u r tuning in 2 the #SurvivorFinale!",
+        "tones": [
+          {
+            "score": 0.839459,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "Tweet @JeffProbst your predictions &amp; reactions &amp; they could be featured thro…how ignorant was it though that Woo brought Tony to the finals with him?",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "like obviously Tony played the better game #survivorNoooo @SpencerBGM!!",
+        "tones": [
+          {
+            "score": 0.634021,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "I wanted you to win!!! @Survivor_Tweet #brainsbrawnsbeautyAre you an #ITsurvivor ?",
+        "tones": [
+          {
+            "score": 0.673502,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "#horizon6 will show you how.",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "http://t.co/EeQcFEnyu6Prince",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "Charles Tells Holocaust Survivor That Vladimir Putin 'Same' as Hitler http://t.co/DA7nTfWUs1",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "#jewishRT @franklin_katlyn: Of course none of the people I picked won, but hopefully we'll see @JefraBland @lj_mckanas @JeremiahPWood on future se…SURVIVOR - DESTINY'S CHILD http://t.co/UJODKCKnz0",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "#nowplaying #mauiradioOMG!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "This #finalimmunity challenge is massive!",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Imagine how long it took them to set that up! #Survivor@connieandcurtis even @JeffProbst doesn't DVR #Survivor anymore.",
+        "tones": [
+          {
+            "score": 0.731715,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.548904,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "They need to jazz it up with Bgrade celebs like #DWTS @GARYBUSEYTWEETSFrom the beginning of ‘Survivor: Cagayan,’ one player stood out — he knew how to strategize, how to manipulate, ... http://t.co/b4RepISZnrHo",
+        "tones": [
+          {
+            "score": 0.574817,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "già la finale di #Survivor sto male“@kbtrembly: @JefraBland you are the definition of beauty.",
+        "tones": [
+          {
+            "score": 0.543731,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.781949,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "May not have won survivor but you won my heart #truebeauty”@tiagosplitter60 @emrekkinay hadi bakalım minik, sen survivor'da yemek veriyorlar mı vs, bunlarla ilgilenmeye devam... Bu konular seni aşar.@Survivor_Tweet",
+        "tones": [
+          {
+            "score": 0.649267,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "IF I WAS ON THIS SEASON I WOULDVE VOTED @tony_vlachos OUT PURELY ON HIS ANNOYING VOICE &amp;ACCENT!",
+        "tones": [
+          {
+            "score": 0.662247,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "Or I wuda SLIT MY OWN THROATMy favorite player on Survivor ever.",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "I hope she returns for another season.",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "@parvatishallow http://t.co/p3b4Gr0xHx@JaiBrooksTCR",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "you know.... Survivor.",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "TV.",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "The usual....@Survivor_Fans @YungWoo23 did the honorable thing!",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "I just wish he would have one!",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "I would have voted for him!RT @paulgees81: @JefraBland your the best looking survivor ever.",
+        "tones": [
+          {
+            "score": 0.715553,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "nice job out there.ICYMI, @MomOfKai crushed last night's Survivor finale by Lego meme-ing all us live tweeters.",
+        "tones": [
+          {
+            "score": 0.612304,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Amazing stuff.",
+        "tones": [
+          {
+            "score": 0.952455,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "http://t.co/jPcgFXrgpqRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "@JustinChua2: Well we know who's the real winner of survivor this season is... @JefraBland!RT @TheTruth117: @JefraBland You're So Gorgeous Loved you in that pink that you was wearing second from last tribal council Jefra!  #Kentuc…RT @TheTruth117: @JefraBland @_morganmcleod Best of Luck to you Beautiful girls in the future!",
+        "tones": [
+          {
+            "score": 0.940425,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": ",:) Hope you follow me one day ?",
+        "tones": [
+          {
+            "score": 0.672691,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "#SurvivorBlood vs Water (again) season 29.",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "It's been done, but hey I'll probably still watch.",
+        "tones": [
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "And I'm DONE tweeting about #survivorfinale!",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "#survivorRT @HollywoodLife: Do you think the right person won @Survivor_Tweet last night?",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "Senior reporter @emilylongeretta does: http://t.co/unx4LHH…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "@anthonyqld: @tony_vlachos Congratulations.",
+        "tones": [
+          {
+            "score": 0.710526,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "If @JefraBland or @SpencerBGM didn't win, I wanted you to #survivor #survivorfinale@chejuanpedro lol sorry my ninja!",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "Survivor was on!!@timdormer @nudiejuice Have you thought of applying to be on @survivor?",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "You'd win for sure!@suzmarques is ahead with the new winner of #survivor #CBSLAAwww... So, emotional!!! 😂😭😫 #Survivor #tvtag http://t.co/RzVxwI9MXQI",
+        "tones": [
+          {
+            "score": 0.518178,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "literally haven't watched survivor since grade school.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "I can't believe how stoked I got on it this season.",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "#nerdalert@RC_Survivor @JeffProbst If your talking about Tony, you couldnt be more off.",
+        "tones": [
+          {
+            "score": 0.821913,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "He's the reason we watched this year.",
+        "tones": [
+          {
+            "score": 0.545259,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "He's awesome.So barring any sudden disaster, that would make my grandmother the last survivor of her seven siblings.",
+        "tones": [
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "Kinda scary.I didn't want Tony to win on Survivor though.Tony Vlachos in @HollywoodLife.",
+        "tones": [
+          {
+            "score": 0.81582,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "http://t.co/SC7AOMhR1KDo",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "you think the right person won @Survivor_Tweet last night?",
+        "tones": [
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Senior reporter @emilylongeretta does: http://t.co/unx4LHHIfQ",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "#SurvivorFinale\\\"I LOST MY LEG IM GONNA HAVE A TOUGH TIME NOW ALL CAUSE WAS TRYING TO GO FAST AND ACT A FOOL\\\"",
+        "tones": [
+          {
+            "score": 0.627088,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "Read more:... http://t.co/FgORJuEZluブログを更新しました。",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "「好きな映画。」→http://t.co/YiVIxFfMcA@Survivor_Fans",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "To win, Kass.",
+        "tones": [
+          {
+            "score": 0.860229,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "To play a noble game, Tony.",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "#SurvivorRT @youngtraplord: Nigga look like a Holocaust survivor http://t.co/z270IWKTLEWow",
+        "tones": [
+          {
+            "score": 0.609376,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "#survivor amazing!",
+        "tones": [
+          {
+            "score": 0.92359,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "Super excited for big brother!!!!RT @BusinessSenseEd: Here’s our #summersurvivalguide: 8 ways to save your business from a sales slump this season http://t.co/IzGwfpz2TM",
+        "tones": [
+          {
+            "score": 0.903559,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "(J…I’m watching #LoneSurvivor on Digital HD and earning points with @Viggle!",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "Buy the movie and start earning!",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "http://t.co/9rCtpkiYOb",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "#viggle@Survivor_Fans kassRT @Survivor_Tweet: Who will make it to the end, &amp; who will the jury vote as $1M winner?",
+        "tones": []
+      },
+      {
+        "sentence_id": 102,
+        "text": "Don't miss a two-hr #SurvivorFinale 2nite 8/7c! ht…@EvaMariePickett you can direct your thoughts to me if you want.",
+        "tones": [
+          {
+            "score": 0.640584,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "I don't mind a bit of Survivor chatter.UGH Kass.",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "Oh well she's not gonna win anyway.",
+        "tones": []
+      }
+    ]
+  }
+}

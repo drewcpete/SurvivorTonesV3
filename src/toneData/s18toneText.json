@@ -1,0 +1,1006 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "18150",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "9fd42ab77d0985dcf6fc099f9fefc447",
+    "x-dp-watson-tran-id": "9fd42ab77d0985dcf6fc099f9fefc447",
+    "x-edgeconnect-midmile-rtt": "59",
+    "x-edgeconnect-origin-mex-latency": "1416",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.623594,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"You can also help stephen win $100K online.",
+        "tones": [
+          {
+            "score": 0.53877,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Pls RT http://ow.ly/7krK",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "If &lt;30 RTs, we'll post a funny Twitter #survivor picFinally caught up with the latest Survivor episodes.",
+        "tones": [
+          {
+            "score": 0.686864,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Has been a fantastic season.",
+        "tones": [
+          {
+            "score": 0.863989,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Coach - Fraud? or Dragon Slayer?SURVIVOR  ALL Staff meeting tomorrow night 7pm at the ROCK!Survivor - Burning Heart ♫ http://blip.fm/~6fi1cAsia",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "- Sole Survivor - 07:51 PM (visit www.RadioTAGr.com/WFWI to TAG this song)\\\"AYA cancer survivor @shanteau kills 'em to win the 200!",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "And a new personal best... #LIVESTRONGPls help my friend Stephen win $100,000 from CBS.",
+        "tones": [
+          {
+            "score": 0.874476,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "It's a 1-in-4 shot w/ yr help.",
+        "tones": [
+          {
+            "score": 0.505464,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Text 13 to 81818.",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "can do 10x.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "Pls RT! #survivorYoung Jeezy - Soul Survivor (w/ Akon) - 07:41 PM (visit www.RadioTAGr.com/WKFS to TAG this song)\\\"Survivor S18E13 The Martyr Approach HDTV XviD-FQM | Ragyn Movies ... http://cli.gs/TPaVU3Thinking about auditioning for Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "Will my knees give out?",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Can I wear a scuba suit in lieu of a swimsuit?",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "Thigh-high socks &retainerPlane Crash Survivor's Family Commends Pilot (WTVM 9 Columbus) http://ow.ly/7kbMthe",
+        "tones": [
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "Israeli #Survivor should be ashamed... they should have never changed the original format!",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "since when the audience decide who goes home?@uneekboi but was it Survivor?",
+        "tones": [
+          {
+            "score": 0.821913,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.775702,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "her Diva 2000 performance wasn't OMG either.@uneekboi",
+        "tones": [
+          {
+            "score": 0.606879,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "regress - go backwards.",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "When Kelly first came out she was good ever since Survivor she SUCKED.",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "regressing...Plane Crash Survivor's Family Commends Pilot http://t.love.com/214305584Relay",
+        "tones": [
+          {
+            "score": 0.542899,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "for Life - Folsom, CA - Survivor's Lap - http://snaptweet.com/56ef0RT @amritat: know anyone who's recently been laid off? in delhi?",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "looking to feature on a \\\"survivor\\\" seriesthe magic of euro vision is over now its time for survivor or amazing race....wich one u decideSurvivor - The Search Is Over - 06:59 PM (visit www.RadioTAGr.com/WFKL to TAG this song)\\\"@iamjustinryan Damn that Survivor!!!",
+        "tones": [
+          {
+            "score": 0.771807,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "I can't believe you and Micah watch it!!!  Oh well...at least you two haven't gone all reality TV crazyYoung Jeezy - Soul Survivor (w/ Akon) - 05:57 PM (visit www.RadioTAGr.com/WEUP to TAG this song)\\\"Pictures are posted on Facebook  @  tracy survivorSurvivor - Burning Heart - 05:51 PM (visit www.RadioTAGr.com/WCJK to TAG this song)\\\"Finally watched Survivor.",
+        "tones": [
+          {
+            "score": 0.716724,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Coach is such an ass.had a great day appreciating my mommy being a cancer survivor at CVHS!!The competition is heating up.",
+        "tones": [
+          {
+            "score": 0.873323,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "It's like Survivor with wine.",
+        "tones": [
+          {
+            "score": 0.828325,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "http://yfrog.com/13tqajhello",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "my theme song lol RT @critter_TV: Conan O'Brien promo; Survivor's \\\"Eye of the Tiger\\\" music getting me all psyched for June 1st!",
+        "tones": [
+          {
+            "score": 0.78315,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Cool.Nossa.. esperei 13 episódios por isso Coach fora do Survivor.. enfim o Stephen parou de ser idiota affffff agora merece minha torcida!Survivor man is zooo Baas!! Channel DiscoConan O'Brien promo; Survivor's \\\"Eye of the Tiger\\\" music getting me all psyched for June 1st!",
+        "tones": [
+          {
+            "score": 0.796984,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "Cool.Flowers I got for each grandma for Cancer survivor gifts.",
+        "tones": [
+          {
+            "score": 0.755684,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "Bouquets actually.",
+        "tones": [
+          {
+            "score": 0.611338,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "Flowers done by manorhouseflowers.com",
+        "tones": [
+          {
+            "score": 0.681644,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "http://twitpic.com/5bjbiI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "not Bear Grills or the survivor guy, but here's my mountain survival story: http://www.jackofalltraining.com/mountain.htm@sweetu4ria",
+        "tones": [
+          {
+            "score": 0.513822,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "My brother had non-hodgkins,8 yr survivor.",
+        "tones": [
+          {
+            "score": 0.508294,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Your daughter is going to look back one day and it will be in the very distant past.Survivor - Eye Of The Tiger - 05:21 PM (visit www.RadioTAGr.com/WKQK to TAG this song)\\\"Kidney Foundation walk Sun with friend who is transplant survivor.Can you donate?",
+        "tones": [
+          {
+            "score": 0.609607,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Every bit helps.",
+        "tones": [
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "http://bit.ly/2sNvr",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "TIA@aplusk I agree completely..I am a 32yo breast cancer survivor and just started working for free apprenticeship best thing i've ever done.@ShaylaMenhusen",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Ah! How scarry!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "I would totally feel safe w/you nyway w/out the training.",
+        "tones": [
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "U r a survivor!@mystica43229",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "@tammymstephens",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "Mom is two-time cancer survivor.",
+        "tones": [
+          {
+            "score": 0.675874,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "Thyroid (removed half) and kidney (removed one).",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "She's strong as ox.@CallaLilies83",
+        "tones": [
+          {
+            "score": 0.749305,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "I watched the first season of Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "The following seasons were never as good.",
+        "tones": [
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "But Heroes, Lost, and 24, forget it!Probst keeps it real on Survivor - Canada.com.. http://bit.ly/9xyE5Survivor - The Search Is Over - 05:58 PM (visit www.RadioTAGr.com/WMMX to TAG this song)\\\"Halfway through my Survivor: Tocantins marathon.",
+        "tones": [
+          {
+            "score": 0.522498,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "6 episodes down 4 to go before tomorrow night's 3 hour season finale.@tivotoday",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "U asked.. I tivo(d) 24, Lost, greys anatomy, Survivor, Brothers & sisters & Southland  just to name a 'few'RT@jblawrence http://twitpic.com/5a8kl",
+        "tones": [
+          {
+            "score": 0.506341,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "- Survivor Lap Relay For Life.",
+        "tones": [
+          {
+            "score": 0.531171,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "Go John!",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "Our family HOPE and HERO wonderful son-in-law!",
+        "tones": [
+          {
+            "score": 0.909452,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "Blessed!@sweetu4ria My prayers are with her.",
+        "tones": [
+          {
+            "score": 0.895214,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "Losing hair is the hardest part, I know, I'm a survivor, 10 yrs.",
+        "tones": [
+          {
+            "score": 0.799039,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.642915,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "Xtra hard if ur 13.",
+        "tones": [
+          {
+            "score": 0.667636,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "God Bless.I am a survivor!",
+        "tones": [
+          {
+            "score": 0.903831,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "I have been beat down mentally, emotionally, spiritually & physically but by the grace of Yahweh, I am still standing tall.Dr.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "Susan Hardwicke, Stage III BC survivor, writes about chemo brain from personal and professional perspective.",
+        "tones": [
+          {
+            "score": 0.551927,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "http://snipr.com/i0eicDragon",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "Slayer Coach from  'Survivor: Tocantins' interview... http://post.ly/ZDdOK,",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "what happened to #swineflu?",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "I thought we were all supposed to be dead by now?",
+        "tones": [
+          {
+            "score": 0.537065,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "Was kinda looking fwd to being a postapocalypse survivor!Currently playing: Survivor - Man Against The World | Tune in now: http://rm.fm/streams.php@lancearmstrong",
+        "tones": [
+          {
+            "score": 0.577726,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "I am a survivor, Living out Loud!@TammyMStephens Mom had a mascetomy, thought her being a survivor would change her ways, but sadly no@OnyxFinancial Another thingy I've gotta do is empty this DVR.",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "Just watched Survivor.",
+        "tones": [
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "Got several Young & Restless, Trust Me & Damages 2 c\\\"Breast Cancer Survivor w/concerns\\\" I am a 54 year old breast cancer survivor for 12 years now.",
+        "tones": [
+          {
+            "score": 0.645846,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "I just had my...",
+        "tones": [
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "http://dwarfurl.com/449c9http://bit.ly/bk93H 'Titanic' Stars Donate to Final Survivor.",
+        "tones": [
+          {
+            "score": 0.508358,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Such a wonderful thing to do.",
+        "tones": [
+          {
+            "score": 0.905044,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "God bless you all.Early in the 17th Century a shipwreck survivor, Juan de Mena, is considered the first nurse in the New WorldWaterboarding debate won't get settled until it's a challenge on Survivor & team who lasts the longest celebrates winning extra snacksSurvivor remotes booked and I'm not telling.",
+        "tones": [
+          {
+            "score": 0.872668,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "It will be an exciting endChildhood cancer survivor sells lemonade to help other children like her.",
+        "tones": [
+          {
+            "score": 0.552614,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "How much did she raise?",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Find out at 7.I think I'm really addicted to Survivor :( Kid sis and I just watched episodes 7-9ish?",
+        "tones": [
+          {
+            "score": 0.692273,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "over brunch.",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "\\\"Work\\\" break and then we're going back!RT @MAWJones: \\\"status of a survivor of spiritual abuse in several church settings – plus her work as a psychologist, counselor, and life ...LMFAO Bumper Sticker: \\\"Shit Creek Survivor (I Found My Paddle)\\\"@tonymatterhorn Really love your new tune - Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "Its crazy.\\\"status of a survivor of spiritual abuse in several church settings – plus her work as a psychologist, counselor, and life coach –: Heather and I are watching last week's Survivor.",
+        "tones": [
+          {
+            "score": 0.596238,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "I love this show.Survivor Tim McCarthy/General Quarters (*tear*)  http://bit.ly/icEJf",
+        "tones": [
+          {
+            "score": 0.514206,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "#preaknessTrying to watch Survivor so Ican write a post about it but nana10 is giving me problemsHeading out to \\\"Relay for Life\\\" in Boerne, TX.",
+        "tones": [
+          {
+            "score": 0.543971,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "My wife is a survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "We have a great team this year!Now playing: Survivor - Eye of the Tiger (REQ by TyVulpine Buccaneer)Spent some time this morning with wonderful parents from: http://kaitysway.org/",
+        "tones": [
+          {
+            "score": 0.93212,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Will",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "be doing their survivor portrait.going",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "out of town gonna miss survivor.......I'm so bummedThese races make 'Survivor' look like a pageant - Let's just say it.",
+        "tones": [
+          {
+            "score": 0.672971,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.704683,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "The whole thing sounds insane.For six days, pe... http://bit.ly/O4lctI",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "have lots of pictures, I will post on Facebook- @ tracy survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "Again I can't say how great it was !!!",
+        "tones": [
+          {
+            "score": 0.965135,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "I met lots of survivors,Probst keeps it real on Survivor - Canada.com.. http://bit.ly/9xyE5@missgiggly",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "one of the best episodes of #survivor ever, right?",
+        "tones": [
+          {
+            "score": 0.84814,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "I don't think I usually laugh that much.",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "Loved the jury reaction!RT @sayguh: I'm on a self imposed hunger strike until lunch time.",
+        "tones": [
+          {
+            "score": 0.741617,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "Protesting the dishonorable ouster of Coach on #SurvivorBeing a first time race participant & survivor was awesome, words can't describe the emotions...amazing...http://twitpic.com/5b8gzFUCK",
+        "tones": [
+          {
+            "score": 0.931043,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "my favourite on swedish survivor just got voted off!! shit =(Farrah, what a courageous lady you are against your cancer battle.",
+        "tones": [
+          {
+            "score": 0.532969,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "My prayers are with you.",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "I'm a cancer survivor for over ten years.Eye of the Tiger - Survivor ♫ http://blip.fm/~6f4v6Lost",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "On Hidden Island: You are the only survivor from a plane crash on an apparently desert island.",
+        "tones": [
+          {
+            "score": 0.579017,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.641954,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "Now you have.. http://tinyurl.com/ph7xvoDaily",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "Devo Luke 6:38 this scripture is hard sometimes hope every 1 is ok & no severe weather thankful 4 the rain Survivor Finale Sunday niteSurvivor - High On You - 01:36 PM (visit www.RadioTAGr.com/KMGE to TAG this song)\\\"I have never watched a full episode of LOST, 24, Heros, or Survivor.",
+        "tones": [
+          {
+            "score": 0.533383,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": ":-)Seeing the look on a survivor's face when she sees her portrait the first time #makesmesmileSurvivor - High On You - 04:25 PM (visit www.RadioTAGr.com/WAVF to TAG this song)\\\"Watchign Survivor before I sleepwatching survivor with the familywatching survivor ..texttin of coursse wanna go shopping!!Coventry cancer survivor joins London 'Moonwalk' to help raise funds: FIVE years ago Coventry mum Marie Rutter w.. http://tinyurl.com/pyl3g6Já",
+        "tones": [
+          {
+            "score": 0.672056,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "que tão postando sobre a final do Survivor, vou postar tb né.... então amanhã Go Go JT !!! Mas eu acho que quem leva é o Stephen.NP! She's a survivor tho...Keiko is sick, Mimi just got over being sick and Bo-Pah said she had a Stomach ache.",
+        "tones": [
+          {
+            "score": 0.560796,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      }
+    ]
+  }
+}

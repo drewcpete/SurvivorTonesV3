@@ -1,0 +1,836 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "14778",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "7a16217049324f72b500ffc28ba6a17a",
+    "x-dp-watson-tran-id": "7a16217049324f72b500ffc28ba6a17a",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1281",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.529758,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.645233,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @Survivor_Tweet: Glad you're excited to watch #SurvivorFinale tonight @ActuallyNPH -- who do you think is going to win?I had to watch survivor tonight because if I would of saw a tweet of who won, I would of been pissed 👊@letskroll I am rooting for him too!! #SurvivorIt's time!!! #survivorfinale  #survivor Hopefully my fav wins.#Survivor",
+        "tones": [
+          {
+            "score": 0.851455,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "finale starts MEOW#survivorfinale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "So Ready for tonight, except that it means no Survivor for the summertime.",
+        "tones": [
+          {
+            "score": 0.651992,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Go Cochran!Time for.",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "GL contestants!!! Please no Sherri in final 3. Such a slacker!!",
+        "tones": [
+          {
+            "score": 0.516371,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "I miss @RupertBoneham  he needs to return to survivor!!!It's #survivor time!!Its time to live tweet the #Survivor finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "So come watch &amp; chat with me! Ill try to just comment and not spoil (ill use warnings if i do)Time for survivor@JeffProbst Cheering for Eddie like a part time job!",
+        "tones": [
+          {
+            "score": 0.599484,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "@Survivor_Tweet #suvivorfinale@rachelmarlee 3 hours of #survivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "Are you gonna watch?RT @russellhantz: What's the odds on dawn crying tonight if you say that she will not cry!",
+        "tones": [
+          {
+            "score": 0.795114,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "I'm taking ALL bets that she will #SurvivorRT @JULLry_box: if dawn wins survivor i will consider my life over#TeamCochran http://t.co/udOsxjn3z0",
+        "tones": [
+          {
+            "score": 0.703784,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "#GetGlue @Survivor_TweetRT @Ekhayes5: Survivor and Game of Thrones tonight!#onceuponatime final and #survivor final tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Also #breakingamish!!!I'm watching #Survivor with 185 others on #GetGlue http://t.co/ayrDofm4h8RT",
+        "tones": [
+          {
+            "score": 0.717574,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "@Jay_Fischer: Previously on #Survivor:  Brenda is routinely voted out, and the internet rages so hard they go back in time and take down…#survivor finale!! Lets go Eddie!!!#Survivor is about on!",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "fkjda;ffdskjlf;@Debsox03 Ahh!",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "I know!",
+        "tones": [
+          {
+            "score": 0.982476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "I almost forgot about #runchat I think I'll skip tonight &amp; watch #survivor since its the finale.",
+        "tones": [
+          {
+            "score": 0.703559,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.765977,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.775166,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "Who do u want 2 win?RT @Survivor_Tweet: Do you think #Eddie and #Andrea would be a good \\\"island couple?\\\" #Survivor #tweetsurvivor http://t.co/Nl5xZ4WrHtRT",
+        "tones": [
+          {
+            "score": 0.686326,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "@RupertBoneham: Death threats are unacceptable.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "If you would not say it to someone's face then do not tweet it.",
+        "tones": [
+          {
+            "score": 0.711887,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "#survivorSurvivor final #excited #survivorfinaleFinale!",
+        "tones": [
+          {
+            "score": 0.958408,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "#nerdtweet #Survivor #GetGlue http://t.co/mmAMY2hmH5For",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "the last time this season.....  \\\"Survivors ready?\\\"  #Survivor #CBS #Global_tv  Back in the Fall.Wow, I just watched last weeks #Survivor and all I can say is WOW!!!#SURVIVOR #TEAMEDDIE #FINALE 😬😬😬Survivor finale!!!Showtime!",
+        "tones": [
+          {
+            "score": 0.581376,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Time for the \\\"Survivor: Caramoan - Fans vs. Favorites\\\" finale and LIVE reunion!",
+        "tones": [
+          {
+            "score": 0.53554,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "#Survivor #survivorfinaleMother's Day and #SurvivorFinale!",
+        "tones": [
+          {
+            "score": 0.535147,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "This day couldn't get any better!",
+        "tones": [
+          {
+            "score": 0.63418,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "@Survivor_Tweet@Survivor_Tweet Eddie or Eric deserve to win it allLike I said, Cochran better win.",
+        "tones": [
+          {
+            "score": 0.778761,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "#survivor#Survivor season finale!!!It's the day we've waited all year for.",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "It's @Survivor_Tweet  Sunday!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "So excited to see what happens.",
+        "tones": [
+          {
+            "score": 0.861266,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "#survivorfinaleI really don't care who wins #survivor, except for Sheri.",
+        "tones": [
+          {
+            "score": 0.571196,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "She has done nothing all season except take up space.Finale de Survivor em instantes.",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": ":)#survivor finalie!! ❤@lpaul_a @kjejercito Haha.",
+        "tones": [
+          {
+            "score": 0.98244,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "bahala na.",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "di ra ko patintal anig peek sa survivor pages.",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "election man gud.",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "lingaw.#survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "\\\"brains, brawn, sherri and dawn\\\"SURVIVOR TIMEE!!! :):):)RT @Survivor_Tweet: One of the greatest tribals ever, led in part by the #threeamigos!",
+        "tones": [
+          {
+            "score": 0.926327,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "#Survivor http://t.co/unUXQU5tTDMe!",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": ":) RT @eorlins Alarm went off at 6:50am here in Cambodia so I could watch #Survivor!",
+        "tones": [
+          {
+            "score": 0.675861,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "Excited for this finale!! Who else is watching?survivor",
+        "tones": [
+          {
+            "score": 0.854533,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "finale 😌Survivor finale time!",
+        "tones": [
+          {
+            "score": 0.547649,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Capitals who?!!?Season finale of Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Lets go @JohnMCochran !!!!RT @eorlins: Wait what is this I'm hearing about pre-jury not being on stage at all for the reunion??! Why?? Usually they come out post-vot…@Survivor_Tweet one minute until #survivorfinale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "(: can't waitsurvivor finale tonight and I'm 100% rooting @JohnMCochranThanks to pvr / TiVo, I'll watch hockey AND survivor :)I'm watching Survivor (174 are watching) http://t.co/isedOu5gHp",
+        "tones": [
+          {
+            "score": 0.6885,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "#GetGlue @Survivor_TweetSurvivor finale!!!Damn you Survivor Finale for airing the same night of Game 6!!!Dawn says she will not cry tonight.",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "Yeah, okay...  #survivor #cbs #finaleI HAVE SO MUCH WORK TO DO  but instead im gonna go watch the Survivor FinaleSurvivor #finale #excited..awesome end to #MothersDay @JeffProbst#Survivor Season Finale!!#Firstworldproblems Choosing between the finales of #Revenge, #OUAT and #Survivor.",
+        "tones": [
+          {
+            "score": 0.615564,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "All on the same night...laaammmeee.The time has come!!!!! #survivor#survivor east coast it's time!Time to get off of Twitter...dvring Survivor and want to avoid finding out any details in advance.",
+        "tones": [
+          {
+            "score": 0.533165,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "Have a good night all.@Survivor_Tweet",
+        "tones": [
+          {
+            "score": 0.819666,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "@ActuallyNPH hopefully noy dawn or cocaroch!!Here we go people lets see who takes the title that I have been dreaming about tonight @JeffProbst @Survivor_Tweet #SoleSurvivor #SurvivorShow time.",
+        "tones": [
+          {
+            "score": 0.525738,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.779898,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "I just hope those who played a good game get the chance to win.",
+        "tones": [
+          {
+            "score": 0.720767,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.974201,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "#SurvivorAlmost time for the #survivor finale :D@SportsSturm Survivor finale tonight...who ya got?RT @BostonRob: Make sure you check out the #SurvivorFinale tonight...I will b stopping by #Surprise @JeffProbst @MarkBurnettTV @Survivor_Tw…RT @JohnMCochran: Sunburn.",
+        "tones": [
+          {
+            "score": 0.635052,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "Masculine tomfoolery.",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Vanilla.",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "Intelligentsia attaché.",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "Peanut butter-covered fingers.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "It all ends tonight.",
+        "tones": [
+          {
+            "score": 0.97759,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "Let's…Season finale of #survivor tonight!RT @DowntownTBROWN8: Getting pump for the survivor finaleWho here is rooting for Cochran tonight?",
+        "tones": [
+          {
+            "score": 0.611503,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "http://t.co/p9NJEn0Htj",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "#GetGlue @Survivor_Tweet@eorlins here I am, 2:00am in Spain; waiting from Survivor finale.RT @CancerWhoCanada: Support team #CancerWho @ the #CIBC #RunForTheCure!",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "Donate OR Join The Team! http://t.co/37XIrj4Vpr",
+        "tones": [
+          {
+            "score": 0.520921,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "#FightLikeAGirl #…It all ends tonight!",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "#Survivor !",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "Go @SURVIVOReddie !",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "Screw the rest of them! ( plus @julialandauer at the reunion!! Yay!!)Everyone is watching the #leaf game.",
+        "tones": [
+          {
+            "score": 0.825582,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "I'm watching the finale of survivor.Sooooooo pumped for Survivor rn 😁Ahhhh 1 minute left!",
+        "tones": [
+          {
+            "score": 0.630406,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "#survivorsurvivor finale 😁Survivor season finale!!getting stoked for the finale of #survivorPizza, wings, chips, and #Survivor.",
+        "tones": [
+          {
+            "score": 0.608607,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "It's gonna be a good nightHoping Cochran wins survivor tonight #nerdgingerpowerRT @andreaboehlke: Almost finale time #Survivor #boom http://t.co/X3YSWL5Wc7RT",
+        "tones": [
+          {
+            "score": 0.711451,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "@Survivor_Tweet: East coast - 30 minutes til #SurvivorFinale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "See castaways getting ready here http://t.co/OzXFWiqfUl",
+        "tones": [
+          {
+            "score": 0.600731,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "... R U ready?! ht…RT @eorlins: Alarm went off at 6:50am here in Cambodia so I could watch #Survivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "#Dedication.",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "Excited for this finale!! Who else is watch…Previously on #Survivor:  Brenda is routinely voted out, and the internet rages so hard they go back in time and take down Noriega.Season finale of #Survivor coming up.",
+        "tones": [
+          {
+            "score": 0.594626,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "Hope @JohnMCochran wins!",
+        "tones": [
+          {
+            "score": 0.712076,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "That would be the best.Season finale of #Survivor coming up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "Hope @JohnMCochran wins!",
+        "tones": [
+          {
+            "score": 0.712076,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "That would be the best.#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "finale time boys and girls!",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "#PumpedIF Dawn wins @Survivor_Tweet I will throw up!  #teameddieRT @BostonRob: The finale is tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Don't miss it!",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "@Survivor_Tweet @JeffProbst @MarkBurnettTV http://t.co/zZthq2TrZiSURVIVOR",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "FINALE!!!😍😍😍 #teameddie @SURVIVOReddie 😘😘omfg survivor finale today#survivor finale is on in 2 minutes epppppp im so excited... my favourite part is gonna b when the jury gets to confront the final 3!!!!!Survivor finale tonight😁🐒🐟🐍🌴🌞🎉🎉Survivor Finale tonight!!!😱😱😱This is it.",
+        "tones": [
+          {
+            "score": 0.882207,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "#Survivor #GetGlue http://t.co/cC6wcFpQmkI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "ready for three hours of Survivor!!! Two hour finale and then the live reunion show!!!! @Survivor_Tweet #excited #obsessed!! ♥Survivor finale!",
+        "tones": [
+          {
+            "score": 0.894031,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.599421,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "https://t.co/tROEKdw9kW\"}",
+        "tones": []
+      }
+    ]
+  }
+}

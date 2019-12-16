@@ -1,0 +1,776 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16055",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "f16e5dc9567562cfd7b14f271505d645",
+    "x-dp-watson-tran-id": "f16e5dc9567562cfd7b14f271505d645",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1897",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.602055,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.676146,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Hubby and I watching survivor nicaragua, for a second we thought we didn't have final episode...",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "But we found it, and we actually high fivedSpoiler alert!! Fabio wins survivor nicaragua!!!Erik de Bie: Put a Gamer in the Game: Phil Athans on Survivor: Nicaragua http://bit.ly/f5hsNpPut a Gamer in the Game: Phil Athans on Survivor: Nicaragua http://j.mp/i7SLkyIm",
+        "tones": [
+          {
+            "score": 0.6693,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "soo addicted to survivor nicaragua probably bcz of @benry26 :)2 days in a row with sleepless nite watching #survivor Nicaragua done HVSV done Micronesia done next is SamoaCheck (watching Survivor: Nicaragua via @gomiso) http://miso.io/cWR6JwHere's",
+        "tones": [
+          {
+            "score": 0.587282,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "the full video of Survivor Nicaragua Reunion Ep.",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "Fabio wins the title.",
+        "tones": [
+          {
+            "score": 0.73373,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "http://www.youtube.com/watch?v=i30hv6XzCMM&feature=relatedBrenda from survivor nicaragua is smokin' hotSurvivor Nicaragua has ended so 3 weeks ago...",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "And it's still the final episode at Solar...Watching Survivor Nicaragua!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "Chase has the lead from the start when Fabion won 3 immunity challenges in a row -- game messed up! :(Finally got a chance to watch a replay of Survivor Nicaragua Finale awhile ago... Booyah!",
+        "tones": [
+          {
+            "score": 0.593662,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Fabio frickin' won!watching survivor nicaraguaNaOanka is a certified villain in Survivor Nicaragua w/c I'm liking it.",
+        "tones": [
+          {
+            "score": 0.711121,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "She just made herself natural & no fake attitudes.",
+        "tones": [
+          {
+            "score": 0.641995,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": ":)Survivor Nicaragua Finale tonight over Jack TV at 9PM.Survivor Nicaragua Reunion!",
+        "tones": [
+          {
+            "score": 0.557303,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Love it!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": ":))Watching Survivor Nicaragua.;)",
+        "tones": [
+          {
+            "score": 0.914109,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "http://bit.ly/eZlM1S",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "And the Survivor: Nicaragua winner is…  The News Chronicle fabioOlha eu até gostava do vencedor de survivor nicaragua, mas no final fiquei meio em duvida se ele merecia ou não... #SurvivorEu bem que queria assistir a final de #Survivor: Nicaragua, mas eu acho que vai ter que ficar pra semana que vem mesmo.Pardolis says: \\\"\\\"Pick Up Your Swords!\\\"--Survivor Nicaragua Season Finale\\\" http://lunch.com/t/5yno",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "'Survivor Nicaragua - Episode...' Review@SimWinchester he was on Survivor:Nicaragua and he won the show.",
+        "tones": [
+          {
+            "score": 0.60558,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "I like him :P and I just found out after the show that he is also a model!RT @briankwest (briankwest): Survivor Nicaragua- Casting Call - View All Uploads - CBS.com http://is.gd/jJxbfSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Nicaragua- Casting Call - View All Uploads - CBS.com http://t.co/rMuW4PcWatched",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "the finale of Survivor Nicaragua - first time in ages that a person I liked WON!The Tribe speaks in 4 hours!",
+        "tones": [
+          {
+            "score": 0.639366,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "Send us your final thoughts on Survivor Nicaragua and/or your thoughts on Redemption Island!RT @operationsmile: #SURVIVOR AUCTION: Last day to bid on Survivor: #Nicaragua collectibles on eBay to benefit Operation Smile! http://o ...enquanto não começa survivor nicaragua, acho q começarei a ver survivor pearl islandsRT @operationsmile: #SURVIVOR AUCTION: Last day to bid on Survivor: #Nicaragua collectibles on eBay to benefit Operation Smile! http://o ...RT @operationsmile: #SURVIVOR AUCTION: Last day to bid on Survivor: #Nicaragua collectibles on eBay to benefit Operation Smile! http://o ...RT @operationsmile: #SURVIVOR AUCTION: Last day to bid on Survivor: #Nicaragua collectibles on eBay to benefit Operation Smile! http://o ...RT @operationsmile: #SURVIVOR AUCTION: Last day to bid on Survivor: #Nicaragua collectibles on eBay to benefit Operation Smile! http://o ...#SURVIVOR AUCTION: Last day to bid on Survivor: #Nicaragua collectibles on eBay to benefit Operation Smile! http://ow.ly/3vMw8Like",
+        "tones": [
+          {
+            "score": 0.667118,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "how I was chillin with people from Survivor Nicaragua and chatting it up like I actually knew them.",
+        "tones": [
+          {
+            "score": 0.66549,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "Oh, if only..  Survivor Nicaragua: Casting Call Contest - CBS.com http://t.co/4ULFBkLSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "Jeff Probst Chats About Redemption Island: Survivor: Nicaragua on CBS recently ended their season with... http://bit.ly/hxsNAfJust",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "watched Nicaragua which I recorded -can't wait for next season http://bit.ly/fWyi7q",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "@survivor_tweet (via @GetGlue)Survivor Nicaragua , 21st Season (all other seasons available too)",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "http://www.upillar.com/listings/213946-survivor-nicaragua--21st-seasonSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "Nicaragua winner Fabio: ?It felt ecstatic!? http://post.ly/1P4DrLast",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "night, the winner of Survivor: Nicaragua was crowned, and we were treated to the usual 1-hour-is-not-... http://tinyurl.com/2dpk3b5http://bit.ly/eZlM1S ;) And the Survivor: Nicaragua winner is…  The News Chronicle fabioLast night, the winner of Survivor: Nicaragua was crowned, and we were treated to the usual 1-hour-is-not-... http://tinyurl.com/296m6x2Winner!",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "(watching Survivor: Nicaragua S21E16 via @gomiso) http://miso.io/cWR6JwI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "watching Survivor: Nicaragua S21E15 (via @gomiso) http://miso.io/cWR6JwFabio",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "wins the sole survivor title!",
+        "tones": [
+          {
+            "score": 0.615899,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "http://nicaragua.survivor.com/It",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "seemed to go unnoticed that #Survivor Nicaragua had the first all-male final 3 in series history.",
+        "tones": [
+          {
+            "score": 0.564853,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "@robcesternino @EWDaltonRossSurvivor: Nicaragua Season 21 E 15 [3/5] http://bit.ly/dQc0puCheck",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "out the latest \\\"Survivor: Nicaragua\\\" vids @PersistentFan  - http://bit.ly/960UUBProud of Fabio!",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "He won Survivor Nicaragua!!! He's goofy, fun... Totally deserved.",
+        "tones": [
+          {
+            "score": 0.86197,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.874372,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "LolRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "@SHADOWUSR @melgotserved #MadMen, #WalkingDead, #NurseJackie, #HOARDERS, #Lost, #ModernFamily, Survivor NicaraguaThe winner of Survivor Nicaragua: FABIO.... Congratulations!!!! :)@melgotserved #MadMen, #WalkingDead, #NurseJackie, #HOARDERS, #Lost, #ModernFamily, Survivor NicaraguaFinal ep.",
+        "tones": [
+          {
+            "score": 0.785787,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "I know who won but still love it (watching Survivor: Nicaragua via @gomiso) http://miso.io/cWR6JwWatching",
+        "tones": [
+          {
+            "score": 0.798387,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "the finale of Survivor Nicaragua.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "Bad season, but I think the reunion should be interesting.",
+        "tones": [
+          {
+            "score": 0.590006,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "#ILoveJeffPara terminar a noite a final de Survivor Nicaragua.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "Ta td bem ganhou um dos menos ruins, mas curtia mais Jane.",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Sair de casa ainda ou não?http://bit.ly/gN3xT6",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "Who Won Survivor Nicaragua: Judson birža!Já que eu não consigo baixar o epi 4 de TAR 12, vamo baixar Survivor Nicarágua pro @gui_vilanova AISUHDIASHIDHS =xSurvivor: Nicaragua Podcast Finale http://goo.gl/fb/KlG9NAssisti a \\\"Survivor (US): Survivor: Nicaragua - The Reunion\\\" s21ep16 http://j.mp/hmYK2k",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "#orangotagSurvivor Nicaragua Cast Jud On Cbs | American News Now: Jud: Survivor Nicaragua.",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "Name: Jud Birza (21) Name: Jud ... http://bit.ly/fcnTEW#2010memories",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "@chasericemusic on Survivor: Nicaragua@Hefner Viste el final de Survivor: Nicaragua?",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Todavía estoy en shock!",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "Felis Nabidá!!!RT @MolksTVTalk: New: Fabio wins Survivor Nicaragua - http://molk.tv/dKqZaMNew:",
+        "tones": [
+          {
+            "score": 0.836484,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "Fabio wins Survivor Nicaragua - http://molk.tv/dKqZaMBaixando",
+        "tones": [
+          {
+            "score": 0.72813,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "o epi 5 de Survivor Nicarágua pro @gui_vilanovaSurvivor Nicaragua: Casting Call Contest - CBS.com http://t.co/roHPxnxSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "Nicaragua Elimination Interview – Winner Fabio and Third-Place Sash: Are you all Survivored out ye... http://bit.ly/hz423N",
+        "tones": [
+          {
+            "score": 0.589049,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "#fbSurvivor: Nicaragua Elimination Interview – Winner Fabio and Third-Place Sash: Are you all Survivored out ye... http://bit.ly/hz423N",
+        "tones": [
+          {
+            "score": 0.576828,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.727798,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "#fbYeah!!! @Fabillion21 won #Survivor Nicaragua.... Now I'm waiting for #Survivor Redemption Island.... :)Vou lá na cozinha pegar algo pra comer e assistir a final de Survivor Nicarágua :D GO GO Fabio õ/Just recorded:  Survivor: Nicaragua - Reunion (Nine Digital)Matt Ryan Cbs – Sash Matthew Lenahan Survivor: Nicaragua 3rd place ...: Sash Matthew Lenahan Survivor: Nicaragua... http://bit.ly/emyR5oI",
+        "tones": [
+          {
+            "score": 0.550903,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "know it has been days since Nicaragua finished.",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "but, this is just the time I was able to watch it.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": ":)) #Survivor #NicaraguaWatching Survivor: Nicaragua w/ mum.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "I always wonder why the women, once on the jury, are made up like drag queens.Just saw final Survivor Nicaragua & so glad @Fabillion21 won!! Congrats from Australia!",
+        "tones": [
+          {
+            "score": 0.849962,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.534455,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "Definitely gonna check out @chasericemusic too! :-)Série: Survivor Nicaragua - 21x15 e 21x16 http://www.blogtopsites.com/p/7894423@pup218",
+        "tones": [
+          {
+            "score": 0.673076,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.825035,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "Jimmy T looks like the only contestant who could've come straight from Nicaragua.",
+        "tones": [
+          {
+            "score": 0.73677,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "#survivorSurvivor: Nicaragua 9/29/10 – S21E03 – Part 4/5 http://goo.gl/fb/NrySnSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "Nicaragua in 60 seconds #survivor http://www.youtube.com/watch?v=8pmbbKYl08kVery happy that Fabio won Survivor Nicaragua...",
+        "tones": [
+          {
+            "score": 0.889702,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "But seriously, Chase getting 4 of 9 votes?I'm watching Survivor: Nicaragua S21E15 (via @gomiso) http://miso.io/cWR6Jw[BLOG",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "ATUALIZADO] Série: Survivor Nicaragua - 21x15 e 21x16 http://bit.ly/h4w58O[BLOG",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "ATUALIZADO] Série: Survivor Nicaragua - 21x15 e 21x16 http://bit.ly/h4w58OOMG",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "Survivor Nicaragua - who would have picked that..I kinda did a few weeks agoSérie: Survivor Nicaragua - 21x15 e 21x16 http://ow.ly/1aDldw&",
+        "tones": [
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "the winner of Survivor Nicaragua is  .......",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "FabioTHE WINNER OF #SURVIVOR NICARAGUA IS................FABIO!!!!!!!  @Fabillion21Série: Survivor Nicaragua - 21x15 e 21x16 http://nblo.gs/ck7LXSérie:",
+        "tones": [
+          {
+            "score": 0.636487,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "Survivor Nicaragua - 21x15 e 21x16 http://nblo.gs/ck7LXRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "@muzgaz: Note to self: do not holiday in Nicaragua - the weather is shit!",
+        "tones": [
+          {
+            "score": 0.839489,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "#survivorRT @muzgaz: Note to self: do not holiday in Nicaragua - the weather is shit!",
+        "tones": [
+          {
+            "score": 0.843338,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "#survivorRT @muzgaz: Note to self: do not holiday in Nicaragua - the weather is shit!",
+        "tones": [
+          {
+            "score": 0.843338,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "#survivorRT @muzgaz: Note to self: do not holiday in Nicaragua - the weather is shit!",
+        "tones": [
+          {
+            "score": 0.843338,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "#survivorNote to self: do not holiday in Nicaragua - the weather is shit!",
+        "tones": [
+          {
+            "score": 0.909476,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "#survivorSash from Survivor Nicaragua - @mattprowse's evil twin: http://tinyurl.com/25loz4d",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "#survivornicaraguawatching survivor: nicaragua grand finaleDidn't even realise another season had started!",
+        "tones": [
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "(watching Survivor: Nicaragua S21E15 via @gomiso) http://miso.io/cWR6JwSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Nicaragua !",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "So, soooo excited.",
+        "tones": [
+          {
+            "score": 0.903138,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "hope Chace AND Fabio win hehe n_n'I don't mean to toot my own horn, but I was the smarterest person in the game' -NaOnka, Survivor Nicaraguasurvivor nicaragua finale!...hohoho\"}",
+        "tones": [
+          {
+            "score": 0.786572,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,865 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16357",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "6ea1fdecc31b7a88e920e077746e8f8d",
+    "x-dp-watson-tran-id": "6ea1fdecc31b7a88e920e077746e8f8d",
+    "x-edgeconnect-midmile-rtt": "54",
+    "x-edgeconnect-origin-mex-latency": "1609",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.647515,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @EmeGokhan: Dev Anket !! #Survivor ",
+        "tones": [
+          {
+            "score": 0.511661,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "Serhat Akın = RT #serhatakın #SAFC",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "Adem Kılıççı = Fav #ademkılıççı #AKFC",
+        "tones": [
+          {
+            "score": 0.693473,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "250 ' de Biter !! https:…RT @ersoz_ulku: Ünlü yönetmenimiz Zeki Demirkubuz'un gözünden İLHAN MANSIZ 👊#survivor https://t.co/OfyhNFgZeZRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "@USATODAY: Holocaust survivor receives high school diploma in Minnesota.",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "https://t.co/r1i8Ws0HbPHayatda",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "tek başarısı belki de Survivor'a gitmek olmuş birinin İlhanın futboluyla alakalı ireli geri konuşması kadar saçma hayat #Survivor@morestorgy @chuckpalahniuk I'd say 'Survivor' is probably in my top three with 'Fight Club' and 'Lullaby' all brilliant...RT @ogedayturkey: Büyük SMS oylamasında (27-28 Mayıs) gönüllülerden kimi destekleyeceksiniz?",
+        "tones": [
+          {
+            "score": 0.527857,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Lütfen oy kullanmayacaklar katılmasın.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "#surviv…Cheat.",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Use pre-cut veggies to cook with.",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "#ChemoCravings https://t.co/t5NrlgCJRs",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "via 2x #cancer survivor… https://t.co/qw98QzaBV5High",
+        "tones": [
+          {
+            "score": 0.630237,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "school student wins scholarship, gives it to cancer survivor @JudgeWren @karibowieHertel… https://t.co/AUEfawZ1HyRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "@aubrybracco: Reach out and hug someone, it's the best day of the year.",
+        "tones": [
+          {
+            "score": 0.771472,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "Happy #Survivor Finale Day! https://t.co/t7eX4GYw7VRT",
+        "tones": [
+          {
+            "score": 0.861118,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "@MustafaUzunhan: Tuğce hadi gulum sana gule gule 👋 #survivorRT @tu_ayca: 😍😍 #badboys #eserwest #survivor @fatchefwest https://t.co/UoaBzelmxvRT",
+        "tones": [
+          {
+            "score": 0.841173,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "@Cigdemsen5: Hakanin besiktas üzerinden Ilhan Mansiza yüklenmesinin sebebi bence smste Ilhanin birinci olduğunu öğrendi son cirpinislari…RT @Jay__Qs: Heroes,Healers, Hustler?",
+        "tones": [
+          {
+            "score": 0.636711,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Hustlers sign me up! #hustler #SurvivorWhat's Good?",
+        "tones": [
+          {
+            "score": 0.807694,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "This Little Girl Dresses As Her Cancer Survivor Grandmother For Photoshoot https://t.co/w21CalK6vlRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "@Jay__Qs: Congrats @sarahlacina !!!!! Damn it must feel good!",
+        "tones": [
+          {
+            "score": 0.898975,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "#Survivor #SurvivorGameChangers #respectthelawlolRT @BriceIzyah: Lord my baby went home... but no vote 😂😫 how sway how 🤔 #SURVIVOR #survivorfinale #SurvivorGameChangers love you @Ciriesurv…Η Μαριάννα Καλλέργη από τότε που αποχώρησε από το παιχνίδι δεν μας έχει αφήσει σε ησυχία και συνεχώς κάνει... https://t.co/jCO3IBV5SJRT",
+        "tones": [
+          {
+            "score": 0.642491,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "@sunni_tenefus: Sayın SAFC kendinize gelin lütfen",
+        "tones": [
+          {
+            "score": 0.548989,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "Serhatı Yada İlhanı yada Semayı veya Furkanı TV8 algıları değil onurlu insanlar şampiy…RT @USATODAY: Holocaust survivor receives high school diploma in Minnesota.",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "https://t.co/r1i8Ws0HbPRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "@AdamScottKlein: Tonight, I pass the torch.",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "Thank you to all who have been a part of my #Survivor journey!",
+        "tones": [
+          {
+            "score": 0.671075,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.775702,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "Nothing but love! ❤️😃 https:/…Panoramaya Anlat Bakalım'daki gibi yasaklı kelimeler olsa bunlar olurdu.",
+        "tones": [
+          {
+            "score": 0.864694,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "İftira",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "Parlatma",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "Algı ",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "Gereksiz övgü",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "Gereksiz eleştiri",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "#survivorRT @zeyyiiilmaz: Berna'nin hakkina giriyorsunuz.",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "Onun da düşlediği bi hedefi var.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Oturduğunuz yerden iki kelam ederek kizi kötülemek doğru…RT @gordonholmes: So, who's going to start the Kickstarter so we can give @Ciriesurvivor12 a Rupert-esque million?",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "#Survivor #SurvivorGameC…RT @FeyzaBasyigit: AHAHAHAHAHAHA :)",
+        "tones": [
+          {
+            "score": 0.880592,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "#Survivor https://t.co/T2xkx04M2p@yesberna",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "@berrin_k Sike yapilmadikca Egodayi bile eler Berna, belki  Ilhanla Ademi yenemez #survivorRT @Klmrxx: İlhan Mansız'ın sıçtığı bok olamayacak insanlar hakkında atıp tutmasin bir zahmet.",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "#Survivor #SurvivorPanoramaRT @theshirin: 1) fire making tie-breaker",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "2) surprise final 2",
+        "tones": [
+          {
+            "score": 0.532731,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "3) idoled out w/three votes",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "4) advantagegeddon",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "#Survivor #CirieOzzy needs to leave this jury thanks.",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "😧😧😧 #SurvivorYou were truly deserving of the win @bradculpepper.. lots of love from India and thank you for a wonderful season @JeffProbst #SurvivorRT @themountleads: Cancer Survivors get your pic taken for the Cancer Survivor presentation on Sun 6/4 at the Cathedral starting 2morrow 5/…RT @ekransor: Ogeday sembol oyununda Ademi kandırdı Yarışmanın başında yaptığı için unutuldu.",
+        "tones": [
+          {
+            "score": 0.883332,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "#Survivor @OzturkSemih https://t.co/LuSAVZrjyCΈξοδος",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "για τον Στέλιο Χανταμπάκη – Με ποιον παίκτη του Survivor συναντήθηκε; https://t.co/1XLgwMxalbThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "latest Media Shuffle! https://t.co/5w6n66Qwbc",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "#survivor #the100Lone Survivor 720p Audio Español Latino https://t.co/S9xKBz5Y6z",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "vía @Descargatelo20RT @russellhantz: Why can't they just do survivor and the name is a certain place like they used to do??Thanks CBS for another great season of Survivor!!!",
+        "tones": [
+          {
+            "score": 0.552169,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "I can't wait for 35th season with 18 new playersAnd this is what I was worried about Sarah's game.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "The jury wouldn't necessary like how she's burned them all.",
+        "tones": [
+          {
+            "score": 0.605184,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "#headvheart #Survivor💙 #survivor @tugcemelisdemr @fatchefwest https://t.co/uzut3uKg5M@missinusa",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "@Cosmopolitan Thank you for sharing your story!",
+        "tones": [
+          {
+            "score": 0.808485,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "I am a Melanoma survivor and I am a lucky survivor.",
+        "tones": [
+          {
+            "score": 0.657811,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "I to… https://t.co/ovHHLta8WjSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Ποιος είναι ο καλύτερος παίκτης και ποιος ο χειρότερος; https://t.co/ydG8QRuk2dRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "@zeyyiiilmaz: Berna'nin hakkina giriyorsunuz.",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "Onun da düşlediği bi hedefi var.",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "Oturduğunuz yerden iki kelam ederek kizi kötülemek doğru…RT @BB_timc: #Survivor 35 Teaser ",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "@RedmondSurvivor hope that you can find the missing 4 :) https://t.co/kE6IzGSMY3Survivor:",
+        "tones": [
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Παρελθόν η Τουρκάλα για τον Βασάλο!",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "Η αγκαλιά και τα υπονοούμενα με την Ευριδίκη Βαλαβάνη!",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "https://t.co/aWrWQfsWqlThere's",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "a new winner on #Survivor—our finale recap: https://t.co/W6VIuG8Ftw",
+        "tones": [
+          {
+            "score": 0.508245,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "https://t.co/7RRm8CxGzZBi",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "ilsemfurhat fanları bi de bkfc bizim bu hakan patatesinden çektiğimi nedir arkadaş!",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "#SurvivorRT @lauxkas: Bu sene İlSemFurHat'tan biri şampiyon olacak, bu kadar!",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "#Survivor #ilhan #sema #furkan #serhatRT @AhmetBilginGS: Gelen her konuk Bernanın güçlü potansiyeli olduğunu söyleyince Berna elenir diyorsun neden algıcı dediklerini anlıyorsun…Survivor: Χαμός με τα βίντεο που δείχνουν τον Κωνσταντίνο Βασάλο στους αγώνες bodybuilding!",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "https://t.co/D3Q4hQPYj9",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "https://t.co/8yWLmseV6vAfter",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "4 seasons, Ozzy still doesn't get the game of #Survivor even though he spent more time than anybody.#Survivor",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "ademi fanları ademi daha önce den tanıyorlarmıydı yok sorvarvır da fanı oldunuz@guitarplayer232 @satansopinion @kynrav Wouldn't just make her a survivor like all the others that survived.",
+        "tones": [
+          {
+            "score": 0.652494,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Grante… https://t.co/8JyMXLFvhqRT",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "@Klmrxx: İlhan Mansız'ın sıçtığı bok olamayacak insanlar hakkında atıp tutmasin bir zahmet.",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "#Survivor #SurvivorPanoramaRT @nediyorsunyasen: Şairler Parkı, Kartal heykeline gidip İlhan Mansız'a hakaret edin..",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "YEDİĞİNİZ DAYAKLA DOĞRU ORANTILIDIR BEŞİKTAŞLILARI…Hakan:'Serhat bir ilhanMansiz olmak istiyor\\\"👉.Cildiriyorsun ilhan&amp;Serhat Dostluguna HakanHatipoglu!#survivorRT @cristinhama: iki marka isim peki hangisi #survivor #survivorpanorama #survivorekstraAltına imzamı atıyorum kardeşim👏👏👏#survivor https://t.co/hmIeqRGWaJRT",
+        "tones": [
+          {
+            "score": 0.750866,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "@FeyzaBasyigit: #Survivor https://t.co/blc6sUzQWCRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "@DaltonRoss: We'll have the entire #Survivor final 6 on @EWMorningLive Thursday morning from 9-10am ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "Join us! https://t.co/EI6AAV9RSXBerna",
+        "tones": [
+          {
+            "score": 0.697412,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Keklikler az da olsa nerde zorlanıyor ?#survivorRT @Klmrxx: İlhan Mansız'ın sıçtığı bok olamayacak insanlar hakkında atıp tutmasin bir zahmet.",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "#Survivor #SurvivorPanoramaRT @RealKiefer: Designated Survivor's season finale is on tonight.",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "I'm really proud of it.",
+        "tones": [
+          {
+            "score": 0.917155,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "If you get a chance check it out.",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "https://t.co/B…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "@FeyzaBasyigit: #Survivor https://t.co/3mxc7UueG7Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "Ποιος είναι ο καλύτερος παίκτης και ποιος ο χειρότερος; - https://t.co/RnavZxnpM0",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "https://t.co/ptIKLnjee1Saying",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "that, there really shouldn't be more than 2 idols or special advantages combined in the game at one time #SurvivorRT @cristinhama: iki marka isim peki hangisi #survivor #survivorpanorama #survivorekstraRT @ulkugencoglu: Şu hayatta Ogeday Sabriye ve Adem gibi bir şansım var... ",
+        "tones": [
+          {
+            "score": 0.500111,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "#survivor #survivor2017RT @Cigdemsen5: Hakanin besiktas üzerinden Ilhan Mansiza yüklenmesinin sebebi bence smste Ilhanin birinci olduğunu öğrendi son cirpinislari…RT @osman_seker69: Bu akşam ne izleyeceksiniz?",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "#ÇobanYıldızı",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "#CesurveGüzel",
+        "tones": []
+      },
+      {
+        "sentence_id": 102,
+        "text": "#VatanımSensin",
+        "tones": []
+      },
+      {
+        "sentence_id": 103,
+        "text": "#SurvivorBlock",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "Craft City Survivor: https://t.co/2j4tMpW7GZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 105,
+        "text": "via @YouTube#Survivor's Kimmi Kappenberg tells hilarious story about Joe Anglim #Survivor https://t.co/7gKDtfEJ4N",
+        "tones": [
+          {
+            "score": 0.57918,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 106,
+        "text": "https://t.co/7hw9tygbtpRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 107,
+        "text": "@edyong209: Survivors Respond to ‘My Family’s Slave’ https://t.co/qTlgC4RrSoStephen",
+        "tones": [
+          {
+            "score": 0.585798,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 108,
+        "text": "Fishbach&amp;#39;s Survivor Blog: Naughty or Nice? #Survivorfinale #SurvivorSecondChance #Survivor #Survivor…… https://t.co/72oAupVMzshttps://t.co/vHbvBCIGU7 | Πανηγυρίζουν στο Σίγμα - Τελικός Κυπέλλου και Survivor προκάλεσαν ρεκόρ!",
+        "tones": [
+          {
+            "score": 0.784988,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 109,
+        "text": "https://t.co/qaj4hCSsWl#survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 110,
+        "text": "I HATE COLE PEPPER!",
+        "tones": [
+          {
+            "score": 0.804032,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 111,
+        "text": "He is too damn confident He is a cocky piece of crap&amp; I hope he never comes on survivor again!",
+        "tones": [
+          {
+            "score": 0.621951,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 112,
+        "text": "😡RT @Cigdemsen5: Hakanin besiktas üzerinden Ilhan Mansiza yüklenmesinin sebebi bence smste Ilhanin birinci olduğunu öğrendi son cirpinislari…RT @FeyzaBasyigit: #Survivor https://t.co/UsoEKtU5yzPanaromanın",
+        "tones": []
+      }
+    ]
+  }
+}

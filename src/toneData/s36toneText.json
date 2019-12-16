@@ -1,0 +1,147 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "1963",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "3d8d0fe65241dda36db0bbf1c0f84b81",
+    "x-dp-watson-tran-id": "3d8d0fe65241dda36db0bbf1c0f84b81",
+    "x-edgeconnect-midmile-rtt": "52",
+    "x-edgeconnect-origin-mex-latency": "1349",
+    "date": "Mon, 16 Dec 2019 05:50:11 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.581442,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Survivor finale!Finale Time of Survivor, would will join the Survivor winner's circle?",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "Domenick?",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "Donathan?",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "Angela?",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "Sebastain?",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "Laure… https://t.co/UTpi6LjyXz#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "Ghost Island Finale begins now!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "Hope Dominique or Wendell take home the 1 mill prize.RT @AdamScottKlein: Tonight we welcome one more!!! #survivorwinners #whositgonnabe #legendsandme #stillsurreal #SurvivorFinale #Survivor ht…RT @survivorcbs: Watch your clock!",
+        "tones": [
+          {
+            "score": 0.772639,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.664718,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "The #Survivor Finale will be here at 8/7c on #CBS.",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "https://t.co/mzBDL9DIAgAlright",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "@JeffProbst let's do this.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "So excited!!!!!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "#Survivor #SurvivorFinale #SurvivorGhostIsland #SurvivorCBSRT @manueloliver00: “Where shooting is a pleasure” https://t.co/0yuoiXA6rTTime",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "for the #Survivor finaleI hate the stretch of time without #survivor but I’m certainly ready to see this season go ✌🏻Yooo @survivorcbs is about to be lit!",
+        "tones": [
+          {
+            "score": 0.70259,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "My man Dom taking home Soul Survivor #SurvivorFinaleRT @survivorcbs: 39 days.",
+        "tones": [
+          {
+            "score": 0.52825,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "6 castaways remain.",
+        "tones": []
+      }
+    ]
+  }
+}

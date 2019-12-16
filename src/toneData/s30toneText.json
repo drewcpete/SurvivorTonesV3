@@ -1,0 +1,880 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "15456",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "27c6565e1970f4c50ebd5aa93e1c3462",
+    "x-dp-watson-tran-id": "27c6565e1970f4c50ebd5aa93e1c3462",
+    "x-edgeconnect-midmile-rtt": "58",
+    "x-edgeconnect-origin-mex-latency": "1769",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.621301,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.510294,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"‘Charlie Hebdo’ survivor pens a book… the pain must be unimaginable.",
+        "tones": [
+          {
+            "score": 0.508973,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "http://t.co/DGLCuVv4GRPhotoset:",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "mrbootyluver: misandry-mermaid: micdotcom: Columbia rape survivor Emma Sulkowicz carried her... http://t.co/onmEEpBfKlScroll",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "tweet.",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "Season",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "finale spoilers ",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "#Supernatural",
+        "tones": [
+          {
+            "score": 0.714286,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.8152,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "I can't believe season 10 is already at the end.",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "I",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "still remember Black, Soul Survivor..REMINDER: June 3 Venture Connectors luncheon features 'Shark Tank' survivor - http://t.co/AaXiycoqG0season",
+        "tones": [
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "finishes.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Me: I need next season now! ",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "#SurvivorRT @richardataduyof: #Смотреть онлайн игровые автоматы видие http://t.co/7a7ISZqYiuSurvivor’da",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Sahra’dan Turabi itirafı - http://t.co/GgP4eonhsf#Три",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "туза онлайн игровые автоматы http://t.co/IpneYpTq3VRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "@BaelockHolmes: The president of an Ivy League university refused to shake the hand of a graduate because she is a rape survivor who cho…RT @EW: Here's your #Survivor: Cambodia—Second Chance cast (and the fancy new logo): http://t.co/mXeZIAHV91",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "http://t.co/s48Z1ohDn9Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "All Star‘da kim elendi?",
+        "tones": [
+          {
+            "score": 0.97759,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "http://t.co/noWIGl5jpP",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "via @cnnturkWatching #survivor from last night.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "I'm sitting here all teary eyed watching them reunite with their fams #unconditionalloveRT @BaelockHolmes: The president of an Ivy League university refused to shake the hand of a graduate because she is a rape survivor who cho…私的YMO楽曲ベスト。",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "1『U.T』",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "2『Behind The Mask』",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "3『Camouflage』",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "4『SHADOWS ON THE GROUND』",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "5『Music Plans』",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "6『SOLID STATE SURVIVOR』",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "7『希望の河』",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "8『RYDEEN』",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "9『KEY』RT @Survivor_Tweet: Introducing your #Survivor #SecondChance castaways!",
+        "tones": [
+          {
+            "score": 0.653415,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Find out who is competing next season: http://t.co/BzKYyrvDOq",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "https…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "@Survivor_Fans: We will try and make it go faster with some Survivor talk during the down time! https://t.co/WVFnlT1y8gRT",
+        "tones": [
+          {
+            "score": 0.775166,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "@BaelockHolmes: The president of an Ivy League university refused to shake the hand of a graduate because she is a rape survivor who cho…Compu Deals : http://t.co/AxU0EVKG4l",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "Griffin Technology Survivor Slim Case… http://t.co/xoz1O1jATK",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "#TechnoTerrorist http://t.co/Y3KHryDpLnFind",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "myself nodding every time Jeff Probst asks, \\\"Wanna know what you're playing for?\\\" #survivorRT @QuiteGreat: http://t.co/fKc3UiDBbv",
+        "tones": [
+          {
+            "score": 0.727798,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Great feature of @BowLDNMusic on @GrimeCulture!",
+        "tones": [
+          {
+            "score": 0.552706,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "Have a read!The team giving Mike the #ImmunityNecklace.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "Will just proved himself to be gentleman.",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "I think seeing his wife reminded him of that #Survivor\\\"Ur and I found the town's sole survivor, Gray.\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "#LyonBotA",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Los Angeles-based Catholic speaker and survivor of two violent crimes on forgiving her attackers.",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "http://t.co/3dUj1Sq0MNLone",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "survivor &gt; American sniper .RT @Survivor_bozokk: Bozoğa atılan oyların büyük bir kısmıda alaçatıdan gelmiştir..",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "#SurvivorAllStarRT @PsiSyndicate: Giving away my Astro A40 and A38 headset from the Survivor GameZ VI win, info here!",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "- https://t.co/O9mugWLwzIThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Survivor finale was pretty weak.. Wish they didn't talk about the same issue the whole time...RT @DaltonRoss: The cast of #Survivor: Cambodia—Second Chance tells you how they will play differently their second time out: http://t.co/e…Mike",
+        "tones": [
+          {
+            "score": 0.627181,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.654647,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "won immunity, therefore Mike won the season.",
+        "tones": [
+          {
+            "score": 0.728115,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.93884,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "So happy for him #survivorGood god Abi-Maria is coming back for survivor 31?!?!! Kill me now!",
+        "tones": [
+          {
+            "score": 0.773195,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "Who the hell voted for her to come back?! #SurvivorFinale #Survivor31Just watched the #JamesRhodes interview from Wednesday #Newsnight.",
+        "tones": [
+          {
+            "score": 0.528891,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "Genuinely emotional &amp; inspirational words from a survivor of child rape.Well done Australian survivor fans, #survivor is now trending #SurvivorAU #SurvivorFinale http://t.co/gXPBUnR64L@Survivor_Tweet",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "Congrats to Mike !",
+        "tones": [
+          {
+            "score": 0.92657,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "Best survivor of 30 in my opinion!",
+        "tones": [
+          {
+            "score": 0.771393,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.991756,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "#SurvivorFinaleRT @EW: ICYMI: The #SurvivorCambodia 'Second Chance' cast (and logo) have been revealed: http://t.co/oVa4RoXUzL",
+        "tones": [
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "http://t.co/6CpKekaowLRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "@countingthetoll: #EmmaSulkowicz is neither brave nor a survivor she is a blatant opportunist who has caused great harm to real victims …RT @DeepikaBhardwaj: Ppl ignore news such as this and I am the one whoz anti women: Extortion case against 'rape survivor'.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "#fakecases",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "http…TT SINGAPORE 19:56",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "1.#너여야만해",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "2.#1989TourBossierCity",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "3.#DescribeYourselfIn3Words",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "4.#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "5.#1DForMMVA",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "6.Stanford",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "7.Arsenal",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "8.Sun Ho",
+        "tones": [
+          {
+            "score": 0.600198,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "9.ISISRT @jamesloganrice: Congrats to @ucantdothat121.",
+        "tones": [
+          {
+            "score": 0.941995,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Well deserved victory!",
+        "tones": [
+          {
+            "score": 0.729505,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "#Survivorかっこいいものは色褪せんね。",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "パワフルなのに、超セクシー。",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Destiny's Child \\\" Survivor \\\" http://t.co/w3UbIZqlE5Who",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Won Survivor: Worlds Apart?",
+        "tones": [
+          {
+            "score": 0.682869,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "http://t.co/1ttNVR1l6Ywatched",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "yesterday: #lateshow, #startrek, #500questions, #survivorRT @BaelockHolmes: The president of an Ivy League university refused to shake the hand of a graduate because she is a rape survivor who cho…Catching up on #Survivor this a.m.",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "great to see Mike win it all.",
+        "tones": [
+          {
+            "score": 0.819323,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.92125,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "Real deserving and glad the jury saw it.Jeff's fistbump ♡ #Survivor #SurvivorAU #FinalChallenge His respect for the game is what has kept it aliveSurvivor getting turnt up!RT @BaelockHolmes: The president of an Ivy League university refused to shake the hand of a graduate because she is a rape survivor who cho…Mike won survivor!!!!!!!!!!!RT @Survivor_bozokk: Bozoğa oy atan herkese çok ama çok teşekkürler Öncelikle Hilmicem ve Turabi fanlarına Desteklerimizle Bozok kaldı..",
+        "tones": [
+          {
+            "score": 0.633171,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "#S…RT @JeremyBieber: @Survivor_Tweet i think I could be good at this \\\")Fell asleep during @Survivor_Tweet &amp; @Letterman last night!",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "Woke up in time for end of each.",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "Reset DVR for Dave's west airing due to length.It was totally worth it though.",
+        "tones": [
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.711887,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "#Survivor #SurvivorFinaleRT @ZaneMoneyEllis: MIKE WINS SURVIVOR!! #LoneStarStateI stayed up way too late watching the #Survivor finale after work last night.",
+        "tones": [
+          {
+            "score": 0.588228,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "I'm not even sure coffee is going to help me today.Sen.",
+        "tones": [
+          {
+            "score": 0.91424,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "Lena Taylor now claims to have been sexually assaulted in order to defend her comment that GOP \\\"rapes students\\\" http://t.co/5ItKRifkPp#Survivor",
+        "tones": [
+          {
+            "score": 0.677069,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "oh man this #SecondChance season looks like it just might be a gooder!! Awesome cast!",
+        "tones": [
+          {
+            "score": 0.763265,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "Go @SpencerBGM deff my favWho else has a #Survivor #Hangover this morning?",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "Feels like the morning after... and I'm gonna miss the #SecondChances cast on twitter...Firefly: The Smallest Survivor From Dunkirk | Forces TV http://t.co/ijEyx53AsS",
+        "tones": [
+          {
+            "score": 0.809252,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "via @po_stGood piece!",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "How Amtrak failed the victims of train 188: A survivor's tale | Brookings Institution http://t.co/YU25e0ryiw",
+        "tones": [
+          {
+            "score": 0.702533,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "#SoGladHeSurviveWho's going to win Survivor tonight.",
+        "tones": [
+          {
+            "score": 0.678013,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "Go Mike!!! #SurvivorFinale #SurvivorWorldsApartRT @abc730: \\\"All I want (George Pell) to do is explain to us all when the Church knew\\\" says abuse survivor David Ridsdale, WATCH: http://t.…RT",
+        "tones": [
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "@FrankieJGrande: in honor of the #SurvivorFinale we should take a moment to reflect on this audition @JeffProbst @Survivor_Tweet.",
+        "tones": [
+          {
+            "score": 0.653703,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "😂👍💅 ht…Silsden survivor of Bradford City fire stages poignant event http://t.co/LlnvDnTVJf.@JeffProbst",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "acting like Oprah in the Survivor Reunion.",
+        "tones": [
+          {
+            "score": 0.548885,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "😄 #SurvivorSecondChance http://t.co/jP9GPRZ61ESusan",
+        "tones": [
+          {
+            "score": 0.840301,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "Pollack from 'Auschwitz's bookkeeper' Oskar Groening trial relives ordeal: EXCLUSIVE: Susan Pollac... http://t.co/mHzhfb7pua",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "(DMO)RT @FrankieJGrande: in honor of the #SurvivorFinale we should take a moment to reflect on this audition @JeffProbst @Survivor_Tweet.",
+        "tones": [
+          {
+            "score": 0.711143,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "😂👍💅 ht…RT @evdekiadam: Evde elektrikler kesildi anne ne yicez diyorum boş ver şimdi yemeği Survivor vardı kaçırdık diyo.",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "AJUN ABİ AL BU GADINI BİT…RT @BaelockHolmes: The president of an Ivy League university refused to shake the hand of a graduate because she is a rape survivor who cho…RT @SavingSurvivors: Help us #name our #rhino #survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "Visit http://t.co/FANH9KsKlp",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "#CreatingHopeFromHurt http://t.co/N8RoPYaapQWhat",
+        "tones": []
+      },
+      {
+        "sentence_id": 102,
+        "text": "the fuck ?",
+        "tones": [
+          {
+            "score": 0.767442,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "they already filmed season 32? and theyre going to air it after s31? LOL what? has this happened b4? #SurvivorOMG!",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "Rodey looks like Joaquin in #SurvivorFinale 😂 the bromance is real!",
+        "tones": [
+          {
+            "score": 0.522107,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      }
+    ]
+  }
+}

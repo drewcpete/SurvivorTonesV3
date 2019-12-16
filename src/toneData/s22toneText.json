@@ -1,0 +1,777 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "13570",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "9d8ab5ce3abefe563864cef052219afd",
+    "x-dp-watson-tran-id": "9d8ab5ce3abefe563864cef052219afd",
+    "x-edgeconnect-midmile-rtt": "54",
+    "x-edgeconnect-origin-mex-latency": "1103",
+    "date": "Mon, 16 Dec 2019 05:50:05 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.6302,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.647398,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"#Survivor finale!#survivor is about to start.. in.. one.. minute.. so excited!!Ahhh nothing beats survivor finale night!!!!W00t!",
+        "tones": [
+          {
+            "score": 0.69494,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "#survivor finale!!#Survivor let's do this!",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "=)Let the tweeting commence; \\\"Survivor: Redemption Island\\\" starts now!All ready for the #Survivor Finale.",
+        "tones": [
+          {
+            "score": 0.727798,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Go @BostonRob!",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "You've been the epitome of \\\"Outwit, Outplay, Outlast\\\" the entire game!",
+        "tones": [
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "Now WIN it!#survivor",
+        "tones": [
+          {
+            "score": 0.747594,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "#bulls which one will win out tonight...my money is on the bulls!Here we go - kick some ass @BostonRob!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "#SurvivorSurvivor finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "Woot!ready to watch the 3 hr.",
+        "tones": [
+          {
+            "score": 0.662434,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "#Survivor finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "Hoping Matt wins it all.Three things I want to watch tonight: Giro Replay, Survivor Finale and South Riding conclusion.",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "And I have work to do.",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Doh Doh Doh!! :XCome on, Boston Rob!!! #survivor (watching Survivor: Redemption Island, Seems Like A No Brainer S22E14 via @gomiso) http://miso.io/jKbSh4SURVIVOR",
+        "tones": [
+          {
+            "score": 0.600365,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.704683,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "FINALE finally...Survivor FinaleAhhhhh  #survivor timeSurvivor finale!!!!!We have made it to the end.",
+        "tones": [
+          {
+            "score": 0.717119,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "Who wins Survivor: Redemption Island?",
+        "tones": [
+          {
+            "score": 0.594238,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "We're recapping everything as it happens, so why... http://fb.me/YbzgAT6aI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "on #teamRob on #survivorTrue or false ... I will be watching Survivor finale instead of Yanks-BoSox tonight?",
+        "tones": [
+          {
+            "score": 0.677658,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "#IamaTool#survivor time#Survivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "Who's gonna win?",
+        "tones": [
+          {
+            "score": 0.607473,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "I'm rooting for Matt.If @BostonRob doesn't win tonight, I'm going to be peeved.",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "#survivorSURVIVOR!!!Survivor time for me...final night I think...love that show (but nt some of the players!)Getting settled in to watch survivor finale.",
+        "tones": [
+          {
+            "score": 0.725238,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "Sorry trump the apprentice will have to waitSurvivor starting now!: http://frequencygames.blogspot.com/survivor",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "good stuff.#TeamRob",
+        "tones": [
+          {
+            "score": 0.782572,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "for me but I don't think he'll win it, quite depressed about it!",
+        "tones": [
+          {
+            "score": 0.932534,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "@Jessewm if Matt gets back in he's got it locked up... #Survivor“@WayneHarvey: Who do you think wins #Survivor?”",
+        "tones": [
+          {
+            "score": 0.705784,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "It just might be Boston Rob's lucky year, but would like Ashley to win!Don't forget SURVIVOR finale is on tonight - NOW ET / Central.#Survivor",
+        "tones": [
+          {
+            "score": 0.600069,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.915488,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "finale!its survivor sunday woot wootHereeeee we go! #survivor finale!@BostonRob",
+        "tones": [
+          {
+            "score": 0.50105,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "I hope this picture is not a preview of the final 4! #survivorI'm watching Survivor: Redemption Island and chatting live with @JeffProbst!",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "http://soc.li/YEkHPsX#survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "finale time@MKinNJ All is good.",
+        "tones": [
+          {
+            "score": 0.607285,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Nothing like #Survivor to reconnect over.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "How's everything?I will be signing off twitter at 8pm until further notice since I can't watch #Survivor or #CelebrityApprentice live & all u Tweeps ruin it!go",
+        "tones": [
+          {
+            "score": 0.622724,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "Boston Rob! (watching Survivor: Redemption Island, Seems Like A No Brainer S22E14 via @gomiso) http://miso.io/jKbSh4#survivor",
+        "tones": [
+          {
+            "score": 0.845297,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "time!!!!!!!!!1Survivor timeOk, everything that I have is graded, need to make out the final exam for tomorrow but that will wait until after Survivor FinaleSurvivor finaleI think the only way Boston Rob wins is if Phillip is up there with him in a final two.",
+        "tones": [
+          {
+            "score": 0.670193,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.671415,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Rob is good enough, he could pull it off.",
+        "tones": [
+          {
+            "score": 0.651213,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "#survivorSURVIVOR FINALE yeeeeehaw!",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "Let's go @BostonRob!@jsab4807 Survivor time!What a great day!",
+        "tones": [
+          {
+            "score": 0.715816,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Church w/ wife, Players Championship, Griz-OKC game 7, Bulls-Heat game 1, and Survivor Final!",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "DVR is FULL! #WinningI am watching Survivor: Redemption Island (w/33 others) http://bit.ly/mKOZFj",
+        "tones": [
+          {
+            "score": 0.581574,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "@GetGlue #SurvivorI wish I could hide @JeffProbst tweets for just the next two hours...i'll be watching #survivor on a half hour delay tonight.",
+        "tones": [
+          {
+            "score": 0.625697,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": ":(Survivor coming on tonight?!@BeerAndWomen Lol no im not.Im sitting here eating a sandwich waiting for the survivor finale lol =PIT'S #SURVIVOR TIME!!  Hi @JeffProbst  ;)#survivor time!!! Whooo!Hope #Boston Rob wins #Survivor@loiscreamer i love to read do not get me wrong , more than most folks, but I am hugs survivor fanAhhhhhh survivor grand finale :) beyond stoked right now!So stoked for #survivorSurvivor finale in 2 minutes!",
+        "tones": [
+          {
+            "score": 0.851959,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Go @BostonRob!@JeffProbst Couples survivor would be awesome...Go @bostonrob!",
+        "tones": [
+          {
+            "score": 0.761678,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "(Hate that this season is ending...) http://bit.ly/gbeRUH",
+        "tones": [
+          {
+            "score": 0.785415,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "@GetGlue @survivor_tweetI'm watching Survivor: Redemption Island and chatting live with @JeffProbst!",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "http://soc.li/YEkHPsXSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "finale!!! Rob has to win this one, unfortunately.",
+        "tones": [
+          {
+            "score": 0.634154,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.866237,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "But I feel good knowing it took him 4 tries.Bring it on!",
+        "tones": [
+          {
+            "score": 0.778033,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "http://bit.ly/lyhYhj",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "@GetGlue #Survivor@asporkthief  wooo survivor!!! &gt;:DSurvivor season finale!!@jinwan oh my god i love devil survivor ;o;Survivor finale tonight #22ndseason #teamnatalie @NatTenerelli@cuneytozdemir merak etmeyin #inci ciler olaya el atmış.",
+        "tones": [
+          {
+            "score": 0.751331,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "#tefik kalır #survivor 'da #asena  ihtiraslı biri hayatını oyunla yönetmeye alışmış#Survivor instead of couch potatoes, with @JeffProbst interactive living room we are now #ProbstPotatoes ?Survivor....!!!Couch time with @moosebraying, @thebrowncoat and my dog to enjoy the #Survivor finale.",
+        "tones": [
+          {
+            "score": 0.544842,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "Go Boston Rob@JeffProbst Thanks 4 another great season!",
+        "tones": [
+          {
+            "score": 0.777506,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "U are the Emmy-est of the reality host greats.",
+        "tones": [
+          {
+            "score": 0.787894,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "Hope 2 hear u declare me Survivor winner some day!survivor time..loggin out twitter.",
+        "tones": [
+          {
+            "score": 0.904882,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "pce.Well #survivor time...finally it will be over very soon....will Rob get screwed again or will he win and we never see him again?The rain has been nice to bathe in...",
+        "tones": [
+          {
+            "score": 0.772407,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "I haven't showered in weeks in anticipation for #survivorAnyone else watching the survivor season finale?I predicted that Rob Mariano will win  Survivor: Redemption Island, Seems Like A No Brainer via @gomiso.",
+        "tones": [
+          {
+            "score": 0.505867,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "http://miso.io/jbCdDGHoping",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "this is my last Survivor heart attack ever.Survivor finale time!and at 7:56 EST on May 15th 2011, the Hanson family simultaneously erupts the Survivor theme song chant.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "find me a cooler family, i dare you#Survivor time!!! Let's go Boston Rob!1Warmup comedian at Ed Sullivan theater says he's got $10k on Phillip showing up in salmon underwear.",
+        "tones": [
+          {
+            "score": 0.579506,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "#survivorTime for #survivor final.Time for #Survivor finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "Yay! Rooting for @BostonRob - he OWNED this season!time",
+        "tones": [
+          {
+            "score": 0.853209,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "for the #Survivor season finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "if @bostonrob doesn't win, it'll be a huge travesty.",
+        "tones": [
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "he's the only one who really deserves it.Thanks @jeffprobst for a fun season http://bit.ly/mKOZFj",
+        "tones": [
+          {
+            "score": 0.922577,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.711887,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "@GetGlue #SurvivorSurvivor finale tonight!!!! Who is watching???Here's hoping Boston Rob wins #Survivor tonight.",
+        "tones": [
+          {
+            "score": 0.684006,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "No one has played as smart a game in the history of the show.",
+        "tones": [
+          {
+            "score": 0.527414,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "Especially being his 3rd timeWatching survivor!@johnlepp",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "I can't believe I am watching the Survivor finale on fuzzy rabbit ears cable-less tv thanks to you.",
+        "tones": [
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "Grrr Boston Rob better win!Is so  #Survivor ready!! Let's get it on!!Might as well watch the finale of survivor.Watching SurvivorWatching Survivor#Survivor Finale!!!!! Go #BostonRob *waves pom poms*http://iome.us/can",
+        "tones": [
+          {
+            "score": 0.655259,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Elderly &lt;b&gt;cancer survivor&lt;/b&gt; humiliated by airport security, page 1: Strecker, an 82-year-old… http://goo.gl/fb/QB4BBhttp://iome.us/can Buy a Beaumaris bun and help save lives: Beaumaris resident and breast cancer survivor Kym… http://goo.gl/fb/w56eB@JeffProbst",
+        "tones": [
+          {
+            "score": 0.692197,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "Survivor Finale Time! Yesssssss :)Two minutes till #Survivor!",
+        "tones": [
+          {
+            "score": 0.61077,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "Go Boston Rob!\"}",
+        "tones": []
+      }
+    ]
+  }
+}

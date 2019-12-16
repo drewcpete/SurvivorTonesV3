@@ -1,0 +1,796 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16898",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "cdc08147dfd1fdd05cb79085a296e1f1",
+    "x-dp-watson-tran-id": "cdc08147dfd1fdd05cb79085a296e1f1",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1441",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.654355,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"New York gonna be crazy today.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "#WWETLC tonight and #Survivor Philippines as well!",
+        "tones": [
+          {
+            "score": 0.542191,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "WWE in Brooklyn and Survivor in NYC, all of it is LIVE!So pumped for #Survivor Philippines finale tonight!",
+        "tones": [
+          {
+            "score": 0.638987,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Gonna be wearing my Survivor buff :)I hope somebody at the audience get their ass up and slap Abitch-Maria on her face left to right for me.",
+        "tones": [
+          {
+            "score": 0.698904,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Please!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "#Survivor Philippines haha@Survivor Philippines finale night!",
+        "tones": [
+          {
+            "score": 0.79813,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "#MalcolmsMillion#survivorfinale tonight kids http://t.co/XJQQmrr#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "Philippines Finale + Reunion in just a few hours!!!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!Check the Pictures Compilation Before #Survivor Philippines Reunion http://t.co/5voRGNaART",
+        "tones": [
+          {
+            "score": 0.746387,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "@ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!2 hours and 1 minute till the Survivor Philippines finale...RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!Sunday TV Picks: 'Survivor: Philippines' on CBS http://t.co/7wsTJ5ps",
+        "tones": [
+          {
+            "score": 0.689392,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "#PhilippinesRT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!Hay que reconocer que cuando quieren ser emotivos, lo consiguen.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "(Survivor:  Philippines S25E12) http://t.co/4dpGvg3n",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "#Survivorhttp://t.co/RgFFGlEy",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Sunday TV Picks: 'Survivor: Philippines' on CBS: Sunday TV Picks: 'Survivor: Philippines' on... http://t.co/B5sXfGfcRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "@ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!#Survivor: Philippines finale and reunion show tonight!",
+        "tones": [
+          {
+            "score": 0.707826,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "(relying on Twitter for #SNF / #SFvsNE updates)RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!Survivor: Philippines FINALE TONIGHT @ 8:30!",
+        "tones": [
+          {
+            "score": 0.603974,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "A reward challenge allows the contestants to vie for a coveted advantage.",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "#tbayRT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!‘Survivor: Philippines Season’ finale at reunion special live ngayong hapon: LIVE na mapapanood ang inaabangang ... http://t.co/aEDcjKjv\\\"@ChelseaMeissner:",
+        "tones": [
+          {
+            "score": 0.773496,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "Getting pumped up for the SURVIVOR Philippines Finale tonight!\\\" ..and your pick is???@survivorpenner How about a RT from a Survivor Fan living here in the Philippines!RT @ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!Dont' ForGet To Watch...&gt;Survivor Philippines - Lisa (It Was Worth Every Penny): http://t.co/fmzZJglw",
+        "tones": [
+          {
+            "score": 0.63846,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "via @youtubeThere's almost too much TV tonight: #Survivor, #Dexter, #Homeland, #Divas2012, and the #Bachelorette wedding: http://t.co/lhOANPGtRT",
+        "tones": [
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "@ChelseaMeissner: Getting pumped up for the SURVIVOR Philippines Finale tonight!Getting pumped up for the SURVIVOR Philippines Finale tonight!Survivor Philippines Season 25 Finale Recap 12/16/12 http://t.co/DtWFR0KISurvivor",
+        "tones": [
+          {
+            "score": 0.596698,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Philippines Season 25 Finale Recap 12/16/12 http://t.co/PCP7zKQjTonight",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "on CBS SURVIVOR PHILIPPINES airs with a whole new episode called “Million Dollar… http://t.co/bFUMaoJrIm",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "keeping my fingers crossed that it is a tie &amp; there's a re-vote It will be Survivor History &amp; it will happen in Survivor Philippines!‘Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "Philippines Season’ finale at reunion special live ngayong hapon http://t.co/VeVul3sq",
+        "tones": [
+          {
+            "score": 0.547514,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "| via @BalitaPHCan't wait 4 d Survivor Philippines Finale later!",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "Probst &amp; d Players are saying its an Exciting Final Tribal Council!",
+        "tones": [
+          {
+            "score": 0.586083,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "I hope its true!RT @robcesternino: Get your #Survivor finale Sunday off to a great start with one last pre-finale Baker's Dozen from @getOnSurvivor http ...Finally!",
+        "tones": [
+          {
+            "score": 0.808833,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Survivor Philippines had made my monday ;) goodbye abi! btw, your name doesn't fit you \\\"abi-maria\\\".post midnoc: watching #Survivor Philippines.Tonight on CBS SURVIVOR PHILIPPINES airs with a whole new episode called “Million Dollar… http://t.co/WBDNaebN#KonekShowbiz:",
+        "tones": [
+          {
+            "score": 0.570547,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "‘Survivor: Philippines Season’ finale at reunion special live ngayong hapon http://t.co/FRcJ4AR3",
+        "tones": [
+          {
+            "score": 0.506212,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "| via @balitaPHTonight on CBS SURVIVOR PHILIPPINES airs with a whole new episode called “Million Dollar Question.”",
+        "tones": [
+          {
+            "score": 0.797389,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "On tonight’s…RT @MikianSellem: I cannot wait for #Survivor Philippines finale tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "#TeamDeniseI cannot wait for #Survivor Philippines finale tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "#TeamDeniseSurvivor Philippines Season 25 Finale Recap 12/16/12 http://t.co/wrZE77m3",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "@Survivor_Tweet  #Survivor   #SurvivorFinaleSurvivor Philippines Season 25 Finale Recap 12/16/12 http://t.co/kWZz8HLN",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "via @sharethisSurvivor Philippines Season 25 Finale Recap 12/16/12 http://t.co/ZO1v2jdp",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "via @sharethisSurvivor Philippines Season 25 Finale Recap 12/16/12 http://t.co/dqZzJlV8",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "via @sharethisSurvivor Philippines Season 25 Finale Recap 12/16/12: Tonight on CBS SURVIVOR PHILIPPINES airs with a whole new ... http://t.co/vXMquwMvRT",
+        "tones": [
+          {
+            "score": 0.529391,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "#News Survivor Philippines Season 25 Finale Recap 12/16/12: Tonight on CBS SURVIVOR PHILIPPINE... http://t.co/SAA5buiT",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "#Dirty #FollowGlobalTV_TBay: Here's what's on tonight #tbay: @ 8pm The Simpsons (new), @ 8:30pm Survivor Philippines Finale, f... http://t.co/4g6iqwxP4",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "hours till the Survivor Philippines finale...RT @Survivor_Tweet: RSVP for the #Survivor: Philippines Season Finale this Sunday at 8/7c on @CBS! http://t.co/i4zDWlxS",
+        "tones": [
+          {
+            "score": 0.527945,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "Watch a preview: ...Stir up your power Lord.",
+        "tones": [
+          {
+            "score": 0.895415,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "Great Sunday!",
+        "tones": [
+          {
+            "score": 0.886658,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Saints win! Tonight-Dexter finale, Survivor:Philippines finale-nice distractions from tragic events.‘Survivor:",
+        "tones": [
+          {
+            "score": 0.598282,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "Philippines Season’ finale at reunion special live ngayong #hapon http://t.co/CiUFUSqI",
+        "tones": [
+          {
+            "score": 0.547514,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "#showbizatbpRT @SurvivorOz: Our final recap for #survivor Philippines will feature @BloodyAmer1can and @HollyHoffmanS21 in our first ever double int ...RT @Survivor_Tweet: RSVP for the #Survivor: Philippines Season Finale this Sunday at 8/7c on @CBS! http://t.co/i4zDWlxS",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "Watch a preview: ...RT @SurvivorOz: Our final recap for #survivor Philippines will feature @BloodyAmer1can and @HollyHoffmanS21 in our first ever double int ...Exclusive: Abi-Maria Gomes talks about 'Survivor: Philippines' (Part 2)- SURVIVOR Season 2 hour FINALE - Tonight on CBS - 7 p.m. CST - 8 p.m. EST -... http://t.co/OZ1q6xtoHere's",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "what's on tonight #tbay: @ 8pm The Simpsons (new), @ 8:30pm Survivor Philippines Finale, followed by the LIVE reunion show @ 10:30pm.awe na-vote out na sa tribe si carter sa survivor philippinesSunday TV Picks: ‘Survivor: Philippines’ on CBS | Television | The Seattle Times http://t.co/nIreYhmoAre",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "you watching Survivor: Philippines?",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "http://t.co/T7ugQCLcSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "Philippines Finale Tonight! http://t.co/aIW1PP3KCe",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "soir à la télé : finale de la Saison 7 de #Dexter et finale de #Survivor Philippines (spéciale de 3hrs) !Survivor Philippines finale tonight!!!Who are you most looking forward to seeing tonight on the Survivor Philippines Finale?",
+        "tones": [
+          {
+            "score": 0.607351,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "Denise Skup Lisa Malcolm Penner Angie Dawson Abi ?Y esta noche.. season finale de Survivor Philippines y Dexter.#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "Make sure you read the latest Baker's Dozen before the finale.",
+        "tones": [
+          {
+            "score": 0.825035,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "Even if it's clearly complete nonsense!",
+        "tones": [
+          {
+            "score": 0.534084,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.970179,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "http://t.co/CAc6jvXDRemember",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "#Survivor fans , @stephenfishbach and @robcesternino will be LIVE 15 mins right after tonight's 2 HOUR FINALE.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "http://t.co/s1dTs92WI",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "hope I'll wake up to a live feed for #Survivor Philippines finale from fellow Survivor fans.",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "#DesperateCan't wait for the Survivor: Philippines Season Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Tonight at 8 on CBS!!RT @SurvivorNews: Survivor Philippines Final Show Tonight: Tonight on CBS we’ll find out who won Survivor Philippines when... http://t.c",
+        "tones": [
+          {
+            "score": 0.695321,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "...I've barely watched \\\"Survivor: Philippines\\\" all season..But I will watch the finale tonight...Manny didn't get KO'd for nothing you knowSurvivor Philippines Final Show Tonight: Tonight on CBS we’ll find out who won Survivor Philippines when... http://t.co/0e8BlVIu",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "#Survivor#TeamFollowBack Sunday TV Picks: 'Survivor: Philippines' on CBS - The Seattle Times: Sunday TV Pick... http://t.co/6k3c8Y90",
+        "tones": [
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "#IFOLLOWBACKRT @MomOfKai: I'm no good at speculation...",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "@GetOnSurvivor is GREAT at it.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "The pre-Finale #Survivor Baker's Dozen: http://t.co/w6DONxeU”TV",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "| Which \\\"Survivor: Philippines\\\" finalist is going take the million dollar prize?",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "Check out our predictions.",
+        "tones": [
+          {
+            "score": 0.982476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "http://t.co/YBEO4jBN5",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "hours and 28 minutes till the Survivor Philippines finale...@chrisbharrison  let's not get carried away Chris not the world.",
+        "tones": [
+          {
+            "score": 0.625218,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "myself and many friends will be watching Survivor Philippines 3 hr Finale!I'm no good at speculation...",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "@GetOnSurvivor is GREAT at it.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "The pre-Finale #Survivor Baker's Dozen: http://t.co/w6DONxeU”Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Philippines Final Show Tonight: ",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "Tonight on CBS we’ll find out who won Survivor Philippines w... http://t.co/wxclFKrg",
+        "tones": [
+          {
+            "score": 0.679641,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "#survivorRT @CBSTweet: Who will be the next #SoleSurvivor?",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "Sneak peek at the #Survivor finale:  http://t.co/bLtCx1XF",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "+ see what everyone’s been u ...Darren Criss at a Survivor Philippines event (December 15, 2012) [Source] http://t.co/lUhgKIKNIf",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "you're a #Survivor fan you need to read @ChannonSarah and @GetOnSurvivor blogs on #RHAP",
+        "tones": [
+          {
+            "score": 0.542811,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "http://t.co/rL8NFPv5",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "http://t.co/Md5k7ekgSurvivor Philippines is about to end in less than twenty-four hours.",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "Time to know who wins.",
+        "tones": [
+          {
+            "score": 0.606601,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": ":)Survivor: Philippines — Finale Weekend Is Here! http://t.co/McGxen8DTONIGHT",
+        "tones": [
+          {
+            "score": 0.730339,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "ON TV: Survivor: Philippines Finale &amp; Reunion (8-10pm, 10-11pm, CBS) #Survivor‘Survivor: Philippines’ finale prediction: Do Mike Skupin, Lisa Whelchel have hope?",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "http://t.co/SpxSUshc",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "#SurvivorSurvivor Philippines season finale, live sa News TV!!",
+        "tones": [
+          {
+            "score": 0.684318,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "Live na mapapanood ang inaabangang season finale ng... http://t.co/lFhX5TliSunday",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "TV Picks: 'Survivor: Philippines' on CBS - The Seattle Times: Sunday TV Picks: 'Survivor: Philippines' on... http://t.co/tslTfnlDSeriadores-",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "Survivor Philippines 25x13:  Gouge My Eyes Out http://t.co/uR9aasboTV",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "News: Sunday TV: Survivor Philippines finale, Bachelorette wedding, VH1 Divas, Homeland http://t.co/BlAzaaVI",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "#television #tvSunday TV Picks ‘Survivor Philippines’ on CBS http://t.co/pfBxCHl2Sunday",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "TV Picks ‘Survivor Philippines’ on CBS http://t.co/pfBxCHl2GlobalTV_TBay:",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "Survivor: Philippines finale tonight @ 8:30pm followed but the LIVE Reunion Show @ 10:30pm #tbay.",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "http://t.co/TMc0jxbc\"}",
+        "tones": []
+      }
+    ]
+  }
+}

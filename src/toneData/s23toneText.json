@@ -1,0 +1,919 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16933",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "77787a973beac190d01e30d21a521901",
+    "x-dp-watson-tran-id": "77787a973beac190d01e30d21a521901",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1914",
+    "date": "Mon, 16 Dec 2019 05:50:06 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.636661,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"VIDEO Survivor: South Pacific — Exclusive Interview With Rick Nelson: We didn’t get to see too… http://t.co/rY0t937eVIDEO",
+        "tones": [
+          {
+            "score": 0.613625,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Survivor: South Pacific — Exclusive Interview With Rick Nelson: We didn’t get to see too much of Rick Nels... http://t.co/JK0eGx2U'Survivor:",
+        "tones": [
+          {
+            "score": 0.542216,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "South Pacific' votes off Edna Ma, ousts John CochranOnline Survivor South Pacific Season 23 Episode 16 Reunion Part 1: Online http://t.co/567EsmQy",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "watch survivor sou... http://t.co/CpGth3rN#OWS",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": ": Survivor South Pacific Season 23 Episode 15 (full) http://t.co/YmuL0oBK\\\"Ozzy\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "Oscar Lusth: I just crumbled under the #Survivor pressure | http://t.co/wAIB73fYI'd",
+        "tones": [
+          {
+            "score": 0.642833,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "bid on a buff!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "RT @OzzyLusth: Just search Survivor South Pacific Ozzy, should pop right up.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Any (cont) http://t.co/HJ6PkeRTVIDEO",
+        "tones": [
+          {
+            "score": 0.998976,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "Survivor: South Pacific — Exclusive Interview With Benjamin ‘Coach’ Wade http://t.co/m5oVGfyW",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "#realityshowsRT @DimitriMansour: Survivor: South Pacific concluded with Sophie Clarke winning the season and Ozzy Lusth winning the “Sprint Player of ...Survivor: South Pacific concluded with Sophie Clarke winning the season and Ozzy Lusth winning the “Sprint Player of the Season” award.@GUNNS4HIRE",
+        "tones": [
+          {
+            "score": 0.613302,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.696092,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "EBAY!!! just search survivor south pacific ozzy game clothesRT @917thebounce: One of the best bad guys to EVER play the game recaps #survivor South Pacific! @thearashow vs. @jonnyfairplay http://t ...One of the best bad guys to EVER play the game recaps #survivor South Pacific! @thearashow vs. @jonnyfairplay http://t.co/2pZ5idIV",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "#CBSWith dad ... His fav.",
+        "tones": [
+          {
+            "score": 0.698423,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "Show (watching Survivor: South Pacific) http://t.co/keqD0ftQRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "@OzzyLusth: Just search Survivor South Pacific Ozzy, should pop right up.",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "Any thing else people want to buy?",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "I have buffs and other i ...'Survivor: South Pacific' crowns Sophie Clarke million-dollar championRT @OzzyLusth: Just search Survivor South Pacific Ozzy, should pop right up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Any thing else people want to buy?",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "I have buffs and other i ...Just search Survivor South Pacific Ozzy, should pop right up.",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "Any thing else people want to buy?",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "I have buffs and other items from gameWatching replays of Survivor South Pacific.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Just got on that episode where Brandon's finally voted out.",
+        "tones": [
+          {
+            "score": 0.674388,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "#goodriddancehttp://t.co/xJNBpsVm",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "Survivor: South Pacific - Survivor: South Pacific - Ponderosa: Jim  Keith Pt. 1 amp :O'Survivor: South Pacific' votes off Brandon Hantz, eliminates Edna Maamp Survivor: South Pacific - Survivor: South Pacific - Ponderosa: Jim  Keith Pt. 1 ;P http://t.co/9zmATqqt@OzzyLusth",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "ur totally AMAZING!",
+        "tones": [
+          {
+            "score": 0.919513,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "I just watched survivor south pacific reunion and ur words inspired me so much more!",
+        "tones": [
+          {
+            "score": 0.862467,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "&lt;3RT @HitFixDaniel: HitFix Interview: Sophie Clarke talks 'Survivor: South Pacific' - http://t.co/8pTPNJjWCongratulations to Sophie on winning survivor south pacific whoop whoopWatching Survivor: South Pacific!",
+        "tones": [
+          {
+            "score": 0.507102,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "HECTIC!! On the edge of my bed!!Hahaha watching survivor redemption island south pacific i just wana see who wins.Watching the last episode of Survivor: South Pacific on Channel 5 right now !",
+        "tones": [
+          {
+            "score": 0.860184,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": ":D#NowWatching Survivor: South Pacific.",
+        "tones": [
+          {
+            "score": 0.596269,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "Season finale, and it's game on!",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "Thank goodness no one spoiled me yet on this.",
+        "tones": [
+          {
+            "score": 0.549754,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Thank God for TV!#ydy #sfile #ytet Survivor: South Pacific S23E15 / 幸存者: 南太平洋 第二十三季第15集 简繁 http://t.co/z8IiDL4Bhttp://t.co/KSjDH5Gt survivor Survivor: South Pacific - Survivor: South Pacific - Preview :)I am watching Survivor: South Pacific, The Reunion (S23E16).",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "http://t.co/8iPW1PDBFUCK",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "LA , MISSED SURVIVOR SOUTH PACIFIC.Survivor: South Pacific Winner Is Revealed http://t.co/FsoDyYJaSurvivor:",
+        "tones": [
+          {
+            "score": 0.582495,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "South Pacific is quite an awesome season.",
+        "tones": [
+          {
+            "score": 0.806014,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Perfect mix of smart and dumb players.",
+        "tones": [
+          {
+            "score": 0.569821,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.92125,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "Got to give it ***3/4.Whoaaaa, Sophie Clarke wins Survivor 23:South Pacific.",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "its ok, as long as coach didnt win! the most deserving is actually Ozzy!RT @Survivor_Tweet: Catch up with Albert on the red carpet from Sunday's finale, and find out his thoughts on his game play!",
+        "tones": [
+          {
+            "score": 0.677186,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.817883,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "#Survivor h ...I am watching Survivor: South Pacific, Then There Were Five (S23E14).",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "http://t.co/pw44LJe3Buy",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "Survivor South Pacific http://t.co/Hxlo6Ncg",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "#tbmemorabilia #memorabilia #ebay #survivorsouthpacificSurvivor: South Pacific Finale Preview!Med student Clarke wins Survivor: South Pacific     (AP) http://t.co/K49ltpHJVendo",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "a Season Finale d Survivor 23:South Pacific... soh fico pensando em como anos dps Ozzy ainda é o jogador mais forte do jogo!",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Go Ozzy!Who Wins Survivor South Pacific http://t.co/BWuZE1pcWhere",
+        "tones": [
+          {
+            "score": 0.614344,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "can I watch survivor south pacific from australia?",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": ";) http://t.co/mII3VBri",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "survivorRT @Survivor_Tweet: Catch up with Albert on the red carpet from Sunday's finale, and find out his thoughts on his game play!",
+        "tones": [
+          {
+            "score": 0.616159,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "#Survivor h ...Not happy with the winner!",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "(watching Survivor: South Pacific, The Reunion S23E16) http://t.co/rXDrByyII",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "am watching Survivor: South Pacific, Loyalties Will Be Broken (S23E15).",
+        "tones": [
+          {
+            "score": 0.625669,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "http://t.co/eRjQB474http://t.co/H6QUJgYj 'Survivor: South Pacific': Edna goes up against crazy Brandon#nowwatching Survivor South Pacific finalesurvivor: south pacific, the latest season of survivor, concluded last december 18, 2011.",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "i had watched some of (cont) http://t.co/GzuJaa6P&quot;Survivor:",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "South Pacific&quot; crowns a winnerExclusive: Sophie Clarke talks about her 'Survivor: South Pacific' win&quot;Survivor: South Pacific&quot; crowns a winnerSophie wins!",
+        "tones": [
+          {
+            "score": 0.69582,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "Survivor South Pacific.. :) #Late'Survivor: South Pacific' crowns Sophie Clarke million-dollar championSophie Clarke is the winner of Survivor 23: South Pacific.",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "&gt;:)Watching Survivor South Pacific - Life at Ponderosa in youtube.",
+        "tones": [
+          {
+            "score": 0.800011,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": ":))I'm home!",
+        "tones": [
+          {
+            "score": 0.924758,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": ":) and ready for the continuation of Survivor South Pacific..#OWS : Survivor South Pacific Season 23 Episode 15 (Part 1) http://t.co/UxC6Hd8iWatch",
+        "tones": [
+          {
+            "score": 0.508379,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "Survivor South Pacific Season 23 Episode 16 Reunion Part 1: Watch http://t.co/567EsmQy",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "watch survivor south... http://t.co/Ww6kqIg9'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "South Pacific' Season 23 Season... | Gather: http://t.co/u1xbSKZM",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "via @AddThisHitFix Interview: Sophie Clarke talks 'Survivor: South Pacific' http://t.co/govWEEVkVIDEO",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Survivor: South Pacific — Exclusive Interview With Winner Sophie Clarke#Survivor: South Pacific Finale Generates over 25000 Tweets ... http://t.co/9yaTmQTg;)",
+        "tones": [
+          {
+            "score": 0.743104,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "survivor http://t.co/3l5lgkmX",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "where can i watch SURVIVOR South Pacific online live tonight?Ozzy,一个纯竞技型选手。。。虽然我很喜欢，不过换句话说也就是他毫无策略。。Survivor Video - Red Carpet Interview: Ozzy - http://t.co/RIpPy5vb",
+        "tones": [
+          {
+            "score": 0.573252,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "http://t.co/T9ijbAufMed",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "student Clarke wins Survivor: South Pacific http://t.co/v2SeKeWfSurvivor",
+        "tones": [
+          {
+            "score": 0.553123,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "Video - Ep 15, Loyalties Will Be Broken - http://t.co/orc5V9fw",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "http://t.co/4sRbkqjN:",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "HitFix Interview: Sophie Clarke talks 'Survivor: South Pacific'HitFix's Daniel Fienberg interviews Survivor: S... http://t.co/B2SxGpCCatch",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "up with Albert on the red carpet from Sunday's finale #Survivor http://t.co/WSDgiH0AHitFix",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "Interview: Sophie Clarke talks 'Survivor: South Pacific' - http://t.co/kxUeK8nuHitFix",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "Interview: Sophie Clarke talks 'Survivor: South Pacific' - http://t.co/8pTPNJjW“@the_real_coach:",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "http://t.co/hBKleUIr”",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Gr7 interview!",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Still angry u didn't win the mil.",
+        "tones": [
+          {
+            "score": 0.865164,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "Tweet us all the deets of ur new show in 2012 man.Just finished watching Survivor South Pacific, and I'm pretty angry about the result.",
+        "tones": [
+          {
+            "score": 0.584166,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.594263,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "Why?Viendo Survivor South Pacific ☺Dragon Slayer Smackdown: Survivor: South Pacific Crowns Million-Dollar Winner http://t.co/hV9Bot3tRT",
+        "tones": [
+          {
+            "score": 0.640942,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "@the_real_coach: http://t.co/yUaJj7JiRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "@the_real_coach: http://t.co/yUaJj7JiHitFix",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Interview: Benjamin 'Coach' Wade talks 'Survivor: South Pacific' http://t.co/K66snyVsRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "@the_real_coach: http://t.co/yUaJj7Jihttp://t.co/yUaJj7JiMed student Clarke wins 'Survivor: South Pacific'Med student Clarke wins Survivor: South Pacific http://t.co/Sp3tDJ28RT",
+        "tones": [
+          {
+            "score": 0.54571,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "@washingtonpost: NYU professor says he was fired for giving James Franco a \\\"D\\\" http://t.co/BsjTpZe8'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "South Pacific' votes off Edna Ma, ousts John CochranVIDEO Survivor: South Pacific — Exclusive Interview With Ozzy Lusth: Every time Ozzy Lusth competes on Survivor,... http://t.co/r5ONIS6NRT",
+        "tones": [
+          {
+            "score": 0.56036,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "@Survivor_Tweet: Catch up with Albert on the red carpet from Sunday's finale, and find out his thoughts on his game play!",
+        "tones": [
+          {
+            "score": 0.605617,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.85365,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "#Survivor h ...RT @Survivor_Tweet: Catch up with Albert on the red carpet from Sunday's finale, and find out his thoughts on his game play!",
+        "tones": [
+          {
+            "score": 0.591103,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.561818,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "#Survivor h ...Congrats Sophie!",
+        "tones": [
+          {
+            "score": 0.824639,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "#Survivor: South Pacific - freaky season!",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "Can't wait for #OneTribeCatch up with Albert on the red carpet from Sunday's finale, and find out his thoughts on his game play!",
+        "tones": [
+          {
+            "score": 0.622355,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.636458,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "#Survivor http://t.co/s6VEBKsSRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "@BigBags: @meehand Way to be all warm and fuzzy.",
+        "tones": [
+          {
+            "score": 0.59274,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "http://t.co/EgdU4hzo@meehand",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "Way to be all warm and fuzzy.",
+        "tones": [
+          {
+            "score": 0.59274,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "http://t.co/EgdU4hzoVIDEO",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "Survivor: South Pacific — Exclusive Interview With Benjamin ‘Coach’ WadeCheck out photo highlights from this season of #Survivor: South Pacific! http://t.co/3eggcRtJRT",
+        "tones": [
+          {
+            "score": 0.567292,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "@Survivor_Tweet: Check out photo highlights from this season of #Survivor: South Pacific! http://t.co/ypybYDo9Updated.",
+        "tones": [
+          {
+            "score": 0.788547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "Big Bang still at 7pm weeknights.",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "Nine Programming Week 53 (December 25-31), 2011.",
+        "tones": []
+      }
+    ]
+  }
+}

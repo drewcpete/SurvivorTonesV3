@@ -1,0 +1,737 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "15342",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "5a39f206d985d51e35b9314e20588a33",
+    "x-dp-watson-tran-id": "5a39f206d985d51e35b9314e20588a33",
+    "x-edgeconnect-midmile-rtt": "56",
+    "x-edgeconnect-origin-mex-latency": "2911",
+    "date": "Mon, 16 Dec 2019 05:50:08 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.596611,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @robcesternino: There's no place else I'd rather be on #Survivor finale night than LIVE with @StephenFishbach at 11:15 pm ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "► http://…RT @robcesternino: There's no place else I'd rather be on #Survivor finale night than LIVE with @StephenFishbach at 11:15 pm ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "► http://…Who Will Win Survivor: San Juan Del Sur? http://t.co/5PVLfxq5rE",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "via @PEOPLEMagRT @MomOfKai: I know this is totally overshadowed by @SonOfMomOfKai's tweeting but my #LEGO recap of last week's #Survivor is up.",
+        "tones": [
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "http://t.…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "@DaltonRoss: The #Survivor interview in which Probst freaks me out by noting \\\"Keith and I are the same age, by the way.\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "http://t.co/drS…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "@robcesternino: There's no place else I'd rather be on #Survivor finale night than LIVE with @StephenFishbach at 11:15 pm ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "► http://…Here's a preview image of the #Survivor simulator San Juan del Sur season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Coming tonight after finale or tomorrow.",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "http://t.co/jb1W1vAX8YSURVIVOR:",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "SAN JUAN DEL SUR  - Season Finale “This Is My Time” Who deserves $1 Million?",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "#Survivor night 7-9 PM #WIBW http://t.co/E0j7vNt1ckRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "@robcesternino: There's no place else I'd rather be on #Survivor finale night than LIVE with @StephenFishbach at 11:15 pm ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "► http://…RT @robcesternino: There's no place else I'd rather be on #Survivor finale night than LIVE with @StephenFishbach at 11:15 pm ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "► http://…There's no place else I'd rather be on #Survivor finale night than LIVE with @StephenFishbach at 11:15 pm ET.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "► http://t.co/wq9nVm4wksRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "@MomOfKai: I know this is totally overshadowed by @SonOfMomOfKai's tweeting but my #LEGO recap of last week's #Survivor is up.",
+        "tones": [
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "http://t.…Jeff",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "Probst: 'Survivor: San Juan del Sur -- Blood vs. Water' wasn't what we hoped, but next season delivers http://t.co/3Xy9OSy0d2Who",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "Will Win Survivor: San Juan Del Sur? http://t.co/0XRYwjmMON",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "via @PEOPLEMagRT @RC_Survivor: SERIOUSLY How could u knowingly cast people who have never watched #Survivor Pick fans who apply-they bring strategy  http…I know this is totally overshadowed by @SonOfMomOfKai's tweeting but my #LEGO recap of last week's #Survivor is up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "http://t.co/yRIXSTIg3fThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "#Survivor interview in which Probst freaks me out by noting \\\"Keith and I are the same age, by the way.\\\"",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "http://t.co/drS42kK8bYRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "@RC_Survivor: SERIOUSLY How could u knowingly cast people who have never watched #Survivor Pick fans who apply-they bring strategy  http…RT @RC_Survivor: SERIOUSLY How could u knowingly cast people who have never watched #Survivor Pick fans who apply-they bring strategy  http…SERIOUSLY How could u knowingly cast people who have never watched #Survivor Pick fans who apply-they bring strategy  http://t.co/vHUmclT3s2Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "host Jeff Probst handicaps Survivor San Juan del Sur -- Blood vs Watr finale castaways #Anderson #cast http://t.co/fKRsMyIYIQSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "San Juan Del Sur - Week 12",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "#Survivor #Huyopa #Jon ",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "#SurvivorFinale #Baylor #Jaclyn #Keith #Missy #Natalie http://t.co/rV7mF4vg7SRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "@gordonholmes: Get prepped for tonight's finale with the nine most shocking moments from #Survivor San Juan del Sur' http://t.co/TePKAce…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "@EW: #Survivor host @JeffProbst names the 2 favorites to win heading into tonight's finale: http://t.co/oeVRJX5vhI",
+        "tones": [
+          {
+            "score": 0.736412,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "http://t.co/GAUA9QUjWIWho",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "will be crowned this season's \\\"Survivor\\\"?",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "http://t.co/6zmbXzOEwTRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "@EW: #Survivor host @JeffProbst names the 2 favorites to win heading into tonight's finale: http://t.co/oeVRJX5vhI",
+        "tones": [
+          {
+            "score": 0.736412,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "http://t.co/GAUA9QUjWIWho",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "will win 'Survivor San Juan Del Sur'? http://t.co/yH8Cf3h0eW",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "http://t.co/8YPINgeoY8RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "@EW: #Survivor host @JeffProbst names the 2 favorites to win heading into tonight's finale: http://t.co/oeVRJX5vhI",
+        "tones": [
+          {
+            "score": 0.736412,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "http://t.co/GAUA9QUjWI‘survivor’",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Finale: Who Will Win ‘san Juan Del Sur,’ Blood V. Water?",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "http://t.co/hAkE8DYeTGWho",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "Will Win Survivor: San Juan Del Sur? http://t.co/7OOy64DMgZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "via @PEOPLEMagLast episode of Survivor San Juan Del Sur tonight starting at 8pm. 3 hours of Survivor tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "Go Watch!Links para assistir a finale e reunião de Survivor: San Juan del Sur ao vivo:",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": " Começa às 23:00 (horário de... http://t.co/OsN84VyNdV‘Surviver’",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "host Jeff Probst han'icaps ‘Surviver: Sun Juun del Sur — Blood vs. Wat'r’ finale… http://t.co/JAhyKDiAEBSurvivor",
+        "tones": [
+          {
+            "score": 0.634667,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "host Jeff Probst handicaps Survivor San Juan del Sur -- Blood vs Watr finale castaways #Anderson #cast http://t.co/qEmucXH9Ed.@GlobalTV_TBay:",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "Here's what's on tonight #tbay: @ 8pm Survivor: San Juan Del Sur (finale) &amp; @ 10pm Survivor: San… http://t.co/FPblRAfUpehttp://t.co/lWMjbtYG5S via @TVGuideSurvivor: San Juan del Sur finale tonight @ 7!!! 🌴☀️🌊🔥#teamnatalie #survivorJeff Probst Talks Survivor: San Juan Del Sur http://t.co/z8O9dcnp1kAn",
+        "tones": [
+          {
+            "score": 0.585639,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "exclusive 1st look at the tricky #survivorfinale challenge http://t.co/uvPdMv0E8r",
+        "tones": [
+          {
+            "score": 0.974578,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "http://t.co/AanRc4Z7GA'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "San Juan del Sur' Predictions: Who Will Win Season 29?: We are down to our final five castaways on ... http://t.co/xH4cDSKWufSURVIVOR:",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "SAN JUAN DEL SUR  - Season Finale “This Is My Time” Who deserves $1 Million?",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "#Survivor night 7-9 PM #WIBW http://t.co/aTLlGAnyae‘Survivor':",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "‘Huge Game-Changer’ Before Finale Revealed http://t.co/qdyy7nEXLJ",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "#celebrity #gossipSurvivor Finale Tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "I think it's between #Natalie and #Jaclyn this year:  http://t.co/uSAtFNhBU0",
+        "tones": [
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "#season29 #survivor #finale #countdownSurvivor Video - Reward Challenge: More Than A Feeling - http://t.co/BwPAu3rklG",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "http://t.co/yGJhhD7k7NHere's",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "what's on tonight #tbay: @ 8pm Survivor: San Juan Del Sur (finale) &amp; @ 10pm Survivor: San Juan Del Sur Reunion Show (live).‘Survivor':",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale will be filled wit... http://t.co/vwWY0IhEFv‘Survivor':",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale wil... http://t.co/vwWY0IhEFv",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "ff@bobbypindas‘Survivor': ‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale will be filled wit... http://t.co/wBnkiTxbhS‘Survivor':",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale will be filled wit... http://t.co/yxvA4XBPSd‘Survivor':",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale will be filled wit... http://t.co/s8T0K0ueDN‘Survivor':",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale wil... http://t.co/MDMqsotKtW",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "#popmusicstuff‘Survivor': ‘Huge Game-Changer’ Before Finale Revealed: As per usual, the ‘Survivor’ finale will be filled wit... http://t.co/sno4v4fYoRJeff",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "Probst Talks Survivor: San Juan Del Sur http://t.co/8eqTx8VAXCRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "@Survivor_Tweet: This is your first look at what the castaways will face during their final days on the island.",
+        "tones": [
+          {
+            "score": 0.551405,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "#SurvivorFinale http://t…Survivor season 29:  San Juan del Sur, Blood vs. Water # 2 (probable spoilers) http://t.co/wYNuxaZPVf",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "#audio'#Survivor: San Juan del Sur' finale: Is a Natalie Anderson win the best option?",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "- http://t.co/aFSBkGFMY0@DaltonRoss",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "No Rites of Passage during tonight's #Survivor finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "\\\"We didn't even shoot it,\\\" says Probst: http://t.co/Tn7O6b3mox\\\"",
+        "tones": [
+          {
+            "score": 0.574067,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "So Glad!!Who Will Win Survivor: San Juan Del Sur? http://t.co/lEOOQBhMEA",
+        "tones": [
+          {
+            "score": 0.7299,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "vía @PEOPLEMagRT @JackTV: In two days, the winner of this season's Survivor: San Juan del Sur will finally be revealed!",
+        "tones": [
+          {
+            "score": 0.678596,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "Catch it at 3pm via sat w/primeti…RT @JackTV: Watch as the latest drama unfolds every week in Survivor: San Juan del Sur.",
+        "tones": [
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "Catch this week's episode at these times.",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "http://t.…@fymaxwell",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "- San Juan Del Sur is the Tommy Wiseau version of Survivor \\\"OH HAI JEFF!\\\"Video of the Day: Survivor: San Juan Del Sur Finale Preview http://t.co/0jKB7GU7DnVideo of the Day: Survivor: San Juan Del Sur Finale Preview http://t.co/sh5PVLB4YESurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "2014: Spencer on the San Juan Del Sur Final 5 http://t.co/WjHTqpt0uZ",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "via @robcesterninoRT @peoplemag: EXCLUSIVE: @JeffProbst talks 'Survivor: San Juan Del Sur' http://t.co/YmhlYtwWch",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "@stevehelling @Survivor_Tweet http://t.co/P…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "@DaltonRoss: Breaking News!",
+        "tones": [
+          {
+            "score": 0.64093,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "No Rites of Passage during tonight's #Survivor finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "\\\"We didn't even shoot it,\\\" says Jeff Probst: http://t…‘Survivor’ Season 30 Spoilers: ‘Worlds Apart’ Season Ahead For Spring 2015?: Survivor: San Juan del Sur airs i... http://t.co/yZl3N9Rch9Jeff",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "Probst Talks Survivor: San Juan Del Sur http://t.co/0XduKxH5yT'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "San Juan Del Sur' Finale: First Look at Immunity Challenge http://t.co/RPfAArnb3X",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "http://t.co/Yq8ToZMYItExclusive",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "Survivor San Juan del Sur -- Blood vs Watr castoff #Jon Misch talks (Part 3)  http://t.co/arDHBLi8nh",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "#JaclynSchultz #JonMischRT @gossipwomanrtvg: Season finale of #Survivor San Juan Del Sur tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "So pumped up!RT @TheGameSurvivor: Jeff tells you who he didnt like this season and makes a case for a Jaclyn win http://t.co/GwEWwqMyM5",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "#Survivor #Survi…'Survivor: San Juan Del Sur' Finale: First Look at Immunity Challenge http://t.co/ZcLN6lQdsJ",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "via @THR'Survivor: San Juan Del Sur' Finale: First Look at Immunity Challenge http://t.co/NqyyvAVKUd'Survivor:",
+        "tones": [
+          {
+            "score": 0.50375,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "San Juan Del Sur' Finale: First Look at Immunity Challenge http://t.co/OntUOI6GJlRT",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 104,
+        "text": "@SpencerBGM: Who's my surprise non-Natalie #Survivor winner pick?",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 105,
+        "text": "Check out my talk with @robcesternino on #RHAP to find out!! http://t.…Season",
+        "tones": [
+          {
+            "score": 0.905748,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 106,
+        "text": "finale of #Survivor San Juan Del Sur tonight!",
+        "tones": []
+      },
+      {
+        "sentence_id": 107,
+        "text": "So pumped up!http://t.co/mWGYq1zq9V",
+        "tones": []
+      }
+    ]
+  }
+}

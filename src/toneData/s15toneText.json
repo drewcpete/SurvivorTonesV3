@@ -1,0 +1,920 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17167",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "b67055721f409bc4caa212fabeeae082",
+    "x-dp-watson-tran-id": "b67055721f409bc4caa212fabeeae082",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "2288",
+    "date": "Mon, 16 Dec 2019 05:50:07 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.607919,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.505865,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.562508,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"finished watching last 2 episodes of Survivor: China...eventho I knew who won07.12.06 Survivor China - Family Visits -- http://scouta.com/faves/6XykZfGCcCoperversely",
+        "tones": [
+          {
+            "score": 0.566802,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "I am enjoying watching survivor china tonight...",
+        "tones": [
+          {
+            "score": 0.744946,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "I am so ashamed...'Survivor: China' lunch lady says she'll donate $50,000 gift : NEW YORK - Denise Martin, who gained .. http://tinyurl.com/2plppbjust",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "finished survivor: china finale - good season this time round\\r",
+        "tones": [
+          {
+            "score": 0.598961,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "\\\\`Survivor: China&#39; Lunch Lady Apologizes - The Associated Press http://tinyurl.com/2qsc36New",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "episode of Talking About Survivor - Survivor China Finale! http://christianastuff.powerblogs.com/posts/1197995813.shtmljust",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "finished watching Survivor China and totally loved it!!Congrats to Todd on winning Survivor China.",
+        "tones": [
+          {
+            "score": 0.902753,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.727798,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "Just now got around to watching it.Does anyone really watch Survivor anymore?",
+        "tones": [
+          {
+            "score": 0.540042,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.979617,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Apparently it was in China this season.",
+        "tones": [
+          {
+            "score": 0.623362,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "http://snipurl.com/1vg7sSatisfied",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "with Survivor China's ultimate survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": ":) I love it when youngins win.Amazing Race 12: Recap of nothing.",
+        "tones": [
+          {
+            "score": 0.975757,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Instead Survivor:China gets on ...: As I browsed through the various .. http://tinyurl.com/2uyeakSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "China Episode 14 Unedited Uncensored Video Finale, Amanda ...: It involves climbing the “Surviv.. http://tinyurl.com/2vwpzyTodd",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Crowned China&#39;s Sole Survivor - E! Online http://tinyurl.com/2gttnaTodd",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "Crowned China&#39;s Sole Survivor - E! Online http://tinyurl.com/2cvuv3Todd",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "Crowned China's Sole Survivor ",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "    (E! Online)",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": " - http://tinyurl.com/2aohnyTodd",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "Crowned China&#39;s Sole Survivor - E! Online http://tinyurl.com/2py9goAmazing",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Race 12: Recap of nothing.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Instead Survivor:China gets on ...: As I browsed through the various .. http://tinyurl.com/366jknSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "China: Finale and Reunion Recap: Amanda wins the reward challenge (which involved forming a br.. http://tinyurl.com/2bbfu8&#39;Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "China&#39;: and the winner is ... - Baltimore Sun http://tinyurl.com/2nvzboTodd",
+        "tones": [
+          {
+            "score": 0.648483,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "Herzog Wins &#39;Survivor: China&#39; - The Associated Press http://tinyurl.com/yq4bkf@redplasticmonkey",
+        "tones": [
+          {
+            "score": 0.546688,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "forget survivor china, there should be a survivor twitter - who will be the last twittering when the bubble bursts?\\\"Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "China\\\" is like crack.I just heard Al Gore won Survivor China.Todd Herzog Wins &#39;Survivor: China&#39; - The Associated Press http://tinyurl.com/26yqawTodd",
+        "tones": [
+          {
+            "score": 0.508601,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.659112,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Herzog wins 'Survivor: China' ",
+        "tones": [
+          {
+            "score": 0.688715,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "    (AP) (http://www.eventsbetting.com/node/1293)They",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "should make the Survivor people look the same on the reunion finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "I don't remember seeing Elvis or Blondie when they were in China.watching",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Survivor.China - who will win?!?...and Survivor: China comes to a close tonight.",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "Amanda, Todd, Denise, or Courtney...who will it be?watchin",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "Survivor:China...watching survivor china - what crapSurvivor: China: “Hello, I’m Still a Person!”: Tags: cbs, challenges, china, fei long, great wall of chi.. http://tinyurl.com/38wtlgWatch",
+        "tones": [
+          {
+            "score": 0.527572,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Survivor: China with China Books: Episode 12: For the reward challenge, the contestants have to us.. http://tinyurl.com/2jsqt5Survivor:",
+        "tones": [
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "China: “Hello, I’m Still a Person!”: Tags: cbs, challenges, china, fei long, great wall of chi.. http://tinyurl.com/ywdcnsSurvivor",
+        "tones": [
+          {
+            "score": 0.573882,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "China - The Final 4: The reward challenge was really cool, and our Lunch Lady Denise took Court.. http://tinyurl.com/3bmjouSurvivor:",
+        "tones": [
+          {
+            "score": 0.757749,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "China — Peih-Gee Outplayed Leaving Four Fei-Long: The winner would be flown to the Great Wall .. http://tinyurl.com/2uvwjr@MicheBel",
+        "tones": [
+          {
+            "score": 0.628881,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Survivor:China?? redundant, anyone that makes it out of there qualifies... xDHoly crap!",
+        "tones": [
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "You mean I've missed nearly all of Survivor: China?",
+        "tones": [
+          {
+            "score": 0.683209,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "that's the first season I've totally missed of that show.",
+        "tones": [
+          {
+            "score": 0.699555,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": ":-(Almost time for the last pre-finale episode of Survivor China!Cold and snowy in Pennsylvania tonight.",
+        "tones": [
+          {
+            "score": 0.88967,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Last pre-finale ep of Survivor China tonight!www.newestdiscovery.com",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "update: Underdog Survivors betting on $1 million (During \\\"Survivor China's\\\" 11 weeks, the contestants who ...)Just watched Survivor: China.",
+        "tones": [
+          {
+            "score": 0.839577,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "I love survivor.",
+        "tones": [
+          {
+            "score": 0.869231,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "*LOVE* it.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "Hands down the best show on TV at the moment.Watched tonight's Survivor China on DVR and now off to sleep.",
+        "tones": [
+          {
+            "score": 0.731381,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "Happy that we'll be moving to Seattle in less than two weeks!@marvlove,",
+        "tones": [
+          {
+            "score": 0.825553,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "you already have Survivor China!?",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "I don't get it until Thursday.",
+        "tones": [
+          {
+            "score": 0.944551,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "Yes, what *IS* with Amanda's back side?",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "Fuzzylooking cellulite?watching",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "Survivor: China...and wondering why \\\"Amanda's\\\" arse is always blurred out...(?)James voted off Survivor China http://tinyurl.com/294jmtMythTV",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "recorded Survivor: China, Nov 29th 2007 at 20:00 on WCBS.Panda News: Survivor China: Ready to Bite the Apple - TV Squad: Survivor China: Ready to Bite th.. http://tinyurl.com/3825w3Panda",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "News: Survivor: China, Unfinished Business - TVGrapevine.com:",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "Survivor: China, Unfinished .. http://tinyurl.com/2vz5mnooooof.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "back to drinking caffeine.",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "kicking back with wife to watch \\\"survivor: china\\\".07.11.08 Survivor China - Caught Off Balance -- http://scouta.com/faves/iHpdbFAGWYIMythTV recorded Survivor: China, Nov 15th 2007 at 20:00 on WCBS.waiting for my chinese food; pretending i'm on \\\"survivor: china.\\\"New",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "episode of Talking About Survivor.",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "Survivor China Week 8 http://christianastuff.powerblogs.com/posts/1195017820.shtmwatching",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "Survivor: ChinaCourtney Yates from \\\"Survivor: China\\\" served my birthday lunch today, what a surprise!Watching Survivor: China on NBC.com since one of my TiVos recorded a black screen for two weeks while I was housesitting.",
+        "tones": [
+          {
+            "score": 0.773437,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "TV catch up time.MythTV recorded Survivor: China, Nov 1st 2007 at 20:00 on WCBS.I wonder if CBS realizes the Survivor China website shows the Sprint logo right on Buddha's forehead?@INdebatecoach:",
+        "tones": [
+          {
+            "score": 0.583315,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "We're watching _Survivor: China_ also...it's getting to the fun part of the game.",
+        "tones": [
+          {
+            "score": 0.696926,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "I don't think she'll be able to do it...Watching Survivor: China--My favorite Amanda is still on tonight.",
+        "tones": [
+          {
+            "score": 0.528668,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "Woohoo.",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "Missed last 2 wks.",
+        "tones": [
+          {
+            "score": 0.778043,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "so some catching up to do with relationships.Survivor China, episode 6!You should go to Twitter.",
+        "tones": [
+          {
+            "score": 0.565076,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "I am watching Survivor China.",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "http://tinyurl.com/ytul4kWatching",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "gross eating challenge on Survivor China..  they're eating baby turtles!Survivor China preview: http://survivorhut.blogspot.comSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "China : Love is in the airPanda News: Survivor China: Week 5 - &quot;I Am Not What I Am...&quot; - TV Fodder: Survivor Chi.. http://tinyurl.com/2ygxegPanda",
+        "tones": [
+          {
+            "score": 0.670395,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "News: Survivor China: Love is in the Air - TV Squad: Survivor China: Love is in the AirTV .. http://tinyurl.com/2rq59cPanda",
+        "tones": [
+          {
+            "score": 0.695386,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "News: A showmance and a fix on &#39;Survivor: China&#39; - Zap2it.com:",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "A showmance and a f.. http://tinyurl.com/25c5cdWatching",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Survivor China.",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "I could do that...no food and living with people that smell like sweaty toe jam.Just published: 'Survivor China' Preview Ep. 5 and Rumors: http://tinyurl.com/2s37mjPoker",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "Player Jean-Robert Bellande on Survivor China (http://www.onlinepokerblog.eu/node/792)New",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "post: Poker Player Jean-Robert Bellande on Survivor China (http://tinyurl.com/29b6g5)Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "China: Ride the Workhorse Til the Tail Falls Off - http/tinyurl.com/2nqr7sWatching",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Survivor China eppys I missed.",
+        "tones": [
+          {
+            "score": 0.77705,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "Gawd,i missed Probst!",
+        "tones": [
+          {
+            "score": 0.767205,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "HahaMythTV recorded Survivor: China, Oct 11th 2007 at 20:00 on WCBS.Watching _Survivor: China_ with Lois; Evan's just asked Lois where James is (yes, we told him that James would be leaving).Brits Get Rich in China: A Survivor-type take on British businessmen looking to make a fortune in China (via .. http://tinyurl.com/2a9fefSurvivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "China: I Lost Two Hands and Possibly a Shoulder!",
+        "tones": [
+          {
+            "score": 0.5637,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "- http:/tinyurl.com2bgqozjust finished watching Survivor: China and is diggin itPanda News: Anita Creamer: Blog clarifies &#39;Survivor: China&#39; errors - Sacramento Bee: Ani.. http://tinyurl.com/22ua3zis",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "watching Survivor: ChinaTime for _Survivor: China_, then, perhaps, _The Office_; updated check book (insyc with da' bank).Everytime I hear the \\\"survivor china \\\" radio promo, it sound like he says \\\" Sir VivraGina\\\" and its weirdJust found my friend is on Survivor (China) this year!",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "Crazy..Jean-Robert Bellande on Survivor China Week 3 (http://www.onlinepokerblog.eu/node/765)Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "China episode 3 preview: http://survivorhut.blogspot.comNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "post: Jean-Robert Bellande on Survivor China Week 3 (http://tinyurl.com/2bgmdy)watching",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "a rerun of survivor:China..and thinkin it might be too late to start tidying up...*aaw no...*Survivor: China: My Mom Is Going To Kill Me! - http://tinyurl.com/2wlv29Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "China already started!",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "I set the MCE, good thing for Comcast on-demand, I cuaght the season premiere...Survivor China already started!",
+        "tones": [
+          {
+            "score": 0.518244,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "I set the MCE, good thing for Comcast on-demand, I cuaght the season premiere...Survivor: China: My Mom Is Going To Kill Me! - http://tinyurl.com/2wlv29Missed",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "\\\"Survivor: China\\\" again... and I don't feel all to interested in torrenting them to catch up.",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.722586,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "*gasp* Have I grown tired of the show?watching survivor: china on tivo.",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "wishing i was a pmeMythTV recorded Survivor: China, Sep 27th 2007 at 20:00 on WCBS.",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "TV show fan podcasts at http://gspn.tv.Also: am open threading Survivor: China.",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "Life continues to be surprising.Watching Survivor: CHina (NO spoilers this time vergil66 :Þ).",
+        "tones": [
+          {
+            "score": 0.549766,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "But....I do like Amanda-she's my fav.Watching Survivor China.",
+        "tones": [
+          {
+            "score": 0.611238,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": ":-pGearing up for watching _Survivor: China_; DVR set to record some other show that's on at the same time.\"}",
+        "tones": [
+          {
+            "score": 0.718921,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      }
+    ]
+  }
+}

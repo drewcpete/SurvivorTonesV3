@@ -1,0 +1,769 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "15792",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "571c0e4f9e8c2792c6c297b43e3d846e",
+    "x-dp-watson-tran-id": "571c0e4f9e8c2792c6c297b43e3d846e",
+    "x-edgeconnect-midmile-rtt": "57",
+    "x-edgeconnect-origin-mex-latency": "2834",
+    "date": "Mon, 16 Dec 2019 05:50:07 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.676481,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Finally going to try and watch 4 hours of Survivor to catch up to see who won Somoa.",
+        "tones": [
+          {
+            "score": 0.723188,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Can't believe social media hasn't ruined it for me yet.I love the fact that on Survivor: Somoa.",
+        "tones": [
+          {
+            "score": 0.717582,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "There were two black men on there that were INTELLIGENT and loyal.",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "They proved mainstream WRONG!!!congrats to the winner of survivor somoa Natalie White!So much for Nine not revealing the merge will happen in next weeks episode of Survivor SomoaSexy Natalie White Stuns!",
+        "tones": [
+          {
+            "score": 0.687406,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "(Photos) Survivor Somoa Winner is an Upset http://bit.ly/4A7XNdThe",
+        "tones": [
+          {
+            "score": 0.529569,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "tribal council has voted, declaring Natalie White the winner of &quot;Survivor: Somoa.&quot;",
+        "tones": [
+          {
+            "score": 0.545204,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "http://url4.eu/xwsYNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "post: 'Survivor: Somoa''s Russell Hantz Falls Short of Victory (http://cli.gs/EyDRy)",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "http://cli.gs/EyDRyNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "Blog post 'Survivor: Somoa''s Russell Hantz Falls Short of Victory  http://bit.ly/5QVetH",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "...RT @the_insider 'Survivor: Somoa''s Russell Hantz Falls Short of Victory http://bit.ly/5fngFeSexy",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "Natalie White Stuns!",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "(Photos) Survivor Somoa Winner is an Upset: National Ledger Sexy Natalie White has st.. http://bit.ly/62annTjust",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "finished watching the season finale of survivor somoa and is looking forward to survivor 20  Redemption heroes vs villiansthe winner of survivor somoa is the most suprisingest person i thought would win.RT @the_insider 'Survivor: Somoa''s Russell Hantz Falls Short of Victory http://bit.ly/5fngFe'Survivor:",
+        "tones": [
+          {
+            "score": 0.638491,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory  http://buzzhollywood.com/134943/ - Buzz Hollywood'Survivor: Somoa''s Russell Hantz Falls Short of Victory:  \\\"Survivor: Somoa\\\" finalist Russell Hantz spoke to ET on ... http://bit.ly/4Ioju3'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory http://www.pulmotor.com/?p=50383New",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "Blog post 'Survivor: Somoa''s Russell Hantz Falls Short of Victory  http://bit.ly/5QVetH",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "...'Survivor: Somoa''s Russell Hantz Falls Short of Victory http://bit.ly/5fngFeNew",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "Gossip posting, 'Survivor: Somoa''s Russell Hantz Falls Short of Victory - http://celebritydaddy.com/?p=28297http://bit.ly/vjDTI",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "'Survivor: Somoa''s Russell Hantz Falls Short of Victory: \\\"Survivor: Somoa\\\" finalist Russell Ha... http://bit.ly/7Rx4nT'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory http://bit.ly/7Rx4nT'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory: \\\"Survivor: Somoa\\\" finalist Russell Hantz spoke to \\\"Th.. http://bit.ly/7Rx4nT'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory: \\\"Survivor: Somoa\\\" finalist Russell Hantz spoke to \\\"Th.. http://bit.ly/7X2uwq'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory: \\\"Survivor: Somoa\\\" finalist Russell Hantz spoke to \\\"Th.. http://bit.ly/7r4EqT;-)",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "'Survivor: Somoa''s Russell Hantz Falls Short of Victory #Pop #Celebrity #Celeb #Entertainment #Hollywood #.. http://bit.ly/7Rx4nT'Survivor:",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "Somoa''s Russell Hantz Falls Short of Victory http://bit.ly/72ZeGoGood",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "Monday morning on this Christmas week!",
+        "tones": [
+          {
+            "score": 0.738296,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "I am still pleasanly, and surprisingly, surprised by last night's Survivor: Somoa finale.glad to see Russell didn't win Survivor Somoa.Survivor somoa turned out to be just a popularity contest!",
+        "tones": [
+          {
+            "score": 0.753124,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "What a rip off...Guess i wont watch next season.\\rKgrTrxBoooooo",
+        "tones": [
+          {
+            "score": 0.87411,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "natalie should not have won survivor somoa!",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "Booooo!\\rKgrTrxSo relieved that Russell's horrid behavior was not rewarded.",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "Yay! Congrats Natalie!",
+        "tones": [
+          {
+            "score": 0.982515,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "Winner of Survivor Somoa.TV Update: Season 20 of CBS reality hit \\\"Survivor\\\" will be 'Heroes vs. Villians' all-star theme, set in Somoa; debuts February 11Russell did not win Survivor Somoa, I am bummed.Survivor somoa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "Natalie won  but it shoulda been RUSSELL!",
+        "tones": [
+          {
+            "score": 0.605703,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "He was ROBBED.Honestly Natalie did not do crap to win Survivor Somoa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "#survivorRussell is hysterical.",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "Yes Russell you were the best Survivor Somoa player.",
+        "tones": [
+          {
+            "score": 0.50435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "#survivorNatalie winning Survivor Somoa is a total joke.",
+        "tones": [
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Name 1 thing she did to deserve to win? Russell deserved to win hands down.",
+        "tones": [
+          {
+            "score": 0.668897,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "Jury is a joke.It's tuff to read this jury not sure who will get Survivor Somoa million dollars.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "The jury is angry grrrrr.",
+        "tones": [
+          {
+            "score": 0.815442,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "LOL #survivorNatalie from Survivor kiilled a rat in the jungle and fed her tribe.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "She has now won Survivor Somoa!!  Congrats Girl!!If anybody but Russel wins survivor I will never watch this show again!!! #survivor somoaYes Russell you won Survivor Somoa! #survivorWatching survivor somoa season finale!",
+        "tones": [
+          {
+            "score": 0.831474,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "So intense go Russell!! :)Watching Survivor Somoa!",
+        "tones": [
+          {
+            "score": 0.774857,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "Go Russell!watching survivor: somoa finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "lets go foa foa!Watching SURVIVOR: SOMOA finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "I am so sick of challenges that end with assembling puzzle pieces.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "Can there be a challenge without one?I'm getting real-time search results at TweetGrid http://tweetgrid.com/",
+        "tones": [
+          {
+            "score": 0.646387,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "for Survivor Somoa #survivorSurvivor somoa finale!so,",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "I hear that TVTropolis is showing a survivor Somoa marathon all day tomorrow prior to the finale... is the finale really tomorrow?Watching Survivor somoa.",
+        "tones": [
+          {
+            "score": 0.525926,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "And eating migoreng noodlesGetting ready to watch the new episode of Survivor: Somoa.",
+        "tones": [
+          {
+            "score": 0.69008,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "Can't wait...LOVE THIS SHOW!!!Watching Survivor Somoa ; GO!!! Mick Shambo is Crazy lol but i love her and that Russel ha ha GO #MickSurvivorSomoa #SurvivorSomoawho do you think is going to win survivor somoaOk no more tweeting for an hour - it's Survivor Somoa timeRT @THEFRESHBOYZFBB: Watching survivor somoa with grandpops!!! What my tweeple up 2??? &gt;&gt; WAtChiN #hANGOVERWatching survivor somoa with grandpops!!! What my tweeple up 2???My cousin John Fincher got voted off Survivor Somoa last night; in other news we have a kid coming to the house, he's 11&apos;Survivor Somoa&apos;: And yet another blindside by Russell: Just as Shambo thought she had t.. http://bit.ly/5zjSOw",
+        "tones": [
+          {
+            "score": 0.605667,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "#tal #eventsGot caught up on Survivor Somoa and I can't wait to see the final 3. Outwit - Outsmart - Outlast :: secret to winning the game.",
+        "tones": [
+          {
+            "score": 0.745304,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "It's crazy.I'm watching survivor somoa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "love it.!!! #survivorReading: 'Survivor: Somoa': A look back at the last 27 days - Examiner.com:",
+        "tones": [
+          {
+            "score": 0.705033,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.781949,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "Examiner.com'Survivor:",
+        "tones": [
+          {
+            "score": 0.997482,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "Somoa... http://bit.ly/8f8Pgc",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "@TweetMeMeCannot stop watching recorded episodes of Survivor Somoa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "Help!Whatchin Survivor Somoa http://myloc.me/1D0Z5Jeff",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Probst Blogs 'survivor: Somoa': Episode 10: By Jeff... http://www.facebook.com/permalink.php?story_fbid=209526520217&id=200316160156I know this Survivor Somoa is making all the other pale in comparison.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "These players are crafty.",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "#survivorI'm watching Survivor Somoa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "#survivorI'm tweeting about Survivor Somoa, never watched the other but watching this one & loving Russell alot #survivorWhat did ya think?",
+        "tones": [
+          {
+            "score": 0.735017,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "RT @chrisunthank: Just got caught up on Survivor Somoa - man this season is turning out pretty awesome!Just got caught up on Survivor Somoa - man this season is turning out pretty awesome!Home, watching survivor somoa!",
+        "tones": [
+          {
+            "score": 0.791091,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "Welcome to the good life XDJeff Probst Blogs 'survivor: Somoa': Episode #9: ",
+        "tones": [
+          {
+            "score": 0.926287,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "First off, I want to thank all of the Survivor fans who vote.. http://bit.ly/3ZVkW4Watching",
+        "tones": [
+          {
+            "score": 0.757,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.775702,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Survivor Somoa!Survivor: Somoa starts in 5 minutes.",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "Thanks, Google Calendar!yay survivor somoa is on now! :-)Bengals Players Gather to Watch \\\"Survivor Somoa\\\": Natives of the island nation catch glimpse of home through re.. http://bit.ly/28W5q9watchN",
+        "tones": [
+          {
+            "score": 0.857948,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Survivor Somoa looks green +lush, need 2travel 2 #Hawaii + #Somoa will be home in #Sacramento 2morrow, 1 more plane away  #CaliforniaReview: Survivor Somoa - Houdini Magic: \\r",
+        "tones": [
+          {
+            "score": 0.508694,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "(S19E07) Even though we're down a Russell this week on Survivor, I'll.. http://bit.ly/4Q4SK[Blog]",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "Review: Survivor Somoa - Houdini Magic: (S19E07) Even tho... http://ping.fm/TPWiPTV",
+        "tones": [
+          {
+            "score": 0.615202,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "Squad: Review: Survivor Somoa - Houdini Magic http://bit.ly/4Q4SK",
+        "tones": [
+          {
+            "score": 0.595244,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "#BCSurvivor Somoa - Liz-stake!! http://bit.ly/IBrG5Review:",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Survivor Somoa - Houdini Magic: \\r",
+        "tones": [
+          {
+            "score": 0.656609,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "(S19E07) Even though we're down a Russell this week on Survivor, I'll.. http://tinyurl.com/yzzyd2fWatchin",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "Survivor Somoa!!Survivor- somoaSurvivor lives to see Somoa: So, Jeff Probst, did you ever think the title of your show would come to describe .. http://bit.ly/2Gr54xSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "lives to see Somoa http://bit.ly/cw1au#Who will be the Survivor of Somoa?",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "RD this! http://www.siliconvalleydebug.com/story/100109/story/survsam.htmlToronto:",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "Survivor lives to see Somoa http://bit.ly/em3lGCatching up on some hulu and fancast.",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "Curently watching Survivor: Somoafinally ashely  voted out, survivor somoaSurvivor Somoa - First of the three Blonde-kateers!! http://bit.ly/bevBbSurvivor",
+        "tones": [
+          {
+            "score": 0.739104,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Somoa - First of the three Blonde-kateers!! http://bit.ly/bevBbEveryone!",
+        "tones": [
+          {
+            "score": 0.818116,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "Ive never seen a curly mullet before.",
+        "tones": [
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "If you want to see one turn on Survivor:Somoa.Watchin Survivor somoa.",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "Shambo's the man!",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "Still love that hair.RT breaking news: Obama wins Survivor: Somoa after camping out in the back yard of the White House.did he have to eat a hotdog from a stick?RT breaking news: Obama wins Survivor: Somoa after camping out in the back yard of the White House did he have to eat a hotdog from a stick?RT breaking news: Obama wins Survivor: Somoa after camping out in the back yard of the White House.did he have to eat a hotdog from a stick?SURVIVOR: SOMOA SEASON 19 - UNOFFICAL THEME SONG BY KELO (GRAMZUNKUT) WITH THE SONS OF SAMOA http://bit.ly/trQsQbreaking",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "news: Obama wins \\\"Survivor: Somoa\\\" after camping out in the back yard of the White House.",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "#nobeLOLYaz-terday's news on Survivor Somoa http://bit.ly/xvtVVJust got done watching Jim & Pam's wedding on The Office and another great episode of Survivor: SomoaJust got done watching Jim & Pam's wedding on The Office and another great episode of Survivor: Somoa\"}",
+        "tones": [
+          {
+            "score": 0.670388,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

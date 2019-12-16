@@ -1,0 +1,783 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "13929",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "ff6c5a5c0f10d5f76021ccdb558a505c",
+    "x-dp-watson-tran-id": "ff6c5a5c0f10d5f76021ccdb558a505c",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1154",
+    "date": "Mon, 16 Dec 2019 05:50:05 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.571219,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.625198,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.585562,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"I meant who is watching #survivor with me?I'm thinking Russell goes home tonight on Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "I'll be impressed if not.SURVIVOR FINALE TONIGHT OMGOMGOMGAnyone watching the #survivor finale tonight?",
+        "tones": [
+          {
+            "score": 0.552875,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Why is gonna win this one?",
+        "tones": [
+          {
+            "score": 0.503444,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "My",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "guess is Pavarty.. Is Russel wins I will gag!Parv FTW! RT @jessique: Go Parv go! #survivor #cbs #finaleSurvivor Finale begins now.",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "Im stuck at work.",
+        "tones": [
+          {
+            "score": 0.584975,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Gotta avoid technology till i get home and watch it.@angelajoana",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "I am excited about Survivor.",
+        "tones": [
+          {
+            "score": 0.930886,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "=3 Team Russell LOLYes I will admit that I still watch Survivor & this season's finale is about to begin.",
+        "tones": [
+          {
+            "score": 0.620865,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "Hubby has gone upstairs.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "So it's just me & some wineAll right for the next three hours, I'm on lockdown.",
+        "tones": [
+          {
+            "score": 0.904882,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "It's time for Survivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "I'm rooting for Russell but money is on Parvati or Jerri.survivor",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "finale !It's Survivor time!",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Survivor Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "Wooo!",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "Who win take the title of Sole Survivor?",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "We'll find out!",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "#Survivor #CBSTime for the #Survivor finale!Woo hoo....gonna watch the finale of Survivor...although my favorite player was voted off... :(só volto pro twitter qdo assistir o finale da atual temporada de Survivor que vai ser transmitida daqui a pouco nos EUAAlmost time for #survivor finale!!!It's time....  Survivor Finale, who will win?",
+        "tones": [
+          {
+            "score": 0.556937,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "I hope anyone but Russell.it's",
+        "tones": [
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "almost time!",
+        "tones": [
+          {
+            "score": 0.522817,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.998976,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "#survivor1 minuteee!!! #survivor finale!!!!!Getting ready for a night of #Survivor.#retweetthis",
+        "tones": [
+          {
+            "score": 0.709549,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "if u bout 2 watch the survivor finaleready for this #Survivor #Finale.",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "I'm guessing Russell wins, unless Colby goes on a tear and wins all the immunity challenges.#survivor",
+        "tones": [
+          {
+            "score": 0.527307,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "time!!! Sandra ftw@jskaa24 Survivor finale tonight!RT @ItsMeDeb: #Survivor finale...NOW!No matter what happens tonight, Russell is by far the most strategic Survivor player yet and most deserving to win.45 Seconds till Survivor!SURVIVOR!!!!!!!!PS3 NEWS PC ANSWER: Video Extras: Escape From Deepwater Horizon: Survivor Mike Williams Recalls His Harrowing Esca... http://bit.ly/cbK5EdRT",
+        "tones": [
+          {
+            "score": 0.605196,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "@eorlins: Me and @JennaMorasca sitting together @ the live #survivor finale.",
+        "tones": [
+          {
+            "score": 0.519278,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "Can you spot anyone else in the background?? :) http://m ...RT @60Minutes: Video: Extra: Oil Rig Survivor Part 4 http://bit.ly/a2N4QuVai",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "começar daqui dois minutos a final de Survivor Heroes vs Villains - http://www.justtvnuts.com/CBS.htm",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "=)Eating my famous lemon chicken and getting ready to watch the Survivor finale!RT @60Minutes: Video: Extra: Oil Rig Survivor Part 3 http://bit.ly/aKtSdpSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "Finale: And the winner is.... - http://bit.ly/c9s9GIRT @60Minutes: Video: Extra: Oil Rig Survivor Part 2 http://bit.ly/b11ibTSwitching",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "over to @SurvivorFanTwtr for the 3 hour Finale of Survivor: Heroes vs. Villains.",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "Come follow and join the party!#survivor finale time!!! #TeamColbyHere we go!!! Survivor HvV Finale!!! (no spoilers - fear not - if you want to know, ask me to DM & i will)@indigo_15 Eat well!",
+        "tones": [
+          {
+            "score": 0.805794,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "I didn't know that it is #Survivor's finale night already.",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "Haven't seen the whole \\\"Heroes vs. Villains\\\" thing.",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "LOL!RT @60Minutes: Video: Extra: Oil Rig Survivor Part 1 http://bit.ly/9YbOMWSurvivor",
+        "tones": [
+          {
+            "score": 0.686926,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "finale, can't waitSurvivor season finale is on #nowwatchingSurvivor Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "Ahhh looooove... I'm so damn excited...Survivor WARNING:  Spoilers ahead, next 3 miles, err, hours!Dutch boy who survived crash is back home: AP AMSTERDAM -- The 9-year-old Dutch boy who was the sole survivor of a... http://bit.ly/9yin2W@contagiouschelx",
+        "tones": [
+          {
+            "score": 0.588655,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "um, its survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "That is all.#Survivor",
+        "tones": [
+          {
+            "score": 0.97759,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "finale...NOW!tonight is the survivor heroes v. villains finale!",
+        "tones": [
+          {
+            "score": 0.51634,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "go sandra!",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "and gossip girl finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "go nate archibald!",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "now i just need to stay awake.@SuperMoonMan",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "I think Colby out first, than Jerri.",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "Votes will be 6 for Sandra, 3 to Parvati, none to Russell.",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "#SurvivorSurvivor!",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Should be a good one.Survivor finale and mint chocolate chip ice cream!Survivor Finale.",
+        "tones": [
+          {
+            "score": 0.649438,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "Plus keeping an eye on the hockey game.",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "And some junk food.Watching the first hour of the Survivor finale, then the final episode of The Pacifictime for the survivor finale...please god let anybody who isn't russell or parvati winme preparando psicologicamente para ver os comerciais toscos americanos durante a final de Survivor.Survivor finale!SURVIVOR FINALE!! BYE.Getting ready to watch the #MISSUSA and the #SURVIVOR finale!",
+        "tones": [
+          {
+            "score": 0.582866,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "ahh man crazy tv-schedule Sunday has begun!Getting ready for the Survivor season finale !!!!!So happy that #Survivor is starting on time!!!RT @Lisaleh: Looking forward to #survivor with my tweeple!",
+        "tones": [
+          {
+            "score": 0.894959,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "ready-o?",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "@supermoonman @jessewm @veggz @zegolf @peckenpaugh @bptbtrfly @jdhillierReady for the Survivor Finale!",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "Who do you think will win it?Anyone else thinking with #Survivor finale on Sunday  \\\"Man, this messes up my TV Schedule!\\\"to",
+        "tones": [
+          {
+            "score": 0.555779,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.716804,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "em dúvida se tento assistir a final de survivor no justtv ou deixo pra ver no youtube amanhãAnyone watching Survivor tonight?",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "Who do you think will walk away with the $1 million?time",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "for #Survivor =)SURVIVOR FINALE BABY! (L)remembers when #Survivor was a phenomenon.",
+        "tones": [
+          {
+            "score": 0.702145,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "Tonight the show's 20th season ends.",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Where does it go from here?Survivor: cheering for anyone but Russell.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "If Russell wins the million I will never watch again.I'll be glad when Survivor comes on.",
+        "tones": [
+          {
+            "score": 0.826,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "These fake chicks on Miss USA are already making want to toss my cookies.",
+        "tones": [
+          {
+            "score": 0.706396,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.646387,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "\\\"I want to spread happiness\\\"SURVIVOR !!!!!!!!!!!!!!!!!!!!!!!!!!!!!Survivor TimeSurvivor prediction.",
+        "tones": [
+          {
+            "score": 0.878899,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "Winner: Sandra.Yay survivor finale!alright guys im off to watch Survivor :) bbl...Live.Love.Lee &lt;3Survivor HvV Finale naaaaaaaaaaaaaaa!The Show Your True Fan Colors Survivor Finale Party is in full swing!Just come into chat and wear Red for Russ, Purple for Parv,Survivor finale tonight.",
+        "tones": [
+          {
+            "score": 0.918036,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "Who do you want to WIN?#survivor finale time.Sorry Habs, the Survivor finale wins out.",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "*gives back her Canadian citizenship for the next 3 hours*#Survivor Finale *-*Survivor is on @ 9pm and the WINNER.",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "Is revealed @ 10 pm show !",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "On CBS !So excited for the Survivor 20 finale tonight!",
+        "tones": [
+          {
+            "score": 0.85745,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": ":-)Super excited about the survivor finale!",
+        "tones": [
+          {
+            "score": 0.921868,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Go #teamrussell!@eorlins",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "Y'all look smashing #survivor#survivor #finale@eorlins IM SO JEALOUS! if i could fly id wait outside that theater all night to see you and the #survivor familywho do you want to see win Survivor?",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "I really don't care except for Russell..he may be just playing the game but he's making alot of enemiesSurvivor finale(:#survivor time!",
+        "tones": [
+          {
+            "score": 0.653207,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.775384,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.899797,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "I'm on team russell!",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Yeahhhh!#survivor time!",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "I'm on team russell!",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "Yeahhhh!survivor !The finale of #Survivor (which is about to start on CBS) is the only thing keeping me going ... Blah ;(Dang...Survivor wraps up tonight, CSI season ends on Thursday, and Lost ends on Sunday...at least True Blood season 3 starts soonI have my drink in hand.",
+        "tones": [
+          {
+            "score": 0.664531,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "Time for the Survivor finale.RT @MyTrainerBob: I loved the people in Detroit and it was great seeing old friends.",
+        "tones": [
+          {
+            "score": 0.824856,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "Now I'm off to Oklahoma City.",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "Gonna miss finale of  ...Que empiece Survivor.",
+        "tones": [
+          {
+            "score": 0.78888,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "Tengo Coca Cola, yogures y, bueno, @freddyvoorhees tiene palomitas.",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "Seguro que me da.Watch Survivor 2010 Heroes vs Villains Finale Live Online Streaming: Live Streams Online (blog)",
+        "tones": [
+          {
+            "score": 0.657077,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "The live streaming... http://bit.ly/9oR8In@iluvuforeverr21",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "Yau - man or Earl , both will get the others votes if they are in the final 2... http://bit.ly/9w1to8",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "survivor finale@iluvuforeverr21 Yau - man or Earl , both will get the others votes if they are in the final 2... http://bit.ly/9w1to8",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "survivor finale\"}",
+        "tones": []
+      }
+    ]
+  }
+}

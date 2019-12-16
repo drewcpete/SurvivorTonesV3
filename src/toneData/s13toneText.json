@@ -1,0 +1,168 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "2337",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-09T06:05:18",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "31171b7b6e39d2a86ca16cd8171a19ef",
+    "x-dp-watson-tran-id": "31171b7b6e39d2a86ca16cd8171a19ef",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "847",
+    "date": "Mon, 16 Dec 2019 05:50:05 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.643413,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.66551,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"survived yesterday's depression.",
+        "tones": [
+          {
+            "score": 0.92522,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "i'm a survivor!Watching Survivor finale...Yul from CA/Stanford won Survivorrooting for Ozzy to win Survivor - good person, focused athlete.basking in a satisfying Survivor finaleSurvivorSurvivor finale.returns",
+        "tones": [
+          {
+            "score": 0.777795,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "from an all day business meeting.",
+        "tones": [
+          {
+            "score": 0.673567,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Heads to the living room to watch the latest Survivor (yes, I *am* pathetic).catching",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "up on Heroes, Survivor and The Amazing Race.",
+        "tones": [
+          {
+            "score": 0.907462,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "I love downloads.Watching Survivoris for some reason really annoyed with the popularity poll for season 13 of survivorDisappointed in survivor series, heading home...",
+        "tones": [
+          {
+            "score": 0.64763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Not at all plotting to assassinate someone.",
+        "tones": [
+          {
+            "score": 0.981714,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "Kollar upp direkt vad som gäller inför survivor Seriesrooting for the undersized underdog group of four in Survivor - they have such great teamwork!Influenced by shows like Lost and music videos like Survivor, I never realised being stuck on an island somewhere would be fun.",
+        "tones": [
+          {
+            "score": 0.779854,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "OMG.",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "I miss the island.watching",
+        "tones": [
+          {
+            "score": 0.701828,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "all of this season's episodes of Battlestar Galactica, Survivor, and the South African version of Survivor.",
+        "tones": [
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Boy do I love bittorrenting.\"}",
+        "tones": [
+          {
+            "score": 0.859378,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}
