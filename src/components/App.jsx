@@ -68,7 +68,7 @@ componentWillMount(){
                             // 61,
                             // 54,
                             // 33,
-                        ],
+                        
                         backgroundColor: "green"
 
                     }
