@@ -1,4 +1,5 @@
 require('dotenv').config();
+const fs = require('fs')
 
 // Twitter data to string for each season
 
@@ -40,7 +41,7 @@ var s35json = require("./twitterData/s35tweetData.json");
 var s36json = require("./twitterData/s36tweetData.json");
 var s37json = require("./twitterData/s37tweetData.json");
 var s38json = require("./twitterData/s38tweetData.json");
-var s39json = require("./twitterData/s39tweetData.json");
+// var s39json = require("./twitterData/s39tweetData.json");
 
 
 var s13Text = tweetToString(s13json);
@@ -69,10 +70,16 @@ var s35Text = tweetToString(s35json);
 var s36Text = tweetToString(s36json);
 var s37Text = tweetToString(s37json);
 var s38Text = tweetToString(s38json);
-var s39Text = tweetToString(s39json);
+// var s39Text = tweetToString(s39json);
 
-var allText = [s13Text, s14Text, s15Text, s16Text, s17Text, s18Text, s19Text,s20Text,s21Text,s22Text,s23Text,s24Text,s25Text,s26Text,s27Text,s28Text,s29Text,s30Text,s31Text,s32Text,s33Text,s34Text,s35Text,s36Text,s37Text,s38Text,s39Text]
-
+var allText = [s13Text, s14Text, s15Text, s16Text, s17Text, s18Text, s19Text,s20Text,s21Text,s22Text,s23Text,s24Text,s25Text,s26Text,s27Text,s28Text,s29Text,s30Text,s31Text,s32Text,s33Text,s34Text,s35Text,s36Text,s37Text,s38Text]
+let textCount= 0;
+for (let i = 0; i < allText.length; i++) {
+    textCount +=allText[i].length 
+    console.log(allText[i].length)
+          
+}
+console.log(textCount)
 // console.log(s13Text)
 
 // Watson Tone Analyzer
@@ -86,20 +93,29 @@ const toneAnalyzer = new ToneAnalyzerV3({
   }),
   url: 'https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/0d09ef0e-0aad-4d91-9a39-31d817d93616',
 });
+let rawTone = "";
+function Analyze(tweetArray){
+    for (let i = 0; i < allText.length; i++) {
+        const toneParams = {
+            toneInput: {'text': allText[i]},
+            contentType: 'text/plain',
+        } ;
+        toneAnalyzer.tone(toneParams)
+        .then(toneAnalysis => {
+             rawTone = rawTone + (JSON.stringify(toneAnalysis, null, 2));
+            fs.writeFile("tweetTones")
+        })
 
-
-for (let i = 0; i < allText.length; i++) {
-    const toneParams = {
-        toneInput: {'text': allText[i]},
-        contentType: 'text/plain',
-    } ;
-    toneAnalyzer.tone(toneParams)
-    .then(toneAnalysis => {
-        console.log(JSON.stringify(toneAnalysis, null, 2));
+        .catch(err => {
+            console.log("error", err)
+        });
         
-    })
-    .catch(err => {
-        console.log("error", err)
-    });
-    
+    }
+    return rawTone
 }
+let toneDataJSON = Analyze(allText);
+fs.writeFile("tweetTone.json", toneDataJSON, (err) =>{
+    if(err) throw err;
+})
+
+// function AssignTone()
