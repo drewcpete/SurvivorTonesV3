@@ -26,6 +26,21 @@ var s37Tonejson = require("./toneData/s37toneText.json");
 var s38Tonejson = require("./toneData/s38toneText.json");
 // var s39json = require("./toneData/s39toneText.json");
 
-function getFear(json){
+
+function Season(){
+    this.id
+    this.fear = 0;
+    this.joy = 0;
+    this.sadness = 0;
+    this.anger = 0;
+    this.confident = 0;
+    this.tentative = 0;
+    this.analytical = 0;
+    // this.users = []
+}
+function Season.GetSeasonTones(json){
     
+}
+for (let i = 0; i < 25; i++) {
+    let newSeason = 
 }
