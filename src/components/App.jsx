@@ -2,8 +2,7 @@ import React from "react";
 import { Switch, Route } from "react-router-dom";
 import { Home } from "./Home";
 import Toolbar from "./Toolbar/Toolbar"
-import SeasonChart from "./SeasonChart.jsx"
-import AssignedSeasons from "../scripts/SeasonTones"
+import {Chart, ChartData, AssignedSeasons } from "./SeasonChart.jsx"
 
 
 
@@ -12,19 +11,22 @@ import AssignedSeasons from "../scripts/SeasonTones"
 
 
 class App extends React.Component {
-    constructor(props) {
-        super(props);
+    constructor() {
+        super();
         this.state = {
-            masterSeasonList: AssignedSeasons,
             chartData: {}
         }
     }
 
 
-    // componentWillMount() {
-    //     this.getChartData();
-    // }
-
+    componentWillMount() {
+        this.getChartData();
+    }
+    getChartData(){
+        this.setState({
+            chartData: ChartData
+        })
+    }
 
 
     render() {
@@ -43,7 +45,7 @@ class App extends React.Component {
                     <p>Survivor Finale Tones!</p>
                 </main>
 
-                <SeasonChart chartData={data} legendPosition="bottom" />
+                <Chart chartData={this.state.chartData} legendPosition="bottom" />
 
             </div>
         );
