@@ -1,5 +1,5 @@
 // import { Bar } from "react-chartjs-2";
-const fs = require('fs');
+// const fs = require('fs');
 var s13Tonejson = require("../toneData/s13toneText.json");
 var s14Tonejson = require("../toneData/s14toneText.json");
 var s15Tonejson = require("../toneData/s15toneText.json");
@@ -33,9 +33,7 @@ var jsonArray = [s13Tonejson, s14Tonejson, s15Tonejson, s16Tonejson, s17Tonejson
 var seasonArray = ["Cook Islands", "Fiji", "China", "Micronesia", "Gabon", "Tocantis", "Samoa", "Heroes vs. Villians", "Nicaragua", "Redemption Island", "South Pacific", "One World", "Philippines", "Caramoan", "Blood vs. Water", "Cagayan", "San Juan del Sur", "Worlds Apart", "Cambodia", "Kaoh Rong", "Millennials vs Gen X", "Game Changers", "Heroes vs. Healers vs. Hustlers", "Ghost Island", "David vs. Goliath", "Edge of Extinction", "Island of the Idols"];
 
 let AllSeasonTones = [];
-// AllTones.prototype.addSeason = function (season) {
-//     this.seasons.push(season)
-// }
+
 function Season() {
     this.id = 0;
     this.fear = 0;
@@ -96,55 +94,7 @@ function AssignSeasonNames(allSeasonTones) {
     return allSeasonTones
 }
 
-function CreateChartData(assignedSeasons) {
-    let newChartData = [];
-    for (let i = 0; i < assignedSeasons.length; i++) {
-        newChartData.push({
-            datasets: [
-                {
-                    label: "Joy",
-                    data: assignedSeasons[i].joy,
-                    backgroundColor: "green"
-                },
-                {
-                    label: "Fear",
-                    data: assignedSeasons[i].joy,
-                    backgroundColor: "orange"
-                },
-                {
-                    label: "Sadness",
-                    data: assignedSeasons[i].sadness,
-                    backgroundColor: "blue"
-                },
-                {
-                    label: "Anger",
-                    data: assignedSeasons[i].anger,
-                    backgroundColor: "red"
-                },
-                {
-                    label: "Confident",
-                    data: assignedSeasons[i].fear,
-                    backgroundColor: "purple"
-                },
-                {
-                    label: "Tentative",
-                    data: assignedSeasons[i].tentative,
-                    backgroundColor: "black"
-                },
-                {
-                    label: "Analytical",
-                    data: assignedSeasons[i].analytical,
-                    backgroundColor: "gray"
-                },
-            ]
-        })
-    }
-    return newChartData
-
-}
-
-
-const AssignedSeasons = AssignSeasonNames(newTones);
-
-CreateChartData(AssignedSeasons);
-// export default {ChartData, seasonArray};
+export const AssignedSeasons = AssignSeasonNames(newTones);
+console.log(seasonArray)
+// CreateChartData(AssignedSeasons);
+// export default { seasonArray, AssignedSeasons};
