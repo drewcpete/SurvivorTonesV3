@@ -1,5 +1,5 @@
 // import { Bar } from "react-chartjs-2";
-
+const fs = require('fs');
 var s13Tonejson = require("../toneData/s13toneText.json");
 var s14Tonejson = require("../toneData/s14toneText.json");
 var s15Tonejson = require("../toneData/s15toneText.json");
@@ -140,10 +140,11 @@ function CreateChartData(assignedSeasons) {
         })
     }
     return newChartData
+
 }
 
 
 const AssignedSeasons = AssignSeasonNames(newTones);
 
-const ChartData = (CreateChartData(AssignedSeasons));
-export default ChartData;
+CreateChartData(AssignedSeasons);
+// export default {ChartData, seasonArray};

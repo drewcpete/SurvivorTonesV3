@@ -3,7 +3,8 @@ import { Switch, Route } from "react-router-dom";
 import { Home } from "./Home";
 import Toolbar from "./Toolbar/Toolbar"
 import SeasonChart from "./SeasonChart.jsx"
-import ChartData from "./../scripts/SeasonTones"
+import { ChartData, seasonArray } from "./../scripts/SeasonTones"
+import { Bar } from "react-chartjs-2";
 
 class App extends Component {
     constructor() {
@@ -17,21 +18,22 @@ class App extends Component {
     componentWillMount() {
         this.getChartData();
     }
-    getChartData(){
+    getChartData() {
         this.setState({
-            chartData: ChartData
+            chartData: {
+                type: "bar-grouped",
+                data: {
+                    label: seasonArray,
+                    datasets: ChartData,
+                }
+            }
         })
     }
-
-
+    
     render() {
         var siteStyle = {
             backgroundColor: 'burleywood',
         };
-
-              
-        
-
         return (
             <div style={siteStyle}>
 
