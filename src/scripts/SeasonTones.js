@@ -1,3 +1,5 @@
+// import { Bar } from "react-chartjs-2";
+
 var s13Tonejson = require("../toneData/s13toneText.json");
 var s14Tonejson = require("../toneData/s14toneText.json");
 var s15Tonejson = require("../toneData/s15toneText.json");
@@ -26,8 +28,9 @@ var s37Tonejson = require("../toneData/s37toneText.json");
 var s38Tonejson = require("../toneData/s38toneText.json");
 // var s39json = require("../toneData/s39toneText.json");
 
-var jsonArray = [s13Tonejson, s14Tonejson, s15Tonejson, s16Tonejson, s17Tonejson, s18Tonejson, s19Tonejson, s20Tonejson, s21Tonejson, s22Tonejson, s23Tonejson, s24Tonejson, s25Tonejson, s26Tonejson, s27Tonejson, s28Tonejson, s29Tonejson, s30Tonejson, s31Tonejson, s32Tonejson, s33Tonejson, s34Tonejson, s35Tonejson, s36Tonejson, s37Tonejson, s38Tonejson]
+var jsonArray = [s13Tonejson, s14Tonejson, s15Tonejson, s16Tonejson, s17Tonejson, s18Tonejson, s19Tonejson, s20Tonejson, s21Tonejson, s22Tonejson, s23Tonejson, s24Tonejson, s25Tonejson, s26Tonejson, s27Tonejson, s28Tonejson, s29Tonejson, s30Tonejson, s31Tonejson, s32Tonejson, s33Tonejson, s34Tonejson, s35Tonejson, s36Tonejson, s37Tonejson, s38Tonejson];
 
+var seasonArray = ["Cook Islands", "Fiji", "China", "Micronesia", "Gabon", "Tocantis", "Samoa", "Heroes vs. Villians", "Nicaragua", "Redemption Island", "South Pacific", "One World", "Philippines", "Caramoan", "Blood vs. Water", "Cagayan", "San Juan del Sur", "Worlds Apart", "Cambodia", "Kaoh Rong", "Millennials vs Gen X", "Game Changers", "Heroes vs. Healers vs. Hustlers", "Ghost Island", "David vs. Goliath", "Edge of Extinction", "Island of the Idols"];
 
 let AllSeasonTones = [];
 // AllTones.prototype.addSeason = function (season) {
@@ -47,17 +50,11 @@ function Season() {
 
 
 function getTones(json) {
-    // console.log(json)
     for (let i = 0; i < json.length; i++) {
         let newSeason = new Season()
-        // console.log(json[i].result.document_tone.tones[0].)
-        // console.log(json[i].result.document_tone.tones.map(function(key,index){
-        //     console.log(index);
-        // }))
+  
         for (let k = 0; k < json[i].result.document_tone.tones.length; k++) {
-            console.log((json[i].result.document_tone.tones[k]))
             newSeason.id = i;
-            // console.log(Object.keys((json[i].result.document_tone.tones[0]).length))
             if (json[i].result.document_tone.tones[k].tone_name == "Joy") {
                 newSeason.joy += json[i].result.document_tone.tones[k].score * 100;
             }
@@ -66,27 +63,87 @@ function getTones(json) {
             }
             if (json[i].result.document_tone.tones[k].tone_name == "Sadness") {
                 newSeason.sadness += json[i].result.document_tone.tones[k].score * 100;
-            } 
+            }
             if (json[i].result.document_tone.tones[k].tone_name == "Anger") {
                 newSeason.anger += json[i].result.document_tone.tones[k].score * 100;
             }
             if (json[i].result.document_tone.tones[k].tone_name == "Confident") {
                 newSeason.confident += json[i].result.document_tone.tones[k].score * 100;
-            } 
+            }
             if (json[i].result.document_tone.tones[k].tone_name == "Tentative") {
                 newSeason.tentative += json[i].result.document_tone.tones[k].score * 100;
-            } 
+            }
             if (json[i].result.document_tone.tones[k].tone_name == "Analytical") {
                 newSeason.analytical += json[i].result.document_tone.tones[k].score * 100;
-            } 
-            // console.log("working joy "+(newSeason.joy) + " tentative " + newSeason.tentative)
+            }
+
         };
         AllSeasonTones.push(newSeason);
     }
     return AllSeasonTones;
 }
 
-// console.log(s13Tonejson.result.document_tone.tones[0].score)
 let newTones = getTones(jsonArray)
-console.log(newTones)
-// console.log(s19Tonejson.result.document_tone.tones[0].tone_name + " " + s19Tonejson.result.document_tone.tones[0].score)
+// console.log(newTones)
+
+function AssignSeasonNames(allSeasonTones) {
+    for (let j = 0; j < allSeasonTones.length; j++) {
+        for (let l = 0; l < seasonArray.length; l++) {
+            allSeasonTones[j].name = seasonArray[j]
+        }
+        // console.log(allSeasonTones[j].name)
+    }
+    return allSeasonTones
+}
+
+function CreateChartData(assignedSeasons) {
+    let newChartData = [];
+    for (let i = 0; i < assignedSeasons.length; i++) {
+        newChartData.push({
+            datasets: [
+                {
+                    label: "Joy",
+                    data: assignedSeasons[i].joy,
+                    backgroundColor: "green"
+                },
+                {
+                    label: "Fear",
+                    data: assignedSeasons[i].joy,
+                    backgroundColor: "orange"
+                },
+                {
+                    label: "Sadness",
+                    data: assignedSeasons[i].sadness,
+                    backgroundColor: "blue"
+                },
+                {
+                    label: "Anger",
+                    data: assignedSeasons[i].anger,
+                    backgroundColor: "red"
+                },
+                {
+                    label: "Confident",
+                    data: assignedSeasons[i].fear,
+                    backgroundColor: "purple"
+                },
+                {
+                    label: "Tentative",
+                    data: assignedSeasons[i].tentative,
+                    backgroundColor: "black"
+                },
+                {
+                    label: "Analytical",
+                    data: assignedSeasons[i].analytical,
+                    backgroundColor: "gray"
+                },
+            ]
+        })
+    }
+    return newChartData
+}
+
+
+const AssignedSeasons = AssignSeasonNames(newTones);
+
+const ChartData = (CreateChartData(AssignedSeasons));
+// export default ChartData;

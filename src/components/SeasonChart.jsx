@@ -1,30 +1,51 @@
 import React, { Component } from 'react';
 import { Bar } from 'react-chartjs-2';
+import {AssignedSeasons, SeasonArray, ChartData} from '../scripts/SeasonTones'
 
-class SeasonChart extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            chartData: props.chartData
-        }
+
+const state = {
+    labels: DataTransfer,
+}
+
+export default class SeasonChart extends Component {
+    chartRef = React.createRef();
+
+    componentDidMount(){
+        const myChartRef= this.chartRef.current.getContext("2d");
+
+        new Chart(myChartRef, {
+            type:"bar",
+            data: {
+                labels: SeasonArray,
+                ChartData
+            }
+        })
     }
-
-    // static defaultProps = {
-    //     displayTitle:true,
-    //     displayLegend: true,
-    //     legendPosition:'right'
-    // }
+}
 
     render() {
         return (
             <div className="seasonChart">
+            {this.props.seasonList.map((season, i) =>
+                <Season name={season.name}
+                    index={i}
+                    key={season.id}
+                    fear={season.fear}
+                    joy={season.joy}
+                    sadness={season.sadness}
+                    anger={season.anger}
+                    confident={season.confident}
+                    tentative={season.tentative}
+                    analytical={season.analytical}
+                    />
+                )}
                 <Bar
                     data={this.state.chartData}
                     options={{
                         // maintainAspectRatio: false
                         title:{
                             display: true,
-                            text: '{tone.props.name}'
+                            text: ""
                         },
                         legend:{
                             display:this.props.displayLegend,
@@ -35,7 +56,7 @@ class SeasonChart extends Component {
             </div>
         )
     }
-}
+
 
 
 export default SeasonChart;
