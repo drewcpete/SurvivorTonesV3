@@ -1,16 +1,11 @@
-import React from "react";
+import React, { Component } from "react";
 import { Switch, Route } from "react-router-dom";
 import { Home } from "./Home";
 import Toolbar from "./Toolbar/Toolbar"
-import {Chart, ChartData, AssignedSeasons } from "./SeasonChart.jsx"
+import SeasonChart from "./SeasonChart.jsx"
+import ChartData from "./../scripts/SeasonTones"
 
-
-
-
-
-
-
-class App extends React.Component {
+class App extends Component {
     constructor() {
         super();
         this.state = {
@@ -45,7 +40,7 @@ class App extends React.Component {
                     <p>Survivor Finale Tones!</p>
                 </main>
 
-                <Chart chartData={this.state.chartData} legendPosition="bottom" />
+                <SeasonChart chartData={this.state.chartData} legendPosition="bottom" />
 
             </div>
         );

@@ -146,4 +146,4 @@ function CreateChartData(assignedSeasons) {
 const AssignedSeasons = AssignSeasonNames(newTones);
 
 const ChartData = (CreateChartData(AssignedSeasons));
-// export default ChartData;
+export default ChartData;

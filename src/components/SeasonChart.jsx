@@ -4,38 +4,15 @@ import { AssignedSeasons, SeasonArray, ChartData } from '../scripts/SeasonTones'
 
 
 
-export default class Chart extends Component {
-    constructor() {
+class SeasonChart extends React.Component {
+    constructor(props) {
         super(props);
         this.state = {
             chartData: props.chartData
         }
     }
 
-    // static defaultProps = {
-    //     displayTitle: true,
-    //     displayLegend: true,
-    //     legendPosition: 'right',
-    // }
-    // componentDidMount(){
-    //     const myChartRef= this.chartRef.current.getContext("2d");
-
-    //     new Chart(myChartRef, {
-    //         type:"bar",
-    //         data: {
-    //             labels: SeasonArray,
-    //             ChartData,
-    //             options: {
-    //                 title:{
-    //                     display: true,
-    //                     text: "All Tones for All Seasons"
-    //                 }
-    //             }
-    //         }
-    //     })
-    // }
-
-
+    
     render() {
         return (
             <div className="chartSeason">
@@ -43,7 +20,7 @@ export default class Chart extends Component {
                     data={this.state.chartData}
                     options={{
                         title: {
-                            display:this.props.displayTitle,
+                            display: this.props.displayTitle,
                             text: 'All Tones of All Seasons',
                             // maintainAspectRatio: false 
                         },
@@ -52,15 +29,20 @@ export default class Chart extends Component {
                             position: this.props.legendPosition
                         }
                     }
-                    }
+                }
                 />
             </div>
         )
     }
 }
 
+SeasonChart.defaultProps = {
+    displayTitle: true,
+    displayLegend: true,
+    legendPosition: 'right',
+}
 
-// export default Chart;
+export default SeasonChart;
 // {this.props.seasonList.map((season, i) =>
 //     <Season name={season.name}
 //         index={i}
