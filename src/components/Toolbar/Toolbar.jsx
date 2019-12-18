@@ -1,51 +1,53 @@
 import React from 'react';
-// import Logo from "../img/survivorlog.png";
-import { Link } from "react-router-dom";
+import { Link, HashRouter } from "react-router-dom";
 
-function Toolbar() {
+
+function Toolbar(props) {
+    console.log(props);
+    
     var toolbar = {
         position: "fixed",
         top: "0",
         left: "0",
         width: "auto",
         height: "auto",
-        background: "purple",
+        background: "#e47312",
         padding: "5px 20px 5px 5px"
     };
     var toolbarLogo = {
-
+        position: "flex",
+        color: "white",
+        font: "1.5rem"
     }
-    var toolbarList = {
+    var toolbarNav = {
+        display: "flex"
+    }
 
+    function handleClick(int) {
+        props.changeSeason(int)
     }
 
     return (
-        <header style={toolbar}>
-            <nav className="toolbarNav">
-                <div></div>
-                <div style={toolbarLogo}>
-                    {/* <img style src={Logo}/> */}
-                </div>
-                <div className="toolbarList">
-                    <ul>
-                        <li><a href="/">Seasons</a></li>
-                        <li><a href="/">Tones</a></li>
+        <HashRouter>
+
+            <header style={toolbar}>
+                <nav className="toolbarNav">
+                    <div></div>
+                    <div style={toolbarLogo}>
+                        <Link to="/">Survivor</Link>
+                    </div>
+                    <div className="toolbarList">
                         <ul>
-                            <li>Anger</li>
-                            <li>Fear</li>
-                            <li>Joy</li>
-                            <li>Sadness</li>
-                            <li>Analytical</li>
-                            <li>Confident</li>
-                            <li>Tentative</li>
-                            <li></li>
+                            <button  className=""><Link to="/All">All Seasons</Link></button>
+                            <li><a onClick={()=> handleClick(0)} href="/#/All">All Seasons</a></li>
+                            <li><Link onClick={()=> handleClick(39)} to="/s39">Season 39</Link></li>
+                            <li><a href="/">Twitter Users</a></li>
+                            <li><a href="/">Location</a></li>
                         </ul>
-                        <li><a href="/">Twitter Users</a></li>
-                        <li><a href="/">Location</a></li>
-                    </ul>
-                </div>
-            </nav>
-        </header>
+                    </div>
+                </nav>
+            </header>
+        </HashRouter>
     );
 
 }
