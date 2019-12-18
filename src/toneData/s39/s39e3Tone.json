@@ -1,0 +1,128 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "1789",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "044c830df31c4f0de597367e704cb2f1",
+    "x-dp-watson-tran-id": "044c830df31c4f0de597367e704cb2f1",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "414",
+    "date": "Wed, 18 Dec 2019 17:31:53 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.671094,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"I am who I am.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "You see who you see.",
+        "tones": [
+          {
+            "score": 0.694937,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Life goes on!!!!!!! #Survivor #teamkarishma #firstindiansurvivor… https://t.co/CjB52IQIRTthe",
+        "tones": [
+          {
+            "score": 0.760783,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "women of Lairo tribe coming to make this season one of the greats",
+        "tones": [
+          {
+            "score": 0.788136,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "#survivor #survivor39 https://t.co/KS4qVKgKqvRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "@JamManK9: 😴😴😴....someone please wake me up when #Survivor is on again.",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "All this talk about me sleeping has me in the mood for a #midday…RT @DJ_Stonedog: @survivorcbs Serious #respect to 59yo lifeguard Janet putting up a fierce challenge against Elizabeth the former Olympic S…RT @Angelmamii5: This really happened!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "I pissed off my best friend at her wedding and she flipped on me haha 🤣 she apologized after haha #R…RT @winston_hines: HIDING THE IDOL IN HER HAIR??? I’m impressed #Survivor39RT @CAVX: A very special guest (kind of) joined me for my #Wandoff to kick off #Survivor's 39th season!🎶",
+        "tones": [
+          {
+            "score": 0.675018,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "Listen:",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "- via podcast (47:34):",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "ht…\"}",
+        "tones": []
+      }
+    ]
+  }
+}

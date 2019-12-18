@@ -1,0 +1,203 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "3134",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "fe2f9957b7945b2bb304552effae9d14",
+    "x-dp-watson-tran-id": "fe2f9957b7945b2bb304552effae9d14",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "365",
+    "date": "Wed, 18 Dec 2019 17:31:53 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.646326,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.845118,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @jurymanagementt: like/rt to be added to a karishma group chat!! #survivor39 #bb21 https://t.co/aNZyH04UiII",
+        "tones": [
+          {
+            "score": 0.558379,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "have a question what show on @CBS catches peoples eye More #NCIS? or #Survivor39?",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Just wanderingPlease tell me @Strongislandni2 watches #Survivor39 and stand @ElaineStott11 .",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "All the goodness.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Dream future Amazing Race duo.",
+        "tones": [
+          {
+            "score": 0.891105,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "#bb21Old Man Jeff.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "#cbssurvivor #survivor #jeffprobst #snapchatjeff #snapsurvivorjeff #survivor2019… https://t.co/NMU8rN0ayoRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "@SHOTOFYAGER: 🚨ATTENTION🚨For anyone interested...my @survivorcbs podcast w/ @LindsayTheOtter is now available FOR FREE for ANYONE to che…@RealityInternn @OneLuckyGay Yes, for Season 40.",
+        "tones": [
+          {
+            "score": 0.733853,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "But Elaine is worth a Season 39 watch.",
+        "tones": [
+          {
+            "score": 0.690005,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "#Survivor #Survivor39RT @SHOTOFYAGER: 🚨ATTENTION🚨For anyone interested...my @survivorcbs podcast w/ @LindsayTheOtter is now available FOR FREE for ANYONE to che…RT @SHOTOFYAGER: 🚨ATTENTION🚨For anyone interested...my @survivorcbs podcast w/ @LindsayTheOtter is now available FOR FREE for ANYONE to che…Im even more impressed by it simply because it’s the first vote and very rarely are people willing to flip on the f… https://t.co/VhtTMLA9uvGoing",
+        "tones": [
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "into episode 2 Elaine is easily in one of the bestpositions in the game.",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "Despite being one of the biggest tar… https://t.co/KhG39PAztiHow",
+        "tones": [
+          {
+            "score": 0.534692,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "have so many people not heard of cumin?",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "If you've ever had tacos, chili, or curry, you've tasted cumin.",
+        "tones": [
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "#Survivor39 #yallneedtocook\"}",
+        "tones": []
+      }
+    ]
+  }
+}

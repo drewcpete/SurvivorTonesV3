@@ -1,0 +1,943 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "16197",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "51ee7c8438210db00da7037185b505cb",
+    "x-dp-watson-tran-id": "51ee7c8438210db00da7037185b505cb",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1279",
+    "date": "Wed, 18 Dec 2019 17:31:54 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.518954,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.616069,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"#Survivor39 Heck of a tribal counsel tonight!Karishma is building up her resumé.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "She even made Lauren doubt her safety and the latter played her idol lol.",
+        "tones": [
+          {
+            "score": 0.648979,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "#Survivor39😂😂😭😭😭 karma is REAL, first Aaron then missy now Elizabeth BYE BITCH 👋🏼 #Survivor #Survivor39In summary, Lauren wasted her idol and Karishma played her idol right.",
+        "tones": [
+          {
+            "score": 0.714973,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Amazing! #Survivor39@ShannonGaitz And she doesnt write Dans name down.",
+        "tones": [
+          {
+            "score": 0.874901,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Wtf Karishma #Survivor39KARISHMA.",
+        "tones": [
+          {
+            "score": 0.60304,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "Queen of PLAYING HER IDOL CORRECTLY.",
+        "tones": [
+          {
+            "score": 0.623145,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Goat or Greatest Of All Time!? #KarishmaDoesNotCount #Survivor #Survivor39Karishma you fucking legend #Survivor39WTF Lauren - why wouldn't you play it for Elizabeth?!",
+        "tones": [
+          {
+            "score": 0.539108,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "No one even mentioned your name.",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "SMDH.",
+        "tones": [
+          {
+            "score": 1,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "#Survivor39Karishma is my Winner pick!",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Tonight she was iconic and she did what she had to do💗 #Survivor39 #Survivor https://t.co/dFuVsqO3l9That",
+        "tones": [
+          {
+            "score": 0.719814,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.674728,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "face you make when you realize your an idiot.",
+        "tones": [
+          {
+            "score": 0.658231,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "#Survivor #Survivor39 https://t.co/AHppSgh5aHKarishma",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "played her idol correctly!",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "Lauren....not so much #Survivor39Lauren Wasted an Idol #Survivor39 https://t.co/nmEGxtYia2Dang",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "Karishma, what a play!",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "Protect yo’ neck.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "#Survivor39Lauren is truly one of the few strategist left in the game.",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "Karishma is making money moves.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "Janet is a wonderful so… https://t.co/V2fpf4K7UHJamal",
+        "tones": [
+          {
+            "score": 0.971421,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "when Dean talks about having the legacy advantage  #Survivor39 #Survivor https://t.co/ndwsYpA8xK@JamManK9",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Even though it isn't how you originally planned it, it looks like you did master the art of sabotage afte… https://t.co/3jk2yNE7c7RT",
+        "tones": [
+          {
+            "score": 0.705784,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "@ShannonGaitz: Karishma un-goating herself to find an idol, save herself and then find new life in the game all the way to the win would…#Survivor39 ",
+        "tones": [
+          {
+            "score": 0.698211,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.525926,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.867256,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "Karishma-“Jeff....”",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "EVERYONE- https://t.co/11m98KRXLQKarishma’s",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "idol play was everything you could possibly want in an underdog story.",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Also, those reactions of shock we… https://t.co/QdEOyPA2wZJUST",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "GO CLICK WHATEVER LINKS YOU FIND ON MY PAGE!!! https://t.co/xdRg5qjESb",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "#27NParoNacional… https://t.co/OMeh3Sk8J4@powerofcheeto1",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "Okay.. First of all Proud of @QtKarishma but why Janet🤔 #Survivor39#Survivor39 watching the uncomfortable episode since I delayed it for 2 weeks and I'm 13 minutes in and disgusted.…",
+        "tones": [
+          {
+            "score": 0.711887,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "https://t.co/UdBrnpzI0nI",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "love the side shit in survivor.",
+        "tones": [
+          {
+            "score": 0.675457,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "That was so fun watching Lauren's thing in action.",
+        "tones": [
+          {
+            "score": 0.849605,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "#Survivor39RT @SapphoMedusa: Karishma using her idol and Elizabeth going home",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 36,
+        "text": "#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "#Survivor39 https://t.co/JDgpd0u7wxDan is disgusting #Survivor39RT @Macktweetsbb: I’m loving the gameplay and I want to see what they do, but I just can’t be ok with Dan still being in the game.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Vote 👏 H…Time for tribal!",
+        "tones": [
+          {
+            "score": 0.636873,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "#Survivor39 https://t.co/GBq5TbXny1RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "@cleachy_18: Hey quick question but, WHY ISNT DAN GONE YET? #Survivor #Survivor39?#Survivor39 3 assholes down, 1 to go.#pitbull #mrworldwide #inspirational #inspo #motivational Greensboro #VGKvsNSH #Survivor39 https://t.co/gcYfxbD9s0@LaurenBakke",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "Better to wasted it than go home with it.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "#survivor39Wow, Karishma has been fighting to stay in the game since the beginning.",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "She said I ain’t going no where😂👏🏾👏🏾 #Survivor39 #SurvivorSemana passada Karishma dominou cada segundo do episódio, essa semana foi certeira e usou o idol quando precisou",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "Mu… https://t.co/XPkf9kINGwÉ",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "isso, com a saída da Elizabeth, só falta o Dan e todos os lixos terão ido embora",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "Espero que tu rode semana que ve… https://t.co/qM4cqiHTvnOkay",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "Lauren is a GENIUS!",
+        "tones": [
+          {
+            "score": 0.517921,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "She killed the analysis and strategy of the game tonight.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "And I agree with her decision to… https://t.co/1scyjxviRzVAI",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "PRO INFERNO ELIZABETH!!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "#Survivor #Survivor39 https://t.co/pLQNdkAChlSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "Lizard 🦎 makes cameo appearance behind a crying Karishma at the immunity challenge.",
+        "tones": [
+          {
+            "score": 0.634852,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "#Survivor39… https://t.co/WnxE8g90FwUm",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "empate...",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "SE A JANET SAIR NO LUGAR DA ELIZABETH...",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "#Survivor39 #Survivor https://t.co/3qo1ktSAIII",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "haven’t hated a reality tv person as much as I hate dean in a while #Survivor39@itweetdavie I was watching Dan in the background tonight.",
+        "tones": [
+          {
+            "score": 0.515964,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "In one scene, he’s giving some light punches to Karishma… https://t.co/V5gt4q0DH2Why",
+        "tones": [
+          {
+            "score": 0.515717,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "does Noura look like she’s always sleeping during challenges!",
+        "tones": [
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "#Survivor #Survivor39 https://t.co/RjaAhB6zLeRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "@ShannonGaitz: Karishma un-goating herself to find an idol, save herself and then find new life in the game all the way to the win would…@LaurenAshBeck popping up with that idol play.. ",
+        "tones": [
+          {
+            "score": 0.688628,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.8152,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "#Survivor39 https://t.co/Dhsiy1j3hqRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "@SurvivorSpclsts: UPDATE: we will recap tonight’s episode on Friday at 10:30a ET! Happy Thanksgiving Eve everyone!",
+        "tones": [
+          {
+            "score": 0.86783,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "#Survivor39Omggg people think they are playing 4D chess when really they would fucking lose at hopscotch.",
+        "tones": [
+          {
+            "score": 0.53749,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "#Survivor39I’m probably the only person in the world, who...and this will sound pretty damn sour puss, especially during… https://t.co/YPkVehZzh7RT",
+        "tones": [
+          {
+            "score": 0.839577,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "@naomixheartss: They need to split up Tommy and Lauren period!",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "That should have already happend..... #Survivor39 #Survivor https://t.co/…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "@ShannonGaitz: Karishma un-goating herself to find an idol, save herself and then find new life in the game all the way to the win would…Wait a minute...why didn’t Elizabeth &amp; Karishma just freaking vote out Dan?! #Survivor39Just watching tonight’s episode of #Survivor39 and Lauren definitely earned that idol.",
+        "tones": [
+          {
+            "score": 0.531395,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.680395,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "I love well she thought everything out👏🏾👏🏾 #SurvivorRT @powerofcheeto1: Elizabeth voted off Survivor.",
+        "tones": [
+          {
+            "score": 0.605478,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "#survivor #survivor39 https://t.co/yHgNat2u5JAwwwww",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "damn they got her 😖😖😖😖 #Survivor39 but that just brings the KARISHIMA WINNER EDIT one step closer 😬@MeiMakino @SurvivorCentral Exactly... @dkchillin Dean seems to speak without thinking🌴 #Survivor39If Karishma wins this, she will certainly earn her GOAT title as one of the Greatest of All Time.",
+        "tones": [
+          {
+            "score": 0.536312,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "#Survivor39Ya know what...I’m all for a Noura/Karishma final 2 on #Survivor39 https://t.co/VUauBvrvexOkay",
+        "tones": [
+          {
+            "score": 0.775702,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "naman pero parang di rin okay 😂 #Survivor39@survivorcbs  @ebeisel34  had no business going home! Karisma played the game wrong!",
+        "tones": [
+          {
+            "score": 0.515912,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "Should have made Elizabeth an ally!",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "#Survivor39I low-key appreciate that Boston Rob is always just straight up reading ",
+        "tones": [
+          {
+            "score": 0.672469,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "#Survivor39RT @crackpotjack: A new Tribal Council is up https://t.co/5yW8d1GjNr",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "@survivorcbs #Survivor39 #Survivor #islandoftheidols @nouraknowsbest1…RT @crackpotjack: A new Tribal Council is up https://t.co/5yW8d1GjNr",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "@survivorcbs #Survivor39 #Survivor #islandoftheidols @nouraknowsbest1…A new Tribal Council is up https://t.co/5yW8d1GjNr",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "@survivorcbs #Survivor39 #Survivor #islandoftheidols… https://t.co/01aHlXiUHAGoat",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "army assemble!",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "#Survivor39 https://t.co/KEZXUECmDs@BostonRob",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "Rob may be older but he’s still so hot! 😍 #Survivor39 #survivor https://t.co/ozSQTgwKVo#Survivor39",
+        "tones": [
+          {
+            "score": 0.670749,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "currently watching @survivorcbs .",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "I hope Lauren or Tommy is kicked out of the game.",
+        "tones": [
+          {
+            "score": 0.957828,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "Or even Dean.",
+        "tones": [
+          {
+            "score": 0.999739,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "Still… https://t.co/YXKcV9GvonRT",
+        "tones": [
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "@dwashtweets: Lauren sis ...... you played tonight’s episode so well until you played that damn IDOL! WTF?!? #Survivor #Survivor39I would not be shocked if the final 3 were",
+        "tones": [
+          {
+            "score": 0.665892,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "Janet",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "Lauren",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "Karishma",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "An all female final 3, none physical threats, none… https://t.co/VLFzXP3pdfThat",
+        "tones": [
+          {
+            "score": 0.874372,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "chicken bit Sandra and Sandra said:  🐓 🔪 🍗 #Survivor39 #Survivor https://t.co/klLLJJUw1jRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "@ShannonGaitz: Tommy and Lauren trying to lure people into unknowingly earning them an idol with pancakes and bacon is SO FUN.",
+        "tones": [
+          {
+            "score": 0.636921,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "This is w…They need to split up Tommy and Lauren period!",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "That should have already happend..... #Survivor39 #Survivor https://t.co/Jqp2cMV0FdI",
+        "tones": []
+      },
+      {
+        "sentence_id": 101,
+        "text": "don’t quite understand why Tommy would give up his chance at immunity just to put Lauren ahead?",
+        "tones": [
+          {
+            "score": 0.925256,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "#Survivor39 #SurvivorRT @ShannonGaitz: Me when I watch Queen Karishma’s epic idol play possibly come back on Janet #Survivor #Survivor39 https://t.co/MZecgJ1JLeWhy",
+        "tones": [
+          {
+            "score": 0.685417,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "tf did Lauren play her idol?",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "Waste.",
+        "tones": []
+      },
+      {
+        "sentence_id": 105,
+        "text": "#Survivor39Karishma about to win Survivor and I’m here for it!",
+        "tones": [
+          {
+            "score": 0.598663,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

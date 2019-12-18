@@ -1,0 +1,976 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17267",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "b48a2c08b634d5f04aedddcc771ae383",
+    "x-dp-watson-tran-id": "b48a2c08b634d5f04aedddcc771ae383",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1379",
+    "date": "Wed, 18 Dec 2019 17:31:54 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.640687,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"@DaltonRoss 🚨🚨🚨🚨 #spoiler  🚨🚨🚨🚨",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "Really glad I skip commercials.",
+        "tones": [
+          {
+            "score": 0.725366,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.907747,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "But, damn, @CBS @survivorcbs @JeffProbst , this is… https://t.co/ffqYluHhz1Season",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "39, episode 1 review?",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "Fantastic ⭐⭐⭐⭐⭐💯",
+        "tones": [
+          {
+            "score": 0.503809,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "@CBS @survivorcbs @JeffProbst #Survivor39 #SurvivorIslandofTheIdols… https://t.co/zFL2m6jkV4Okay",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "so the main thing I took from the first episode of #Survivor39 #Survivor is that I am so happy about this cast… https://t.co/cpUtSrgg3QMan",
+        "tones": [
+          {
+            "score": 0.63679,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "I'm so happy @survivorcbs is back on tv.",
+        "tones": [
+          {
+            "score": 0.844275,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "#Survivor39 #survivorislandoftheidolsThis twist better not screw Elizabeth over!",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "#Survivor39 #SurvivorOf course the tribe I like is already losing lmao EVERY TIME #Survivor39#Survivor39 @BostonRob best advice ever!",
+        "tones": [
+          {
+            "score": 0.640338,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.638987,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Do you guys do podcasts?",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "I need more Sandrita tambien!",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Whats her handle?",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "O… https://t.co/QAuUsenLquSurvivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "Island Of The Idols Tribal Council #1 https://t.co/DDGlBY2dsF",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "via @YouTube #Survivor39 #survivor #Survivor… https://t.co/SpsMT4pIzMAlright",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "so Big Brother is over but unlucky for all my normie followers Survivor is happening!",
+        "tones": [
+          {
+            "score": 0.503175,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "If",
+        "tones": [
+          {
+            "score": 0.997482,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "you want to ignor… https://t.co/MdhqcrxPdfRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "@crackpotjack: A new episode of @survivorcbs Chat is up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "#islandoftheidols https://t.co/NBf1dhz2C1",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "#Survivor39 #Survivor https://t.co/id…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "@SHOTOFYAGER: I can’t stop seeing V Putin in the hockey player on #Survivor39... #ChallengeMania #islandoftheidols https://t.co/choJ8boq…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "@crackpotjack: A new episode of @survivorcbs Chat is up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "#islandoftheidols https://t.co/NBf1dhz2C1",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "#Survivor39 #Survivor https://t.co/id…A",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "new episode of @survivorcbs Chat is up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "#islandoftheidols https://t.co/NBf1dhz2C1",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "#Survivor39 #Survivor https://t.co/idtjZkiMC4Elaine is my favorite right now.",
+        "tones": [
+          {
+            "score": 0.532334,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "#Survivor39 #survivorislandoftheidolsRT @Stevenbro28: Fun Fact: If they included Russell instead of Boston Rob on #Survivor39 his “giant statue” still wouldn’t be over 6 feet t…RT @AuroraMcCreary: Dude are you really gonna lie?!",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "You lost votes?!",
+        "tones": [
+          {
+            "score": 0.596598,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "The next person will tell!",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "Good lord 🤦🏼‍♀️ #Survivor39 Just say you lo…RT @SurvivorQuotesX: RT if you’re excited for the brand new season of #Survivor39 starting tonight on @CBS #Survivor https://t.co/Imblw3RxyfRT",
+        "tones": [
+          {
+            "score": 0.720645,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "@SurvivorQuotesX: RT if you’re excited for the brand new season of #Survivor39 starting tonight on @CBS #Survivor https://t.co/Imblw3Rxyf#Survivor",
+        "tones": [
+          {
+            "score": 0.797206,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "#Survivor39 ",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "I am Liking this Season from the first episode!Ronnie’s jobs #Survivor #Survivor39 https://t.co/UcY3StEAvNIt’s",
+        "tones": [
+          {
+            "score": 0.502865,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "@survivorcbs tonight and it’s finally airing on the west coast!! ",
+        "tones": [
+          {
+            "score": 0.757897,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "@jeffprobst #CBSSurvivor #SurvivorCBS… https://t.co/2jWDGMuIHE@bigbroaccess",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Totally agree!",
+        "tones": [
+          {
+            "score": 0.559007,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "The lack of Barbies and Kens is awesome!",
+        "tones": [
+          {
+            "score": 0.872406,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "#Survivor #Survivor39 #survivorislandoftheidolsRT @veebaamonde: YES JANET WE LOVE A FIREMAKI NG QUEEN ALSO JASON IM INCREDIBLY DISSAPPOINTED IN U #survivorislandoftheidols #survivor #Sur…RT @ErikReichenb4ch: So, I need closure on weather or not Tommy the teacher got engaged since being back from the island or this episode wa…#Survivor39 Who is this Elaine?",
+        "tones": [
+          {
+            "score": 0.665673,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "she’s so cool!RT @bigbroaccess: I already like these people...this is why you should cast more average, everyday people.",
+        "tones": [
+          {
+            "score": 0.673451,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "#Survivor #Survivor39#Survivor #Survivor39 ",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "Courtney and Shane will second this.",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "https://t.co/qRwiz7fu2y",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "https://t.co/W9ywOevRCXRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "@ErikReichenb4ch: So, I need closure on weather or not Tommy the teacher got engaged since being back from the island or this episode wa…I love that Boston Rob and Sandra have their OG swag on!",
+        "tones": [
+          {
+            "score": 0.685027,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "#Survivor39I'm so excited for the women this season 😍",
+        "tones": [
+          {
+            "score": 0.949445,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "#survivor39Ahh I’m loving the start of this new season.",
+        "tones": [
+          {
+            "score": 0.778371,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "So many likeable folks and POCs too #Survivor #Survivor39#islandoftheidols very cool!",
+        "tones": [
+          {
+            "score": 0.737976,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "#Survivor39#Survivor39 Spoilers Without Context @survivorcbs https://t.co/KBkztzSvAIBoston",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "Rob said \\\"Oh good job, fire first\\\" 1 second later WOOOOOSH lmao I'm dead #Survivor39 @survivorcbsThe people on Lairo are already majorly outselling yaaaasss girls alliance #Survivor39#Survivor #Survivor39 ",
+        "tones": [
+          {
+            "score": 0.521443,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "So like...Are we expecting  to see these Old Men every Wednesday?!!🤣🤣 https://t.co/Acp66vqTPJI",
+        "tones": [
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "had to rewind thinking I missed something lol.",
+        "tones": [
+          {
+            "score": 0.576987,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "Survivor started out completely different than it usually does and… https://t.co/ENz30CSBz0RT",
+        "tones": [
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "@BriCorridan: The choice to show a clip of Rob (3-time loser) winning and Sandra (2-time winner) losing is... a choice.",
+        "tones": [
+          {
+            "score": 0.573101,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.713028,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "#Survivor #Survi…RT @BriCorridan: The choice to show a clip of Rob (3-time loser) winning and Sandra (2-time winner) losing is... a choice.",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "#Survivor #Survi…@SandraDTwine face when #Survivor rookie says, “sure, I’ll try to beat @BostonRob in a fire challenge”.",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "#survivor39 https://t.co/p2j4kQV0JeRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "@BriCorridan: The choice to show a clip of Rob (3-time loser) winning and Sandra (2-time winner) losing is... a choice.",
+        "tones": [
+          {
+            "score": 0.573101,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.713028,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "#Survivor #Survi…RT @KimberlynCombs: Elaine read Ronnie like the Sunday paper lol!😂 Bye Ronnie! #Survivor #Survivor39 https://t.co/gPH3gN6KLk@BostonRob",
+        "tones": [
+          {
+            "score": 0.693258,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "offering a fire challenge to the #Survivor #survivor39 contestant tonight.",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "@survivorcbs @JeffProbst https://t.co/QttHeuGlcNRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "@BriCorridan: The choice to show a clip of Rob (3-time loser) winning and Sandra (2-time winner) losing is... a choice.",
+        "tones": [
+          {
+            "score": 0.573101,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.713028,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "#Survivor #Survi…RT @STLakata: Janet is already rocking it on @survivorcbs!",
+        "tones": [
+          {
+            "score": 0.615507,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "Fire already - that's awesome!",
+        "tones": [
+          {
+            "score": 0.91655,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "#Survivor #Survivor39Alright it’s been real  #BB21 see y’all on that survivor wave #Survivor39RT @KimberlynCombs: Elaine read Ronnie like the Sunday paper lol!😂 Bye Ronnie! #Survivor #Survivor39 https://t.co/gPH3gN6KLkRT",
+        "tones": [
+          {
+            "score": 0.678651,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "@JAMartin912: #Survivor #Survivor39 ",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "Elizabeth going against Boston Rob was so funny.",
+        "tones": [
+          {
+            "score": 0.62187,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "She was honestly Star-Struck (for good reason obv…Island of the Idols should mean everyone starts with an idol! #Survivor #Survivor39Day 1 everybody is so cute, so clean, so well-dressed, perky and cheery.",
+        "tones": [
+          {
+            "score": 0.8432,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "We’ll fix all that in a hurry, won’t we @JeffProbst?",
+        "tones": [
+          {
+            "score": 0.696569,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "#Survivor39RT @BriCorridan: The choice to show a clip of Rob (3-time loser) winning and Sandra (2-time winner) losing is... a choice.",
+        "tones": [
+          {
+            "score": 0.615776,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.696092,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "#Survivor #Survi…How the fuck is Jeff even alive after 39 seasons of helicopter stunts #Survivor #survivor39#watching Survivor Season 39",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "#survivor #survivor2019 #survivor39 ",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "#bostonrob #jeffprobst https://t.co/JaqNumVa42Same",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "energy #Survivor39 https://t.co/Tc1QZksuwdRT",
+        "tones": [
+          {
+            "score": 0.544351,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "@AryaKicksButt: Watching the #Survivor39 episode and going through with my daughter that how Dan is touching all of the women is not oka…Insanely hard first challenge!",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "#Survivor39@aaawwesome hey how was #Survivor39 premiere ..I work late shift now so I missed itHere we go! #Survivor39It may be fall but at least that means Survivor is back!!",
+        "tones": [
+          {
+            "score": 0.555495,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "So blessed to have Queen Sandra back on my tv #Survivor39 #SurvivorI’m already screaming #Survivor #Survivor39RT @ErikReichenb4ch: PLEASE #Survivor gods, have Janet face off against Rob in a fire making challenge.",
+        "tones": [
+          {
+            "score": 0.583015,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "#Survivor39 🔥🔥🔥Shhhhhhhhhhh.",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "You guys.",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "It’s on.",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "#Survivor39 https://t.co/V2sBX80jT5#Survivor is back!!! Whoo hoo! Teams seem really upbeat so far- great teamwork too.",
+        "tones": [
+          {
+            "score": 0.801851,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.874319,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "Looking forward to a fantastic… https://t.co/Be9N8uti06RT",
+        "tones": [
+          {
+            "score": 0.917722,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "@AuroraMcCreary: Attn survivor fans: yes there are rules you don’t know about challenges.",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "For example, no they cannot unwrap the rope to…@rafejudkins CBSAllAccess from Prague soyou can enjoy both #WoTWednesday #Survivor39 ?Well we better pray survivor doesn't suck bad like this #BB21 #survivor39I am seriously about to watch 5 hours of tv. 3 hours down, 2 to go.",
+        "tones": [
+          {
+            "score": 0.621253,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "#OneChicago #BB21 #Survivor39This might be the first season I bail on.",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "#Survivor39 #SurvivorThe casting on #Survivor39 is pretty surprising.@JanellePierzina",
+        "tones": [
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "#Survivor39 was soooooo good 🙌🏻🙌🏻@JeffProbst your helicopter shots are what I live for!",
+        "tones": [
+          {
+            "score": 0.685035,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "#Survivor39 https://t.co/LnLJxlBFBXBring",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "it on.... #Survivor39RT @ErikReichenb4ch: So, I need closure on weather or not Tommy the teacher got engaged since being back from the island or this episode wa…RT @Linzy_marie_123: The best part of survivor tonight was Rob asking Sandra if tribal was that hard for her and Sandra replying “f*ck no I…Omg I love Elaine already #Survivor39RT @allison_pryce: Ronnie, it's day TWO.",
+        "tones": [
+          {
+            "score": 0.640163,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 100,
+        "text": "Maybe don't worry about the short, middle-aged woman being a jury threat JUST yet.",
+        "tones": [
+          {
+            "score": 0.706264,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.955608,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "Slow your rol…Going off the grid for the mean time coz #Survivor39 is up and I don’t want spoilers.",
+        "tones": [
+          {
+            "score": 0.62318,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "https://t.co/ZflMt06sVpExcited",
+        "tones": []
+      },
+      {
+        "sentence_id": 103,
+        "text": "for this cast!",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "Here we go again.",
+        "tones": []
+      },
+      {
+        "sentence_id": 105,
+        "text": "😛🌴🍚 #Survivor39Im so happy Ronnie got voted out 🤣 thats what your ass gets #Survivor39#SurvivorIslandoftheIdols #Survivor39 #Survivor #CBS #MissyaePodcast #SurvivorWhispersFacebook https://t.co/BZIab0ewdkAll",
+        "tones": [
+          {
+            "score": 0.848219,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 106,
+        "text": "I can say is, Wow! Tonight's Survivor Premiere was amazing!",
+        "tones": [
+          {
+            "score": 0.893936,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 107,
+        "text": "Just the start of a very promising season!… https://t.co/o7F6C6wEe1@survivorcbs",
+        "tones": []
+      },
+      {
+        "sentence_id": 108,
+        "text": "Season 39 Episode 1...disappointing...weakest Epidode 1 ever!",
+        "tones": [
+          {
+            "score": 0.694036,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      }
+    ]
+  }
+}

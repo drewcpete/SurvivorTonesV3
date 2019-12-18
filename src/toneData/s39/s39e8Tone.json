@@ -1,0 +1,1062 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "19126",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "c77efdd3a92aebc3a20b3abb8e191feb",
+    "x-dp-watson-tran-id": "c77efdd3a92aebc3a20b3abb8e191feb",
+    "x-edgeconnect-midmile-rtt": "62",
+    "x-edgeconnect-origin-mex-latency": "2320",
+    "date": "Wed, 18 Dec 2019 17:31:55 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.569661,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.551497,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.58426,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.596192,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.522708,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Jamal is speaking FACTS.",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.970179,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Men aren't entitled to know anything bc they are men.",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Aaron is an ignorant pos, forget the… https://t.co/VSZ3qcrt1QDan is like that creepy old dude who doesn’t realize he’s a creepy old dude and continues to flirt like he’s an 18… https://t.co/xnFhGQhBLgI",
+        "tones": [
+          {
+            "score": 0.567357,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "have never soured on a season so quickly... #Survivor39@ACM_Fitness I am really hoping this is a fan acct because you have had plenty of time to come up with a better pos… https://t.co/yZnlERzmhpJanet/Noura/Karishma",
+        "tones": [
+          {
+            "score": 0.626942,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "(Queens👑)are the only correct people to root for after this episode.",
+        "tones": [
+          {
+            "score": 0.606798,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "I'm actively wishing for… https://t.co/zqHQmZXiOBhttps://t.co/TOphUiX7v5",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": " ",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "#Survivor #Klaus #AEWDynamite #AEWNashville #AEWDark #TrumpImpeachment #Trump #pcbb #BB13… https://t.co/1mkCp3kFx6RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "@smtuesdaynights: The worst part of the results of this tribal council.",
+        "tones": [
+          {
+            "score": 0.502818,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.703409,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "#Survivor #SurvivorSeries #Survivor39 #survivorislandoftheidols…RT @TheRealChrissyH: I don't even know what to say, other than I'm saddened by the entire episode from start to finish 😢 #Survivor39RT @_ImNotJerry: Aaron trying to explain that it isn't real because HE wasn't told is the most arrogant thing I've ever heard.",
+        "tones": [
+          {
+            "score": 0.862775,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Now I'm mad…RT @whyyougottaask: Anyways congratulations 🎉 🎊🎉 to the winner of #Survivor39 so happy to have a female winner this year💅.",
+        "tones": [
+          {
+            "score": 0.901278,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "A pillar of stre…@TheVaginalist @survivorcbs @survivor39 @JeffProbst Lol likewise",
+        "tones": [
+          {
+            "score": 0.58649,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "Damn, where were you when I was calling out Below Deck’s misogyny??I know Survivor is a game but thank God Janet and Jamal took a stand!",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Janet was horribly played by Missy and Elizab… https://t.co/6XzfTjDTExRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "@crackpotjack: If you're a fan of @Survivor and can't get enough go @roundhoward and @AMikeBloomType check out what they had to say abou…RT @crackpotjack: If you're a fan of @Survivor and can't get enough go @roundhoward and @AMikeBloomType check out what they had to say abou…If you're a fan of @Survivor and can't get enough go @roundhoward and @AMikeBloomType check out what they had to sa… https://t.co/klSDVDkouzJamal is Paul Pierce.",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "Paul Pierce voted out of #Survivor39RT @nataliehofffman: AND MORE KELLEES.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "don’t forget ab the woman who literally cried to production because of uncomfort/confusion/conflict…RT @TheRealChrissyH: I don't even know what to say, other than I'm saddened by the entire episode from start to finish 😢 #Survivor39@NerdyInNOLA @survivorcbs @survivor39 @JeffProbst Oh I read you loud and clear.",
+        "tones": [
+          {
+            "score": 0.948735,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "You're still wrong.RT @Sunflwrs13: @survivorcbs Missy and Elizabeth should be disqualified.",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "I’m disgusted.",
+        "tones": [
+          {
+            "score": 0.777778,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.857143,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.647059,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "#Survivor39 #survivorCrickets from the cast tonight @survivorcbs  they know just how rotten some of these ladies are &amp; the guys everybod… https://t.co/UtolEf95RgRT",
+        "tones": [
+          {
+            "score": 0.804675,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "@littleallygator: I am so fucking horrified by this.",
+        "tones": [
+          {
+            "score": 0.84176,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "Thank you to women like Janet who are true allies for other women and stand for abu…RT @80sginger_child: @survivorcbs Just give Janet the million dollars for standing up for is right.",
+        "tones": [
+          {
+            "score": 0.60888,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Nothing to joke about.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "#SurvivorJanet #…RT @MichelleDierkes: Well said...#Survivor39 https://t.co/Dc6oHt1aI5RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "@mssarahleanne88: @survivorcbs @survivorcbs is ABSOLUTELY DEPLORABLE for letting those women use the #MeToo movement as GAMEPLAY.",
+        "tones": [
+          {
+            "score": 0.833309,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "I am u…RT @TheRealChrissyH: I don't even know what to say, other than I'm saddened by the entire episode from start to finish 😢 #Survivor39@TheVaginalist @survivorcbs @survivor39 @JeffProbst I feel like you’re not even reading what I’m writing.",
+        "tones": [
+          {
+            "score": 0.916027,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "I can onl… https://t.co/1bQhIVSY4BRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "@TheZakWright: I hope tonight's episode helps open a nuanced discussion of what sexual harassment actually looks like in the real world.…RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "@_ImNotJerry: Aaron trying to explain that it isn't real because HE wasn't told is the most arrogant thing I've ever heard.",
+        "tones": [
+          {
+            "score": 0.670204,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "Now I'm mad…#Survivor39 ",
+        "tones": [
+          {
+            "score": 0.828928,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Neither Janet nor Dan has a chance to win this season after these 2 episodes.",
+        "tones": [
+          {
+            "score": 0.625068,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "They are smart enough to… https://t.co/NH9ev9hzeUAaron is a dick.",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "Fuck these women.",
+        "tones": [
+          {
+            "score": 0.705125,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Such a stupid cast #Survivor #Survivor39They showed legitimate footage of dan inappropriately touching Missy, of course when Janet put her game on blast sh… https://t.co/LVrlc3vb6n@NerdyInNOLA",
+        "tones": [
+          {
+            "score": 0.528183,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.720015,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "@survivorcbs @survivor39 @JeffProbst which Probst knows all about and why he even brought it up.",
+        "tones": [
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "He di… https://t.co/WIPJC4m9YBThis is the first season of Survivor that I’m watching.",
+        "tones": [
+          {
+            "score": 0.536361,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "It really doesn’t seem like a person’s character or skill r… https://t.co/Xv4yd2SBXURT",
+        "tones": [
+          {
+            "score": 0.507911,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.978587,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "@BriCorridan: More human beings like Jamal and Janet, please.",
+        "tones": [
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "#Survivor #Survivor39RT @NerdyInNOLA: @TheVaginalist @survivorcbs @survivor39 @JeffProbst as the tribal goes, that is what Probst did, and he did it well.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "I dou…RT @davisthebbfan: Imagine if Dan has simply been expelled.",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "If Jackson Michie had.",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Can we just have one CBS season where a vile person and…RT @davisthebbfan: Imagine if Dan has simply been expelled.",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "If Jackson Michie had.",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "Can we just have one CBS season where a vile person and…@TheVaginalist @survivorcbs @survivor39 @JeffProbst as the tribal goes, that is what Probst did, and he did it well… https://t.co/KrjT2VF7PAJanet is a saint.",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "#Survivor #Survivor39Janet is a forking hero.",
+        "tones": [
+          {
+            "score": 0.622069,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "#Survivor39This survivor episode was extremely hard to watch.",
+        "tones": [
+          {
+            "score": 0.595601,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "The real victims stay victims and others use it for personal gai… https://t.co/t8LF8GNrjE@NerdyInNOLA",
+        "tones": [
+          {
+            "score": 0.559566,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "@survivorcbs @survivor39 @JeffProbst The someone to deal with Dan is the show, and Probst as host and… https://t.co/WsC8801TeP@survivorcbs",
+        "tones": [
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "I’m disguested at the YOUNG women who flip flopped w/ the truth about this sexually issue!",
+        "tones": [
+          {
+            "score": 0.537469,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "All for $1,… https://t.co/XBmyepI4FbI",
+        "tones": [
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "am a huge #Survivor39 fan.",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "A huge #Survivor fan in general but I am absolutely appalled at what went down tonight… https://t.co/l3JmEMkB6uRT",
+        "tones": [
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "@miriamshoh: The survivor episodes tonight #survivor #survivor39 https://t.co/EWgLOPQVIj#Survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "Episode 8 &amp; 9 Rankings💖💖 https://t.co/Q11IOpz751#Survivor39 is trash.",
+        "tones": [
+          {
+            "score": 0.815321,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "Give the money to Jamal and Janet and call it a damn day.RT @BriCorridan: More human beings like Jamal and Janet, please.",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "#Survivor #Survivor39@NerdyInNOLA @survivorcbs @survivor39 @JeffProbst in both of those instances, if someone does something shitty its… https://t.co/wRCiRgqg7rRT",
+        "tones": [
+          {
+            "score": 0.873263,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "@ginacarbone: Ugh.",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "#Survivor just lost two good people - not just players, people - in a row.",
+        "tones": [
+          {
+            "score": 0.651014,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.933436,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "Justice for Kellee &amp; Jamal.",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Team Janet ftw…@TheVaginalist @survivorcbs @survivor39 @JeffProbst that I’m not saying things *should* be this way.",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "What I am sayi… https://t.co/HmIDtUoESWAfter",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "this episode of @survivorcbs I’m not sure if I care who wins.",
+        "tones": [
+          {
+            "score": 0.611397,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.556444,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "The way a collective group handled such a sensi… https://t.co/tm6XfZXH6DRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "@Blake_Finch: Missy and Elizabeth lying about Janet and erasing Kellees experience is some of the most upsetting @survivorcbs I’ve ever…Unknowing it was gameplay, #SurvivorJanet #Survivor39 tried to aid women who used an admitted #Fake accusation agai… https://t.co/9jm4DqrBFdI",
+        "tones": [
+          {
+            "score": 0.654647,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "am so disgusted with the women on tonight's episode of #Survivor39.",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "They set us back &amp; made a mockery of a seriou… https://t.co/4agS9FbMYL@MarlaTorgerson",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "@survivorcbs Aaron aka Drake wannabe.",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "#Survivor39I hope tonight's episode helps open a nuanced discussion of what sexual harassment actually looks like in the real… https://t.co/kLTCAumR1j@NerdyInNOLA",
+        "tones": []
+      },
+      {
+        "sentence_id": 70,
+        "text": "@survivorcbs @survivor39 @JeffProbst is #survivor happening on earth mark 2 or something?",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "Survivor is… https://t.co/OhwnjKT2MHRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "@abimarye: Hey @JeffProbst I really wanted you to straight up ask Dan “Kellee told you she didn’t like to be touched, did she or did she…@Tanishaissassy @LaurenAshBeck @TommySheehan22 @themissybyrd @ebeisel34 @dkchillin All dirtbags playing for a milli… https://t.co/SFuycjnWUvLooks",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "like it was Missy's idea to use this as strategy to blindside Kellee.",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "#Survivor39 https://t.co/7JDQ7lKfqw",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "https://t.co/ywTJUmxVWrI'm",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "officially rooting for @Carbin39 since she seems to be the only decent person left?",
+        "tones": [
+          {
+            "score": 0.687353,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "While I didn't totally vibe… https://t.co/MBCr779b0TTommy",
+        "tones": [
+          {
+            "score": 0.90601,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "and Lauren are really painting a target on their back with them working so closely together!",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "I’m so worried f… https://t.co/uk25SGFjpV@TheVaginalist",
+        "tones": [
+          {
+            "score": 0.898196,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "@survivorcbs @survivor39 @JeffProbst In the real word we don’t get saved.",
+        "tones": [
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "We hope we get supported,… https://t.co/Qzw52vXgCJRT",
+        "tones": [
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "@AlanaG77: This show continues to irritate me.",
+        "tones": [
+          {
+            "score": 0.853088,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "The girls that are sitting there and letting Janet take the fall for things THEY said, is…Well said...#Survivor39 https://t.co/Dc6oHt1aI5@JamManK9",
+        "tones": []
+      },
+      {
+        "sentence_id": 84,
+        "text": "Thank you.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "Thank you.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "Thank you.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "I’m so sorry you left tonight.",
+        "tones": [
+          {
+            "score": 0.64858,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Granted - island of the idols could have… https://t.co/kpxRuGUku5RT",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "@SurvivingTribal: Nobody deserves idols.",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "Nobody.",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "You need to earn it for yourself.",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "Except",
+        "tones": [
+          {
+            "score": 0.997482,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "Janet.",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "Janet deserved it tonight.",
+        "tones": [
+          {
+            "score": 0.505957,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "#Survivor #…RT @J2571: Wishing all the best to @kellee_kim, @JamManK9, and @Carbin39 tonight.",
+        "tones": [
+          {
+            "score": 0.753256,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.775702,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "You rule.",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "#Survivor39RT @miriamshoh: Retweet if Kellee deserved better 😭 #survivor #survivor39 https://t.co/VCk9PqWCMKRT",
+        "tones": [
+          {
+            "score": 0.716929,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "@Blake_Finch: Missy and Elizabeth lying about Janet and erasing Kellees experience is some of the most upsetting @survivorcbs I’ve ever…💙Jamal #Survivor39RT @Ashley_MHill: These women on #Survivor39 just set back sexual assault survivors by 500 years https://t.co/jSKJmu3zHhRT",
+        "tones": [
+          {
+            "score": 0.668095,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 100,
+        "text": "@Blake_Finch: Missy and Elizabeth lying about Janet and erasing Kellees experience is some of the most upsetting @survivorcbs I’ve ever…I really want to watch Rob’s recap...but before I do...I need to know if they condemned those women.",
+        "tones": [
+          {
+            "score": 0.596644,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.598448,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "Anybody watch?",
+        "tones": [
+          {
+            "score": 0.998976,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "#Survivor39Janet found an idol.",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "A whole ass queen.",
+        "tones": [
+          {
+            "score": 0.630512,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}

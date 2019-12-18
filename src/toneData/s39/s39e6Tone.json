@@ -1,0 +1,98 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "1294",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "82a01b2fcfe679e4e5a317d3d6a62cd8",
+    "x-dp-watson-tran-id": "82a01b2fcfe679e4e5a317d3d6a62cd8",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "424",
+    "date": "Wed, 18 Dec 2019 17:31:53 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.668248,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @KimMattina: I'm at 938 followers and would love to hit 1000!",
+        "tones": [
+          {
+            "score": 0.787413,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "For only a small retweet effort, YOU can help me get there.",
+        "tones": [
+          {
+            "score": 0.574203,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "I'll pose by a…RT @SequesterAccess: WATCH THE #RHAP SEQUESTER MENS INTERVIEWS NOW! Special thanks to @OneLuckyGay for flying out and grilling the new cast…RT @SequesterAccess: WATCH THE #RHAP SEQUESTER MENS INTERVIEWS NOW! Special thanks to @OneLuckyGay for flying out and grilling the new cast…Possessed Dean 👹 @dkchillin #Survivor #Survivor39 #halloween #horrormovie #evil #demon https://t.co/UOi9lSsrmERT",
+        "tones": [
+          {
+            "score": 0.680942,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "@KimMattina: I'm at 938 followers and would love to hit 1000!",
+        "tones": [
+          {
+            "score": 0.798596,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "For only a small retweet effort, YOU can help me get there.",
+        "tones": [
+          {
+            "score": 0.574203,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "I'll pose by a…\"}",
+        "tones": []
+      }
+    ]
+  }
+}

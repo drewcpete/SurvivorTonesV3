@@ -1,0 +1,932 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17566",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "e570a9b47a659edd56f5a60a9cada686",
+    "x-dp-watson-tran-id": "e570a9b47a659edd56f5a60a9cada686",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1393",
+    "date": "Wed, 18 Dec 2019 17:31:54 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.603517,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.56207,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.522111,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @Saiwmass: Dammit why couldn’t y’all have just gotten rid of Dan a few hours earlier and kept Elaine!",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "#Survivor #Survivor39#Survivor39 had this huge speech about women empowerment representing movements in real life, but waited til the fi… https://t.co/PljOMb8NFbRT",
+        "tones": [
+          {
+            "score": 0.551269,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "@kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "#S…I love Elaine.",
+        "tones": [
+          {
+            "score": 0.866635,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "There’s no one remaining that deserves or should win.",
+        "tones": [
+          {
+            "score": 0.700233,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "@survivorcbs #Survivor… https://t.co/FxBstXNNd7@AngelinaCardona",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "They got caught unprepared.",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "It’s rare  because they’re usually so buttoned up but they screwed thi… https://t.co/GL6DP1FeCURT",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "@kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "#S…RT @apeck422: starting a campaign to #BringElaineBack now that dan was removed #Survivor39 @survivorcbsRT @tipsy_realityTV: Yes, I am glad Dan is gone.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "But I hate that it had to get this point and happen to someone else not in the game.",
+        "tones": [
+          {
+            "score": 0.685945,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "He sh…#Survivor #Survivor39  Survivor: Jeff Probst talks about first player ever ejected from the game |… https://t.co/IupZKeqKCqRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "@amyfigueroamori: also the real tragedy is Dan’s son after all this.",
+        "tones": [
+          {
+            "score": 0.76826,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.944551,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "Dan hasn’t just hurt his victims - his family will carry the weight…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": [
+          {
+            "score": 0.694474,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "#S…RT @TeamHeatherBB: Telling my grandkids this was the winner of #Survivor39 https://t.co/sdq5Gu15bART",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "@kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "#S…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "#S…Buh Bye Dan!!!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "They should have done this When Kellie first brought it up!",
+        "tones": [
+          {
+            "score": 0.54719,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "#Survivor #Survivor39 https://t.co/KELQDKCJcuRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "@kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "#S…RT @summersaltine: This is the one I am looking for @DanSpilo sexual predator, grabby piece of shit #Survivor39 #survivorislandoftheidols #…BYE DAN!",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "So glad he’s gone!",
+        "tones": [
+          {
+            "score": 0.84785,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "#Survivor39RT @apeck422: starting a campaign to #BringElaineBack now that dan was removed #Survivor39 @survivorcbsRT @JoeKonopa: @Kassting I HEREBY DEMAND THAT YOU &amp; ANYBODY THERE AT @CBS PUT @ElaineStott32 ON THE NEXT SEASON OF @CBSBigBrother ‼️  She i…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "#S…I see a gift from Sia in Elaine’s future... ❤️",
+        "tones": [
+          {
+            "score": 0.896192,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "#Survivor39 ",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "#Survivor https://t.co/XkqG3X5aVSAccording",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "to @eentertainment, #Survivor is going to pre-recording the finale reunion for the first time in the show… https://t.co/oO5eYNcfOcRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "@JoeKonopa: @Kassting I HEREBY DEMAND THAT YOU &amp; ANYBODY THERE AT @CBS PUT @ElaineStott32 ON THE NEXT SEASON OF @CBSBigBrother ‼️  She i…No ELAINE!",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "Come Back! #Survivor #Survivor39 https://t.co/hUAq6Mw5cDRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "@Saiwmass: Dammit why couldn’t y’all have just gotten rid of Dan a few hours earlier and kept Elaine!",
+        "tones": [
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "#Survivor #Survivor39ELAINE HAD THE FUCKING IDOL WHY DIDNT YOU PLAY IT #survivor39I feel like tonight’s episode is the exact reason why it’s crucial to believe women.",
+        "tones": [
+          {
+            "score": 0.544201,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "Especially about men who were… https://t.co/1jDD3POzi0I'm",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "just happy this shitshow is almost over..... this has been a miserable year for the reality games I actually care about.",
+        "tones": [
+          {
+            "score": 0.505041,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "#Survivor39Damn... #Survivor39Caralho, no próximo episódio TODOS irão para a IoI e a Sandra e o Rob irão se apresentar para todos PQP",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "#Survivor39 #SurvivorRT @apeck422: starting a campaign to #BringElaineBack now that dan was removed #Survivor39 @survivorcbsCan the Finale @ this point just be Sandra or Boston Rob receiving the million dollars?",
+        "tones": [
+          {
+            "score": 0.664718,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "#Survivor #Survivor39 https://t.co/HwDRYsO7gsRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "@kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "#S…RT @biggayfreak: Me when they were talking about a Dan, Dean, Tommy final three at the beginning of the episode 😩🤢🤮 #survivor #Survivor39 h…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": [
+          {
+            "score": 0.609683,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "#S…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "#S…So glad I dont have to see Dan spilo on my tv anymore for survivor.",
+        "tones": [
+          {
+            "score": 0.618451,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "🤮 #BelieveWomen #Survivor39RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "#S…O bem venceu caralho, finalmente a justiça foi feita",
+        "tones": []
+      },
+      {
+        "sentence_id": 43,
+        "text": "Apenas triste que a Elaine foi eliminada :(",
+        "tones": [
+          {
+            "score": 0.865435,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "#Survivor39 #SurvivorRT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "#S…Creepy Dan is off my tv, finally.",
+        "tones": [
+          {
+            "score": 0.584136,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "The gall on this guy.",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "After receiving a warning he does it again.",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "What a complete… https://t.co/PEPXO3buFY@Bobisbald2151",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "@DanSpilo Creeps will always defend other creeps.",
+        "tones": [
+          {
+            "score": 0.92125,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "#DanSpilo #Survivor39 #CBS #MeToo ",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "#SexualHarassmentId rather watch Show More #Survivor39 https://t.co/4llaf8EmhGRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "@thot_tv: What did we learn tonight?",
+        "tones": [
+          {
+            "score": 0.618219,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "BELIEVE WOMEN THE FIRST TIME.",
+        "tones": [
+          {
+            "score": 0.5822,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "#Survivor #Survivor39 #survivorislandoftheidolsRT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "#S…Current #Survivor player rankings:",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "1.)",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Janet (for 7+ weeks)",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "2.)",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Noura (for 4+ weeks)",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "3.)",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "Lauren",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "78.)",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "Tommy",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "945.)",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "D… https://t.co/2nt3e4M4n9I",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "stopped watching survivor weeks ago and now it is trending again.. tsk tsk !",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "getting worse? .",
+        "tones": [
+          {
+            "score": 0.640066,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "#Survivor39 #SurvivorSeries @survivorcbsAbsolutely!",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "In the past when someone was removed from the show for any reason but a vote, there was not a tribal co… https://t.co/wEYyb8VrCnDan",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "should have been removed at the beginning of the season or better yet not even cast.",
+        "tones": [
+          {
+            "score": 0.522809,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "Doing it now and not even… https://t.co/DTIYbfGLQyRT",
+        "tones": [
+          {
+            "score": 0.522021,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "@ISO_FStop_Chick: So, when someone leaves #Survivor for medical reasons, production often cancels a tribal council.",
+        "tones": [
+          {
+            "score": 0.574445,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "The way I see it, be…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "#S…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "#S…@nottameatball @mmkoch200 @EvelDick @survivorcbs So they didn't believe women who were on camera but believed emidi… https://t.co/HYGxDjXFrSRT",
+        "tones": [
+          {
+            "score": 0.873263,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "@Lelki3: Nooooo!",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "How do they vote Elaine off?? I love her! Put her back in Dan’s spot.",
+        "tones": [
+          {
+            "score": 0.515775,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "Good riddance Dan, bring Elaine back!! #Survivor3…RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "#S…As a society, I hope we all take away from this that we need to listen to and believe women.",
+        "tones": [
+          {
+            "score": 0.579367,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "Hear their stories, gi… https://t.co/aZm61f5hQNRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "@biggayfreak: Me when they were talking about a Dan, Dean, Tommy final three at the beginning of the episode 😩🤢🤮 #survivor #Survivor39 h…@mikesbloggity @JeffProbst @kellee_kim We didn't have to believe her.",
+        "tones": [
+          {
+            "score": 0.66025,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "We seen it with our own eyes.",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "@survivorcbs ju… https://t.co/J2tm6hE7UZThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "game could have turned out differently if only the producers took out Dan from the jump #Survivor39Thanks to @kellee_kim for speaking up.",
+        "tones": [
+          {
+            "score": 0.731735,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "Wish @survivorcbs would’ve had a zero tolerance policy and taken action the… https://t.co/QOhfqbVDwoHello! Somebody drop me a giftcard please.",
+        "tones": [
+          {
+            "score": 0.515576,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Email;",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "dkebaso1@gmail.com",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "#Raptors",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "#Survivor39 ",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "#AEWDyamite ",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "#KawhiLeonard@survivorcbs  Dang Elaine, you’re making me cry! Reminds me when I lost my mom 3 yrs ago to cancer &amp; renal failure… https://t.co/p54EACgHjSThis",
+        "tones": [
+          {
+            "score": 0.82348,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "makes the decision for Jack to be on the jury seem WAY more sinister.",
+        "tones": [
+          {
+            "score": 0.518058,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "#Survivor39https://t.co/pYCVMvvlLC Middle name F&lt; for Mads F&lt; Eller _ Michael \\\"&gt; James _ Its not what U think AGUILAR was a… https://t.co/Woq6waOZy9Here",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "dreams are still alive until you snuff my torch.",
+        "tones": [
+          {
+            "score": 0.665564,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "#Survivor #Survivor39 #survivorislandoftheidols https://t.co/06GAHH1TVWRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "@SurvivorQuotesX: I need to know what happened #Survivor #Survivor39#Survivor39RT @kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 100,
+        "text": "#S…Wtf does that mean @JeffProbst?",
+        "tones": [
+          {
+            "score": 0.864138,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "What's it mean?",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "#Survivor #Survivor39 #SurvivorIslandOfTheIdolsMe when they were talking about a Dan, Dean, Tommy final three at the beginning of the episode 😩🤢🤮 #survivor… https://t.co/4Mkf91f8iwRT",
+        "tones": [
+          {
+            "score": 0.6371,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "@kellee_kim: My thoughts on tonight's episode of @survivorcbs and Dan Spilo's removal for another incident of inappropriate touching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "#S…Elaine is making everybody cry 😭😭 #survivor39We love you Elaine  #Survivor #Survivor39 https://t.co/E1WNXIltsFalso",
+        "tones": [
+          {
+            "score": 0.766534,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 105,
+        "text": "the real tragedy is Dan’s son after all this.",
+        "tones": [
+          {
+            "score": 0.777675,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.965509,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 106,
+        "text": "Dan hasn’t just hurt his victims - his family will carry the wei… https://t.co/UNOSk4hemFHere’s",
+        "tones": [
+          {
+            "score": 0.851852,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 107,
+        "text": "me painting the wrong foundation on my face🤣🤣🤣Full video https://t.co/HTQXjaVstX",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      }
+    ]
+  }
+}

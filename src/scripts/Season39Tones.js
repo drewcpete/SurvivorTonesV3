@@ -1,5 +1,4 @@
 const s39Text = require('./tweetToString.js');
-const fs = require('fs');
 var ToneAnalyzerV3 = require('watson-developer-cloud/tone-analyzer/v3');
 require(dotenv).config();
 

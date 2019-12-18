@@ -1,0 +1,977 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17449",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "872b405ff1cb56230140fd3df33c870a",
+    "x-dp-watson-tran-id": "872b405ff1cb56230140fd3df33c870a",
+    "x-edgeconnect-midmile-rtt": "59",
+    "x-edgeconnect-origin-mex-latency": "1497",
+    "date": "Wed, 18 Dec 2019 17:31:54 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.629679,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.562062,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Damn Kellee is savage AF she lies so well and to people who are loyal to her.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "This might just come back to haunt he… https://t.co/fvSE9jar9r#Survivor39",
+        "tones": [
+          {
+            "score": 0.545952,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "#BackfireJANET IS EVERYTHING IN THIS TRIBAL COUNCIL SPEECH AND I JUST WANT TO BE HER SOMEDAY.",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Cool, calm, collected, intelli… https://t.co/lTUrB8h35uJanet...I am Janet!",
+        "tones": [
+          {
+            "score": 0.883527,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Well spoken but will flash you lol #survivor39 #whatatribal https://t.co/JCLF077WVaRT",
+        "tones": [
+          {
+            "score": 0.680813,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "@evamarielola: How in the hell is #Survivor39 on the same network as Big Brother when one show promotes and encourages racism while the…@survivorcbs @BostonRob @SandraDTwine They both needed to be more involved.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "Like including them in tribal council.…",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "https://t.co/xGGL1K4efb@kellee_kim is Island of the Idols Queen!!!!! Love watching her play!!! #Survivor #Survivor39@kellee_kim YOU DID THAT GIRL #Survivor39Hahahaha oh no two idols is bad news bears!!! Jamal ya played it for the wrong person 😔😔.",
+        "tones": [
+          {
+            "score": 0.605907,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Sandra with  the “Daaamn… https://t.co/aJPVPbQ0IAIn",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "the words of @SandraDTwine “They got his Ass” #Survivor39 https://t.co/4YBLDlMX1uTHE",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "FIRST MEMBER OF OUR JURY??!?? JACK HASN’T EVEN MET 4 PLAYERS!?!?! #Survivor #Survivor39I liked jack😭 #Survivor39Was anyone else a little surprised that Kellee's IOI idol was transferrable?",
+        "tones": [
+          {
+            "score": 0.698904,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Not sure why I thought it wasn't.",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.946639,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Tech… https://t.co/u66v3Wq6DvWhen",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "did Jamal get an idol ?",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "#Survivor39Loved the feminist tribal council tonight on @survivorcbs; no one ever calls out the men's alliances because they a… https://t.co/phO59Gc755RT",
+        "tones": [
+          {
+            "score": 0.554974,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "@EliteFourGay: can we please have a female winner this season @kellee_kim #SURVIVOR #Survivor39 https://t.co/Z2SAf4ZVhcThis",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "tribal, actually this show, this season specifically, has focused REAL social issues and I’m into it.",
+        "tones": [
+          {
+            "score": 0.51468,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.833309,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "Good shi… https://t.co/u2i0bgPh3ythe",
+        "tones": [
+          {
+            "score": 0.939417,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "women this season tho 🤯💓 ",
+        "tones": [
+          {
+            "score": 0.507779,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "#Survivor39This women talk is everything and I’m here for it!!!! #Survivor39 https://t.co/fP5lklHswqWomen",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "hate women its why @parvatishallow is the goat ...she actually brought women together to kill the men and WON #Survivor39AND THERE IS SO MUCH TIME LEFT IN THE EPISODE FOR THIS TRIBAL!",
+        "tones": [
+          {
+            "score": 0.599048,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "This is perfection!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "#Survivor39@kellee_kim organized one of the best moves of this season and possibly this decade!",
+        "tones": [
+          {
+            "score": 0.734556,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "#Survivor39 #Survivor@survivorcbs OMG😮 an idol used and  idol wasted #Survivor39 #Survivor#NORA cracks me up ... shes a fucking wacko #Survivor39Well at least I have another week before having to watch Missy own another vote.",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "And I’m pumped to see Kellee’s pot… https://t.co/QE0iEyV6rNNoura",
+        "tones": [
+          {
+            "score": 0.583639,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "woulda killed it on Winners at War #Survivor39 #SurvivorIslandoftheIdols #Survivor40Omg Kellie yes !!!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "That would be such a power play!!!!! whoever this ex Girlfriend of Dean is, really really came… https://t.co/3i1MWiDYETKellee’s",
+        "tones": [
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "plan is literally so good I’m shaking omg #Survivor39 I’m so nervous@abjarms In 2019... it's called pandering.",
+        "tones": [
+          {
+            "score": 0.853139,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "#EnoughIsEnough #Survivor39 @JeffProbst @survivorcbsKELLEE KIM IS MY QUEEEEEEEEEEEEEEEN @kellee_kim #survivor39Oof I really wanted Dean to go home today!",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "But I would be ok with Jamal to #Survivor39omg i almost forgot to tweet this lol but karishma's voting confessional?",
+        "tones": []
+      },
+      {
+        "sentence_id": 30,
+        "text": "ICONIC (even tho she didn't get dean out… https://t.co/f5jlZP5vqUOop,",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "no they wanna vote out Dean 😔.",
+        "tones": [
+          {
+            "score": 0.762914,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "That boy better pull out all the stops !! They’re lying to ya !!! Kellie save the man !!! #Survivor39RT @CastawayPod: Kellee during her \\\"moment of inspiration\\\" #Survivor #Survivor39 https://t.co/GLmtsVGROYMissy is playing a smart game, but I kind of want her plans to get foiled.",
+        "tones": [
+          {
+            "score": 0.758016,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "I wanted a Dean-Chelsea showmance.",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "I wan… https://t.co/QGAkbZeZb1Now",
+        "tones": [
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "I have more reason to root for Kellee and not just because of Asian representation !!!",
+        "tones": [
+          {
+            "score": 0.560892,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.94319,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "#Survivor39The women on this season though 💪🏾🧠 #Survivor39Can we just get back to the game, I'm tired of getting preached at.",
+        "tones": []
+      },
+      {
+        "sentence_id": 37,
+        "text": "Last week it was race, this week is gender.",
+        "tones": [
+          {
+            "score": 0.552032,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "JUS… https://t.co/sdg2Sj24yVcan",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "we please have a female winner this season @kellee_kim #SURVIVOR #Survivor39 https://t.co/Z2SAf4ZVhcKellee",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "+ Dean final 2 PLEASE #Survivor #Survivor39That was one of the best episodes of #Survivor that I can recall in a very long time.",
+        "tones": [
+          {
+            "score": 0.596276,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.560944,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "#survivor39 Such an impressiv… https://t.co/ht44iOZXpkThe",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "Lairo tribe every challenge #Survivor39 https://t.co/AZkNbRRjelLmfao",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "Janet not the granny shot !!!!",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "That hasn’t worked since grade school!! #Survivor39Ok.",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "Janet.",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "Favorite.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "#Survivor39YES!",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "She is the first to refuse!",
+        "tones": [
+          {
+            "score": 0.542954,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "I’ve been DYING to see what happens next because @BostonRob has been teasing that… https://t.co/zoV1qgfE9PLol",
+        "tones": [
+          {
+            "score": 0.789383,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "Dan trying to cuddle with everyone gets me weak, but Tommy and Lauren trying to come so hard for Dan seemed obv… https://t.co/jUjj3e5AcANot",
+        "tones": [
+          {
+            "score": 0.780613,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "tommy with the fake tears!",
+        "tones": [
+          {
+            "score": 0.745369,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "#Survivor39Aaaaaand @AuroraMcCreary stays four strong through the merge.",
+        "tones": [
+          {
+            "score": 0.586077,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "That should merit some kind of award??? #Survivor39Bahaha you can see the gleeful spark in @BostonRob’s eyes every time he starts to explain the lesson/test and I’m loving for it!",
+        "tones": [
+          {
+            "score": 0.704382,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "#Survivor39RT @AuroraMcCreary: Proud of #Survivor39 and producers this season.",
+        "tones": [
+          {
+            "score": 0.767136,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.724236,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "In a time of such hate and people are being told to pick a side, Surviv…Gawddamn, @themissybyrd is playing a good game.",
+        "tones": [
+          {
+            "score": 0.661413,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "#Survivor39 #Survivor #IslandOfTheIdolsAlso...",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "I told friends I would wait and watch with them tomorrow night, but... waiting got hard!",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "I’ll still watch w… https://t.co/13EqEIihdGOkay",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Janet, playing it safe!! She’s so loyal that it’s almost too much.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "I liked the offer though.",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Everyone getting… https://t.co/AskTKRAuvfThis is rad! #jefferyepsteindidntkillhimself #2k20 #3d #TheMaskedSinger #AEWDynamite #AEWCharlotte #Survivor39… https://t.co/gtla1lociwI",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "love Boston Rob, \\\"I was born at night, but not last night\\\"😂 #Survivor #Survivor39Really?",
+        "tones": [
+          {
+            "score": 0.680681,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "You couldn’t showcase a different Survior’s “calculated risk” on tonight’s episode?",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "EOE was a calculated ri… https://t.co/49eeMxA4viYES!",
+        "tones": []
+      },
+      {
+        "sentence_id": 65,
+        "text": "JANET going to Island of the Idols!",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "Janet has been one of my early favorites, but hasn’t had much screen time… https://t.co/dUiSxJbZwkSandra",
+        "tones": [
+          {
+            "score": 0.534986,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "always spills nothing but tea!",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "This season will be a Female winner!",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "The queen said it first💗 #Survivor39 https://t.co/lba7Cw5Cg1I",
+        "tones": [
+          {
+            "score": 0.78637,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "mean I guess playing it safe was the better option in this situation #Survivor39Calculated risks are everything!",
+        "tones": [
+          {
+            "score": 0.765977,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.775166,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "#Survivor39Janet’s reaction to meeting @BostonRob and @SandraDTwine is my favorite #Survivor #Survivor39Okay, but serious question - if they don’t get their bathing suits and have to wear their underwear, what happens i… https://t.co/vxMhZ9Y0jWJanet is going to the island!",
+        "tones": [
+          {
+            "score": 0.631014,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "#Survivor39@survivorcbs has been airing one of the best seasons I think there has ever been.",
+        "tones": [
+          {
+            "score": 0.821091,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "@themissybyrd and @kellee_kim are… https://t.co/HYYguexVPdRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "@ShannonGaitz: I could watch Kellee’s wheels turn all day, such a cerebral player #Survivor #Survivor39#Survivor39 TIME!!!#survivor #survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 75,
+        "text": "- the biggest wtf moment for me this season is jamal playing his idol for noura 😂",
+        "tones": [
+          {
+            "score": 0.672135,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "- i hope de… https://t.co/cwvrSrVayC@kellee_kim",
+        "tones": [
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "you did a MASTERFUL job this episode.",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "Brought tears to my eyes with your speech and topped it off with… https://t.co/Vuz3IOMkMlI’m",
+        "tones": [
+          {
+            "score": 0.665764,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "glad these women all spoke up and said their peace.",
+        "tones": [
+          {
+            "score": 0.922934,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "I was very impressed.",
+        "tones": [
+          {
+            "score": 0.97759,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Nice move Kellee!",
+        "tones": [
+          {
+            "score": 0.91284,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "#Survivor39Let’s go Team Aurora #Survivor39RT @HannahKCarson24: Wow Jamal that was such a waste of an idol #Survivor #Survivor39RT @AuroraMcCreary: Proud of #Survivor39 and producers this season.",
+        "tones": [
+          {
+            "score": 0.657343,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "In a time of such hate and people are being told to pick a side, Surviv…RT @rflxy: #survivor #survivor39",
+        "tones": [
+          {
+            "score": 0.591575,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "- now i'm thinking there might be a jury removal adv from ioi later in the game which i will HATE",
+        "tones": [
+          {
+            "score": 0.578487,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "- dan be…RT @powerofcheeto1: And now a moment of inspiration by Kellee.",
+        "tones": [
+          {
+            "score": 0.806406,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "#Survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "#SurvivorIslandoftheIdols https://t.co/pEec0Ydlr1And",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "Jack?",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "I thought Jamal was gonna get voted off #Survivor #Survivor39Wow Jamal that was such a waste of an idol #Survivor #Survivor39#survivor #survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "- now i'm thinking there might be a jury removal adv from ioi later in the game which i will… https://t.co/vKJSEHqxC2#survivor",
+        "tones": [
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "#survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "- everything about that tribal was so perfect from start to end.",
+        "tones": [
+          {
+            "score": 0.774187,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "(including noura's laugh of… https://t.co/u22qmuF8R0RT",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "@HannahKCarson24: Sandra is right.",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "A woman is gonna win this season #Survivor #Survivor39So, I’m betting there’s definitely a remove a juror at the final Island of the Idols visit #Survivor39#survivor #survivor39",
+        "tones": [
+          {
+            "score": 0.532134,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "- kellee really snapped huh? give her idol to dean, told him n noura to vote for jack, flushe… https://t.co/XrygLP3doJ#Survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "Episode 7 Rankings 💖💖 https://t.co/4r3KW4Q055RT",
+        "tones": [
+          {
+            "score": 0.845384,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "@ShannonGaitz: Smart, strong women talking about women on #Survivor as it pertains to women in the world because this game is a microcos…RT @AuroraMcCreary: Proud of #Survivor39 and producers this season.",
+        "tones": [
+          {
+            "score": 0.79738,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 100,
+        "text": "In a time of such hate and people are being told to pick a side, Surviv…RT @GypsyPranay: Favorite #SurvivorIslandOfTheIdols Castaway",
+        "tones": [
+          {
+            "score": 0.622175,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      }
+    ]
+  }
+}

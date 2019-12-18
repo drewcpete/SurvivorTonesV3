@@ -1,0 +1,174 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "2679",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "419e482bbd1b8698d0a25cd4bfe36aa9",
+    "x-dp-watson-tran-id": "419e482bbd1b8698d0a25cd4bfe36aa9",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "560",
+    "date": "Wed, 18 Dec 2019 17:31:53 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.608527,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.536033,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @HollyHavocJTV: Tomorrow night!",
+        "tones": [
+          {
+            "score": 0.503125,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Join @TheGameSurvivor as he presents another edition of the #MissyaePodcast: #survivorislandoftheidols R…Tomorrow night!",
+        "tones": [
+          {
+            "score": 0.618536,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Join @TheGameSurvivor as he presents another edition of the #MissyaePodcast:… https://t.co/CwD1q1ECp7Really",
+        "tones": [
+          {
+            "score": 0.643011,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "liking #Survivor39 so far and looking forward to tomorrow night’s swap episode.",
+        "tones": [
+          {
+            "score": 0.62821,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.788547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "#DontSleepOn39RT @chelseawalker: Extending my five seconds one last time to talk #Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "Tune into https://t.co/hmZCJ63KW6",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "LIVE tomorrow at 12pm PT wh…RT @jessicalewis89: The latest #WhyXLost podcast with me &amp; @DavidBloomberg has dropped!",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "Was this an example of #Survivor musical chairs?",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "Wa…RT @nouraknowsbest1: That time I was ACTUALLY on fire 🔥 Yet another “never seen before” moment in Survivor history 😆 #Nouramal #survivor #s…RT @chelseawalker: Extending my five seconds one last time to talk #Survivor.",
+        "tones": [
+          {
+            "score": 0.640379,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.567034,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "Tune into https://t.co/hmZCJ63KW6",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "LIVE tomorrow at 12pm PT wh…RT @chelseawalker: Extending my five seconds one last time to talk #Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "Tune into https://t.co/hmZCJ63KW6",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "LIVE tomorrow at 12pm PT wh…RT @chelseawalker: Extending my five seconds one last time to talk #Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "Tune into https://t.co/hmZCJ63KW6",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "LIVE tomorrow at 12pm PT wh…Extending my five seconds one last time to talk #Survivor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "Tune into https://t.co/hmZCJ63KW6",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "LIVE tomorrow at 12pm… https://t.co/IQoW5BQnqf\"}",
+        "tones": []
+      }
+    ]
+  }
+}

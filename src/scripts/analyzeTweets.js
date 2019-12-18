@@ -2,6 +2,8 @@
 const ToneAnalyzerV3 = require('ibm-watson/tone-analyzer/v3');
 const { IamAuthenticator } = require('ibm-watson/auth');
 const s39Text = require('./tweetToString.js');
+const fs = require('fs');
+
 
 
 const toneAnalyzer = new ToneAnalyzerV3({
@@ -41,7 +43,7 @@ function Analyze39(tweetArray) {
         };
         toneAnalyzer.tone(toneParams)
             .then(toneAnalysis => {
-                fs.writeFile(`./src/toneData/s39e${i}Tone.json`, (JSON.stringify(toneAnalysis, null, 2)), (err) => {
+                fs.writeFile(`./src/toneData/s39/s39e${i}Tone.json`, (JSON.stringify(toneAnalysis, null, 2)), (err) => {
                     if (err) throw err;
                 });
             })

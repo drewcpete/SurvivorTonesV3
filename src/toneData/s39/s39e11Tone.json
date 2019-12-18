@@ -1,0 +1,934 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "17481",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "95e36acfdb766a7e8af49bbbf21c7cdd",
+    "x-dp-watson-tran-id": "95e36acfdb766a7e8af49bbbf21c7cdd",
+    "x-edgeconnect-midmile-rtt": "53",
+    "x-edgeconnect-origin-mex-latency": "1431",
+    "date": "Wed, 18 Dec 2019 17:31:54 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.571167,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.564315,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.513389,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"Rob said it best!",
+        "tones": [
+          {
+            "score": 0.559141,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "“All this talk to vote out Karishma” that don’t make no sense!",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Noura should have gone home🙄… https://t.co/PefM6Jhu1qRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "@venusxedus: Does anybody else get really frustrated at how great of a chance Tommy has at winning if he’s in the final 3? Despite the f…Wow.",
+        "tones": [
+          {
+            "score": 0.773514,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.698904,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Dean is a real POS.",
+        "tones": [
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "#survivorislandoftheidols #survivor39The arrogance Tommy shows every time he's potentially a target is gross.",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Yet these players are about to bend over b… https://t.co/L9loW4gQsvDean is implementing the goat strategy.",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "He's set up pretty well to be \\\"dragged\\\" to FTC. ",
+        "tones": [
+          {
+            "score": 0.864115,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "#Survivor39 #Survivor #SurvivorPRP@DaltonRoss I'm pretty sure they're not allowed to whisper w/o microphones on the beach - because that makes for su… https://t.co/FmgKmw26XuDisappointing... Karishma was the only person who could save this shitbag of an endgame.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Main takeaways:",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "1) Dean… https://t.co/6UaTFV5WovYES",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "KELLEE CALLING OUT THESE IDIOT MOVES.",
+        "tones": [
+          {
+            "score": 0.870371,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "IF DEAN MAKES FINAL 3 I HOPE THEY DRAG HIM TO THE END OF THE EARTH #Survivor39Bout to head to the 🏝️... #Survivor #SurvivorIslandOfTheIdols #Survivor39RT @powerofcheeto1: Elaine here 😭❤️",
+        "tones": [
+          {
+            "score": 0.591469,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "#Survivor39 #Survivor https://t.co/mMKmeKVLYEI’m",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "actually more on deans side than Nouras.... this tribal was crazy but I’m so mad Karishma went home like words… https://t.co/af5huy9Gka🌴🌴",
+        "tones": [
+          {
+            "score": 0.678157,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "#Survivor #SurvivorIslandOfTheIdols #Survivor39 🌴🌴Dean just screwed over Noura #Survivor39 #WorstSeasonEver#Survivor #SurvivorIslandOfTheIdols #Survivor39Wtf?! Im stuck at camp with you losers #Survivor #Survivor39 #SurvivorPRP https://t.co/Bpnkvy5O3bE",
+        "tones": []
+      },
+      {
+        "sentence_id": 20,
+        "text": "mais uma vez o social do Tommy saudando ele",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Esse homem é muito respeitado pelos que estão no jogo, meu pai",
+        "tones": []
+      },
+      {
+        "sentence_id": 22,
+        "text": "#Survivor39 #SurvivorNoura é uma bomba relógio e infelizmente ela explodiu na Karishma",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "#Survivor39 #SurvivorTriste que a Karishma saiu :(",
+        "tones": [
+          {
+            "score": 0.811237,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "A fic do F3 com a Noura, Karishma e Dean foi por água abaixo KKKKKKK",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "#Survivor39 #SurvivorDean is a loser I hate this guy #Survivor39Noura got caught!",
+        "tones": [
+          {
+            "score": 0.592845,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "Send her home!",
+        "tones": []
+      },
+      {
+        "sentence_id": 27,
+        "text": "#Survivor #Survivor39@survivorcbs holy hell that tribal was like a cabinet battle #survivor39You two are the closest roommates I've ever met #Survivor #Survivor39 #SurvivorPRP https://t.co/Kg0pZP2pOUDean",
+        "tones": [
+          {
+            "score": 0.536369,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "you SUCK SO BAD #Survivor39Does anyone else think the contestants last minute strategizing with each other should be at a minimum at tribal? #Survivor39Karishma tapping into the sane audience members opinions on herself #Survivor #Survivor39 #SurvivorPRP https://t.co/vLDiXZ4GPWDan",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "(Harvey Weinstein Jr) really has some nerve talking about a motley crew of misfits.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.845297,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "#Survivor #Survivor39Are we not going to mention Janets bloody foot?",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "Like I’m assuming she’s okay but can they make sure it’s not infected?",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "#Survivor39RT @IvyLouLou: #Survivor Rob said it.",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "All of that just to vote out Karishma.",
+        "tones": []
+      },
+      {
+        "sentence_id": 34,
+        "text": "#Survivor39 https://t.co/8lIegvt6ciSeeing",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "@SandraDTwine and @BostonRob watch tribal makes me wonder how bad either of them would crush these terrible… https://t.co/8WjtSUPGdDCan't",
+        "tones": [
+          {
+            "score": 0.611963,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "stop looking at pretty Dean #Survivor #Survivor39 #SurvivorPRP https://t.co/hKuucgHseJRT",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "@ZIMZBIMJ0Y: #ImpeachmentHearing #SpotifyWrapped #cthsfb #Survivor39 #LIVEVE #bitcoin #MalikRiazSettlementStory #BarronTrump #BTSatMAMA…RT @JasonBrasier: Be sure to check out my new #experimental #shortfilm at this link  https://t.co/UaSmlFAVJX",
+        "tones": [
+          {
+            "score": 0.572822,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.560944,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "#ImpeachmentHearing",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "#Survivor3…This should not be allowed at #tribalcouncil #Survivor39 #survivor #islandoftheidolsNot Dean being a snake!",
+        "tones": [
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "#survivor #survivor39 https://t.co/CO9UaD3F3XRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "@SurvivorQuotesX: Petition to start a reality show of Noura just doing Noura things.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "#Survivor39I'm still trying to understand why happened at tonight's tribal.",
+        "tones": [
+          {
+            "score": 0.527462,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "Noura is crazy but I love it!",
+        "tones": [
+          {
+            "score": 0.87629,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "#Survivor39 #SurvivorWHAT THE HELL IS DEAN DOING?! #Survivor39RT @dingdonglouie: which social problem will tonight’s episode talk about?? I’m thinking gun violence... #Survivor #Survivor39Im the Karishma except Im fucking pleasant to be around.",
+        "tones": [
+          {
+            "score": 0.782859,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "Phenomenal social game #Survivor #Survivor39 #SurvivorPRP https://t.co/XNMfQuh6jZDan",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "é MUITO nojento, esse cara me da ânsia",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "#Survivor39 #SurvivorKARISHMA ELIMINADA???",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "PORRA??? QUE MERDA FOI ESSA???",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "#Survivor39 #SurvivorAs a parent I would never call my peers “losers” in front on my son.",
+        "tones": [
+          {
+            "score": 0.635778,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "Completely disgusting and uncalled for, Dan.… https://t.co/cSY6G4sUqrOs",
+        "tones": [
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "comentários do Rob sobre a Noura foram sensatos demais KKKK",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "#Survivor39 #SurvivorRT @TheRealChrissyH: Given events to date &amp; limited exit press, I'm honestly kinda MEH on the rest of the season.",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "But I seriously CANNOT WA…RT @Blake_Finch: Wow... Dean blew his only opportunity to make a case for himself.",
+        "tones": [
+          {
+            "score": 0.578806,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "Sucking up to the guy who is clearly calling the shots i…#Survivor39 was disappointing.",
+        "tones": [
+          {
+            "score": 0.606726,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.727798,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "They should have voted out Noura.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "Dean disappoints too.",
+        "tones": [
+          {
+            "score": 0.82759,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "He is a little snake.",
+        "tones": [
+          {
+            "score": 0.619238,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "He ble… https://t.co/T1NAkQuJjiRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "@tylerjsy13: This tribal is the most crackheaded shit I have ever seen... #Survivor39RT @huddy_duddy: Someone please photo shop Noura's face onto this meme #Survivor39 @survivorcbs https://t.co/2DhkusFFxuDean",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "está TÃO queimado com o jury ",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "Será lindo se ele chegar ao F3 KKKK",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "#Survivor39 #SurvivorRT @tipsy_realityTV: I love Noura's rant..\\\"I'm like the Karishma of the group, but I'm actually enjoyable to be around\\\" #Survivor #Survivor…Is it possible for Dean to open his eyes all the way?",
+        "tones": [
+          {
+            "score": 0.598165,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "#Survivor39 #SurvivorWhy did Noura do this!",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "Why is she second guessing everything..... I’m actually so upset!",
+        "tones": [
+          {
+            "score": 0.538881,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "#JusticeForKarishma… https://t.co/zcAiLQwAILRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "@CherelleRead: Me and the jury right now... #Survivor39 https://t.co/7AsHRnwAyWNão",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "acredito que a Noura se eliminou",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "Inacreditável KKKKKKK",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "#Survivor39 #SurvivorRT @tipsy_realityTV: LIVE TRIBAL ALERT! \\\"...and Elaine has an idol!\\\" Noura is the gift that keeps on giving",
+        "tones": [
+          {
+            "score": 0.593718,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "#Survivor #Survivor39 https://t…RT @venusxedus: Does anybody else get really frustrated at how great of a chance Tommy has at winning if he’s in the final 3? Despite the f…Because Barbie wanted it more!",
+        "tones": [
+          {
+            "score": 0.51642,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.571567,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "#survivor39 #survivor https://t.co/E7k1fYRMYAThank",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "you- FINALLY!!! #Survivor39I'm not one to use this word in a serious tone but all this f*ckery for a cracker.",
+        "tones": [
+          {
+            "score": 0.618125,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "Mark Burnett tell us you hate po… https://t.co/scJoDejIM0RT",
+        "tones": [
+          {
+            "score": 0.670098,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "@nouraknowsbest1: Given the choice between food 🥞 🍳 🍊🥂 and family 👨‍👩‍👧‍👦❤️ I fought for 💪🏽 and secured 🏆 my family.",
+        "tones": [
+          {
+            "score": 0.716256,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "So bring out the ti…I like Tommy, but what has he done to be so many people’s favorite to win? Hasn’t found an idol, hasn’t won immunit… https://t.co/GEFFrN8E0WEu",
+        "tones": [
+          {
+            "score": 0.772756,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "amo a loucura da Noura, mas ela simplesmente não tem limites KKKKKKKKKKKKKKK",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "Eu amo como jogadores como ela pode… https://t.co/uMcGVTKEc5Be",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "sure to check out my new #experimental #shortfilm at this link  https://t.co/UaSmlFAVJX",
+        "tones": [
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "#ImpeachmentHearing…",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "https://t.co/t2IYflXwfg@DaltonRoss",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "How would banning private communication be realistically enforceable?",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "#Survivor #Survivor39Kind of a retarded episode not gonna lie #Survivor39RT @ChivonneRemeika: Who is Dean to call Noura and Karishma the goat army.",
+        "tones": []
+      },
+      {
+        "sentence_id": 83,
+        "text": "They've both done way more than him.",
+        "tones": [
+          {
+            "score": 0.515402,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "Noura's got 2 immunity wi…Loren during this weeks challenge #survivor #Survivor39 https://t.co/b3eorbN0isAmem",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "ou odeiem, mas Game Changers deixou o seu legado: fazer com que as pessoas surtem livremente no meio de um tri… https://t.co/lbIV3xA9k4Ugh,",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "Lauren is so cringey 🙄 #Survivor #Survivor39RT @SaraLiz92: Noura figuring out what to do at tribal tonight #Survivor39 #Survivor #survivorislandoftheidols https://t.co/x3ONMhTkxK#ImpeachmentHearing",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "#Survivor39 #bitcoin #LIVEVE bts kpop taekook au jikook nsfw lesbian boobs girls kissing donald… https://t.co/BL9qCM6ZJCRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "@JjShawnStan1: I wonder how @TommySheehan22 feels about being the most boring survivor player of all time and how @dkchillin feels about…Dan celebrating when Karishma was voted out, proves what a low class loser he really is...like the other things wer… https://t.co/mfoV3pSkV3I’m",
+        "tones": [
+          {
+            "score": 0.619762,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.577798,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "hopping Tommy or Lauren goes home this week!",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "#Survivor39 #survivor https://t.co/KvDLDqpWZiRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "@SurvivorQuotesX: Petition to start a reality show of Noura just doing Noura things.",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "#Survivor39RT @SaraLiz92: Noura figuring out what to do at tribal tonight #Survivor39 #Survivor #survivorislandoftheidols https://t.co/x3ONMhTkxKThis",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "season should just be considered a wash at this point  #Survivor39I love how the list of “the most noura things noura has done” just keeps getting longer and longer ",
+        "tones": [
+          {
+            "score": 0.573306,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.793846,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.794075,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "#Survivor39… https://t.co/5xVlkLIkkORT",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "@BBcangirl: Janet for the win #survivor39RT @ReeCeMonique85: Sandra &amp; Rob should@get@the million dollars this season bc their time has been completely wasted.",
+        "tones": [
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "Nobody is utilizing t…When Noura says “I’m like the Karishma but likeable” #Survivor39 #survivor #survivorislandoftheidols https://t.co/DjWakSfJImRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "@luanzitcho: A Tommy win at this point would be excruciatingly boring.",
+        "tones": [
+          {
+            "score": 0.660897,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "Please stop it.",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "#Survivor #Survivor39Looking so forward to #Survivor40 after this piss poor season.",
+        "tones": [
+          {
+            "score": 0.553736,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "Why give us an edit of POC and women being strong an… https://t.co/gwdvtzLu6RA",
+        "tones": [
+          {
+            "score": 0.705417,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "loucura da Noura vai levar ela direto pro jury ",
+        "tones": []
+      },
+      {
+        "sentence_id": 103,
+        "text": "Meu pai...",
+        "tones": []
+      },
+      {
+        "sentence_id": 104,
+        "text": "#Survivor39 #SurvivorSad to see @QtKarishma go tonight.",
+        "tones": []
+      }
+    ]
+  }
+}

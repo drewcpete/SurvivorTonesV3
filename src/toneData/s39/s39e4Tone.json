@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "1114",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "23506014deaeaee29dce60673fb772eb",
+    "x-dp-watson-tran-id": "23506014deaeaee29dce60673fb772eb",
+    "x-edgeconnect-midmile-rtt": "60",
+    "x-edgeconnect-origin-mex-latency": "317",
+    "date": "Wed, 18 Dec 2019 17:31:53 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.851834,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"RT @monstersandcrit: With someone returning from #Survivor David vs Goliath, there looks to be a huge twist coming on @survivorcbs very soo…With someone returning from #Survivor David vs Goliath, there looks to be a huge twist coming on @survivorcbs very… https://t.co/tem8PViKAWRT",
+        "tones": [
+          {
+            "score": 0.549268,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "@cufrisbee: I keep thinking it's Wednesday.",
+        "tones": [
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "Then I realize it's just Tuesday and I have another whole day before I get to watch #survivo…RT @Mr_GuyWise: @jessicalewis89 It seems like anyone that goes to the island gets voted out.",
+        "tones": [
+          {
+            "score": 0.559998,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.842033,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Yeah this new spin isn’t backfiring on CBS 🙄😂…\"}",
+        "tones": []
+      }
+    ]
+  }
+}

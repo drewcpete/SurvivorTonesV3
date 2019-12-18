@@ -1,0 +1,1046 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "18374",
+    "x-powered-by": "Servlet/3.1",
+    "access-control-allow-origin": "*",
+    "x-service-api-version": "null; 2017-09-21",
+    "x-service-build-number": "2019-12-16T06:04:31",
+    "cache-control": "no-store",
+    "pragma": "no-cache",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'",
+    "content-language": "en-US",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-global-transaction-id": "f9add6511115336859ef42ac50cb73dd",
+    "x-dp-watson-tran-id": "f9add6511115336859ef42ac50cb73dd",
+    "x-edgeconnect-midmile-rtt": "60",
+    "x-edgeconnect-origin-mex-latency": "1426",
+    "date": "Wed, 18 Dec 2019 17:31:54 GMT",
+    "connection": "close"
+  },
+  "result": {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.544654,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.611688,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "{\"text\":\"I’m thankful for the #Survivor39 cast realizing you take shots at comp beasts when you have the chance.",
+        "tones": [
+          {
+            "score": 0.680956,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "Looking at you #BB21RT @malia___3: What Missy and Elizabeth did are the reason why REAL victims aren't believed.",
+        "tones": [
+          {
+            "score": 0.50724,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "That was so wrong to use a very serious accusa…Karishmas Karma 😍 #Survivor39 https://t.co/2BYQFPuHnVRT",
+        "tones": [
+          {
+            "score": 0.774013,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.882442,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "@pig02: In a world of full of people like Dan, Aaron, and Elizabeth... be a Janet, Jamal, or Kellee.",
+        "tones": [
+          {
+            "score": 0.727988,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "#Survivor #Survivor39What a stupid show.",
+        "tones": [
+          {
+            "score": 0.527665,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "Way to take a serious accusation and turn it into a game.",
+        "tones": [
+          {
+            "score": 0.543112,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Fuck #Survivor39RT @BriceIzyah: They didn’t care when she cut her hand but now they wanna call the doctor 😂 #Survivor  #Survivor39RT @pig02: In a world of full of people like Dan, Aaron, and Elizabeth... be a Janet, Jamal, or Kellee.",
+        "tones": [
+          {
+            "score": 0.529142,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "#Survivor #Survivor39RT @naomixheartss: Missy is gone!",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "I kinda wanted tommy gone but I’m ok with it!",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "#Survivor39 #SurvivorBye Missy!",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "Karma got its kiss!",
+        "tones": [
+          {
+            "score": 0.695581,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "#Survivor39Missy is gone!",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "I kinda wanted tommy gone but I’m ok with it!",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 13,
+        "text": "#Survivor39 #SurvivorHoly.",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Karishma absolutely won this episode.",
+        "tones": [
+          {
+            "score": 0.674546,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.986078,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "Pocketed an idol, two threats eliminated, her bully exposed.",
+        "tones": [
+          {
+            "score": 0.520383,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "I'm so pro… https://t.co/lWJWFVXBisBye",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Missy—-an absolutely PERFECT show and boots after last week’s shit show  #Survivor39 #SurvivorI’m not a fan of Missy but I love that she spoke up at Tribal Council #Survivor39 #SurvivorElaine is going to win #SurvivorIslandoftheIdols ",
+        "tones": [
+          {
+            "score": 0.704809,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.741964,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "#Survivor39 @CBSAnd I do like the fact that the two people who were expected to leave did not leave.",
+        "tones": [
+          {
+            "score": 0.828638,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "=) That makes things more inte… https://t.co/VkJFU83eSlAaron",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "going home!!!!!!!!Yassssssssssss!!!!! It’s what he deserved!",
+        "tones": [
+          {
+            "score": 0.564134,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "#Survivor39 #Survivor https://t.co/bnHzTOHfR8Bye",
+        "tones": []
+      },
+      {
+        "sentence_id": 23,
+        "text": "Aaron 😂😂 #Survivor39 #Survivor Queen Janet lives to see another day.Hell yes! #Survivor39I’m just glad this week i can follow the logic behind the votes it was pretty ABC and for once im ok with it #survivor39 #SurvivorJanet stayed yasss!",
+        "tones": [
+          {
+            "score": 0.722798,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "Bye Aaron #Survivor39Missy came at tribal all wrong she continued to emphasize the beef she and karishma had instead of the bonding mome… https://t.co/v3TSKpfP5yKarishma",
+        "tones": [
+          {
+            "score": 0.560944,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.523822,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "made the right decision, tho, Missy ain't give a damn about ha.",
+        "tones": []
+      },
+      {
+        "sentence_id": 26,
+        "text": "She need to find a crew to roll with, and… https://t.co/l1QF07HA2JBitch,",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "they sent all the Niggas home in a row.",
+        "tones": [
+          {
+            "score": 0.874372,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "3 in a damn row grrrrrr.",
+        "tones": [
+          {
+            "score": 0.763848,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 29,
+        "text": "#Survivor39RT @kellee_kim: This is why it was so difficult to stand up, because even when you do and there is video evidence, your words are still \\\"cl…You gotta kill Elaine.",
+        "tones": [
+          {
+            "score": 0.561427,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "Slowly and methodically.\\\"",
+        "tones": [
+          {
+            "score": 0.808303,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Lol Missy is a trip!",
+        "tones": [
+          {
+            "score": 0.776168,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "#Survivor39Very sad to see Missy go.",
+        "tones": [
+          {
+            "score": 0.885065,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "She was my favorite and winner pick, but was simply too powerful for her own good 😭 @themissybyrd #Survivor39The best part of tribal council is @SandraDTwine &amp; @BostonRob they are so funny!",
+        "tones": [
+          {
+            "score": 0.770189,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "#Survivor #survivor39 https://t.co/T6Lz4noidOHope",
+        "tones": []
+      },
+      {
+        "sentence_id": 35,
+        "text": "we get sime karma tonight #Survivor39 #SurvivorKarishma was quite entertaining tonight.",
+        "tones": [
+          {
+            "score": 0.655755,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "I am one to admit that I didn’t see her making it this far.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "#Survivor39 #SurvivorIslandoftheIdolsYou love to see it 😂😂 #Survivor39 https://t.co/QC9ftdajQrOh",
+        "tones": [
+          {
+            "score": 0.574136,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "no I hope Janet survives!",
+        "tones": [
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "#Survivor #Survivor39Karishma playing her idol seems Lowkey dumb she shouldn’t do it!",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "But for sure I think tommy or missy leaving is great.",
+        "tones": [
+          {
+            "score": 0.61078,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "#Survivor #Survivor39AARON AND MISSY GONE.",
+        "tones": []
+      },
+      {
+        "sentence_id": 42,
+        "text": "THANK YOU #survivor39RT @BriceIzyah: They didn’t care when she cut her hand but now they wanna call the doctor 😂 #Survivor  #Survivor39Missy is a cocky little bitch.",
+        "tones": [
+          {
+            "score": 0.627736,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "BYE I won’t miss you #Survivor39RT @powerofcheeto1: Missy voted off Survivor .. one of the longest exits I seen .. ❤️",
+        "tones": [
+          {
+            "score": 0.500789,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 45,
+        "text": "#Survivor #Survivor39 https://t.co/lyh3N4a4guRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 46,
+        "text": "@TVBossyPants: Karishma is so cocky now that she found an idol😂",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "I really hate when they drag the weakest to the end.",
+        "tones": [
+          {
+            "score": 0.72546,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 48,
+        "text": "Can Karishma PLEASE…RT @BriceIzyah: They didn’t care when she cut her hand but now they wanna call the doctor 😂 #Survivor  #Survivor39RT @robcesternino: I finally got the chance to talk with the great @JamManK9 about his perspective on the past week of #Survivor controvers…RT @BriceIzyah: They didn’t care when she cut her hand but now they wanna call the doctor 😂 #Survivor  #Survivor39RT @chappiejen: OH MISSY DONT PULL THE MINORITIES NEVER MAKE IT TO THE END.",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "YOU LITERALLY VOTED OFF JAMAL AND KELLEE.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 50,
+        "text": "BOTH MINORITIES.",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "ONE…Elaine is gonna win this game isn’t she? #Survivor39Karishma did what she had to do!!! Lmao she said Missy stfu! #Survivor #Survivor39 https://t.co/6WuZEdfXlfKarishma",
+        "tones": [
+          {
+            "score": 0.583101,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "so proud of her standing up to Missy  #Survivor39 #SurvivorLmao Karishma not giving Missy the time of day is hilarious 😂 #Survivor39Missy needs to go home period!",
+        "tones": [
+          {
+            "score": 0.718965,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "#Survivor #survivor39 https://t.co/7f94JPLBj4F**ck",
+        "tones": []
+      },
+      {
+        "sentence_id": 54,
+        "text": "you Dean #Survivor39Dean ruins everything!!! #Survivor39Aaron possibly going home?",
+        "tones": [
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 55,
+        "text": "I’m ready!",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "#Survivor #Survivor39#Survivor39 weird how no one hardly as photos of the show for tonight like they usually do.RT @JaredJacoby2: Just a casual reminder that Karishma is now in the final 9 with an idol in her pocket after being outed as the weakest pe…Elaine won something 😂😂😂I’m shocked #Survivor #Survivor39Queen Noura wins immunity!",
+        "tones": [
+          {
+            "score": 0.508514,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "Everyone thought she would be a pre merge boot but I knew she was gonna last awhile.",
+        "tones": []
+      },
+      {
+        "sentence_id": 58,
+        "text": "#Survivor39Too bad so sad Missy 😂😂👏👏 #Survivor39 #SurvivorBeing an Australian and using twitter on Thursday is more dangerous than Russian Roulette #Survivor39The purple team is dropping like flies!",
+        "tones": [
+          {
+            "score": 0.511503,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "#Survivor #Survivor39 https://t.co/Cmq2DMJC9aOH",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "MISSY DONT PULL THE MINORITIES NEVER MAKE IT TO THE END.",
+        "tones": [
+          {
+            "score": 0.579436,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "YOU LITERALLY VOTED OFF JAMAL AND KELLEE.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "BOTH MINORITI… https://t.co/aE73UqKICTCan",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "we talk about how freakin’ beautiful Karishma is?! #Survivor39  #islandoftheidols @QtKarishmaI hope that Karishma blindsides someone on her mini tribe and uses her idol 😈 #Survivor39Missy disgusts me.",
+        "tones": [
+          {
+            "score": 0.582799,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.794075,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "#survivor39@kellee_kim @survivorcbs Their intervention had negative effect on kellee's game, if she was informed that they wer… https://t.co/2nWWC8RkD5RT",
+        "tones": [
+          {
+            "score": 0.93534,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "@JaredJacoby2: Just a casual reminder that Karishma is now in the final 9 with an idol in her pocket after being outed as the weakest pe…Queen of feigning illness and lack of awareness of the game 😍 Don't underestimate her! #Karishma #Survivor #Survivor39RT @survivor_new: #Survivor night!!!! What will happen👀 What will be the after shocks of last weeks episode?!?! 2 people go home this week!…@kellee_kim",
+        "tones": [
+          {
+            "score": 0.729709,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 66,
+        "text": "@survivorcbs After reading kellee's interview I don't feel the same anymore I still appreciate… https://t.co/ksj1IGjahzKarishma is an actress and I’m here for it!",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "#Survivor39 https://t.co/OwRFZayru7Karishma",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "finding an idol!",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 69,
+        "text": "Yasss she about to play all of these haters!",
+        "tones": [
+          {
+            "score": 0.513408,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "#Survivor39 #Survivor https://t.co/24Vo1tK4QuGood",
+        "tones": []
+      },
+      {
+        "sentence_id": 71,
+        "text": "for you Karishma #Survivor #Survivor39Just now watching the episode.",
+        "tones": []
+      },
+      {
+        "sentence_id": 72,
+        "text": "Karishma pretending to be sick is iconic foolery lol.",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "#Survivor39Karishma got an idol YAS girl #Survivor39Anybody but Liz, Missy or Lauren for the win.",
+        "tones": [
+          {
+            "score": 0.5208,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "Might be the most unlikeable group of women to ever play this game  #Suvivor #Survivor39Noura needs to stfu and leave my Girl Karishma alone!",
+        "tones": [
+          {
+            "score": 0.838945,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "#Survivor #Survivor39@themissybyrd YOU R A BITCH! Ur analogy of being voted off comparing it 2 a brain tumor Well lil girl I am a REAL s… https://t.co/UhcOATeTQ9It’s",
+        "tones": []
+      },
+      {
+        "sentence_id": 76,
+        "text": "raining on these survivors because they did Jamal and Kelly dirty last episode!",
+        "tones": [
+          {
+            "score": 0.506059,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 77,
+        "text": "#Survivor39 #Survivor https://t.co/qkUySvTCqw#Survivor",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "#survivor39",
+        "tones": []
+      },
+      {
+        "sentence_id": 79,
+        "text": "#SurvivorSeries",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "Wait what, Boston Rob &amp; Sandra love on the #survivorislandoftheidols I thoug… https://t.co/yCrBZbEFQakarishma",
+        "tones": [
+          {
+            "score": 0.754987,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "just blindsided everyone who underestimated her with her strategic powerful mind.",
+        "tones": [
+          {
+            "score": 0.653579,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "like, hello?",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "iconic.…",
+        "tones": []
+      },
+      {
+        "sentence_id": 85,
+        "text": "https://t.co/URmNUlbqbN@survivorcbs",
+        "tones": []
+      },
+      {
+        "sentence_id": 86,
+        "text": "started  #Survivor39 #survivor https://t.co/snVHMwUNKtRT",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "@powerofcheeto1: Karishma finds an Idol.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "Karishma:",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "I don't underestimate me.",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "#Survivor #Survivor39 https://t.co/XRlfqwqxBdHahahahaha",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "that was so amazing to watch @themissybyrd @ACM_Fitness justice was too sweet.",
+        "tones": [
+          {
+            "score": 0.970376,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "#Dumbass #Moron #Survivor39RT @BriceIzyah: They didn’t care when she cut her hand but now they wanna call the doctor 😂 #Survivor  #Survivor39Deuces Missy! ✌🏻Curious to see if Elizabeth can have any original thoughts and step up her game, hopefully she’ll b… https://t.co/SOdBqRe8LWnoura",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "not realizing she could still win pbnj IM DEADDD #Survivor39#survivor #survivor39",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "- missy whispering to elizabeth to kill elaine slowly and methodically lmao 😂",
+        "tones": [
+          {
+            "score": 0.714388,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 98,
+        "text": "- favs rn: kari… https://t.co/UODv4UZt1n@Survivor_Reddit",
+        "tones": []
+      },
+      {
+        "sentence_id": 99,
+        "text": "Nicely noted!",
+        "tones": []
+      },
+      {
+        "sentence_id": 100,
+        "text": "Also, Dan is sleeping alone in a small hut and it looks like the other guys and the… https://t.co/NvUyhv39gXI",
+        "tones": [
+          {
+            "score": 0.547961,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 101,
+        "text": "need Kellee back huhu, they are all trash except for Janet.",
+        "tones": [
+          {
+            "score": 0.547727,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.825035,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 102,
+        "text": "#survivor39@SurvivorSpclsts TWO HUGS &amp; A KISS!! (1st time!) #Survivor39#survivor #survivor39",
+        "tones": [
+          {
+            "score": 0.723211,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 103,
+        "text": "- i'm hoping everyone is taking karishma to the end and then she pulls out an unexpected unde… https://t.co/DpM66z9qGV@survivorcbs",
+        "tones": [
+          {
+            "score": 0.58171,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.825947,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 104,
+        "text": "Well, that is a great start to saving the show...",
+        "tones": [
+          {
+            "score": 0.763091,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 105,
+        "text": "I liked Missy, but she was playing harmfully too har… https://t.co/CrO1GwF3upRT",
+        "tones": [
+          {
+            "score": 0.549501,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      }
+    ]
+  }
+}
