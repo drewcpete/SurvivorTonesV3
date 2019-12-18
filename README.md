@@ -1,5 +1,5 @@
 ## Project Description
 
-![flow chart](src/assets/img/CapFlowChart.png)
+![flow chart](src/img/CapFlowChart.png)
 
-![layout](./src/assets/img/CapLayout.jpg)
+![layout](./src/img/CapLayout.jpg)
