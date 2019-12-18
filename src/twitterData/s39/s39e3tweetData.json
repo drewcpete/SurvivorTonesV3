@@ -1,0 +1,2125 @@
+{
+    "results": [
+        {
+            "created_at": "Wed Oct 09 03:28:39 +0000 2019",
+            "id": 1181773441277542403,
+            "id_str": "1181773441277542403",
+            "text": "I am who I am. You see who you see. Life goes on!!!!!!! #Survivor #teamkarishma #firstindiansurvivor… https://t.co/CjB52IQIRT",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 54313095,
+                "id_str": "54313095",
+                "name": "Karishma Patel",
+                "screen_name": "QtKarishma",
+                "location": "Houston, TX",
+                "url": "http://www.instagram.com/qtkarishma",
+                "description": "Survivor S39 Castaway 🗿🏝️🦀🦎.\nI believe in the KISS method: keep it simple, stupid. \nI'm Indian-American.  In a tribe called DG Squad.  Go Eagles 💚",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 5626,
+                "friends_count": 442,
+                "listed_count": 79,
+                "favourites_count": 792,
+                "statuses_count": 699,
+                "created_at": "Mon Jul 06 19:55:58 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1179817621111353344/mcsuSi-U_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179817621111353344/mcsuSi-U_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/54313095/1570142743",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "I am who I am. You see who you see. Life goes on!!!!!!! #Survivor #teamkarishma #firstindiansurvivor #SurvivorSeason39 #islandoftheidols #ioi #survivorkween #survivor39 #desigirlpower #browngirlpower #unapologeticallyme @survivorcbs https://t.co/EVll74gVse",
+                "display_text_range": [
+                    0,
+                    232
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Survivor",
+                            "indices": [
+                                56,
+                                65
+                            ]
+                        },
+                        {
+                            "text": "teamkarishma",
+                            "indices": [
+                                66,
+                                79
+                            ]
+                        },
+                        {
+                            "text": "firstindiansurvivor",
+                            "indices": [
+                                80,
+                                100
+                            ]
+                        },
+                        {
+                            "text": "SurvivorSeason39",
+                            "indices": [
+                                101,
+                                118
+                            ]
+                        },
+                        {
+                            "text": "islandoftheidols",
+                            "indices": [
+                                119,
+                                136
+                            ]
+                        },
+                        {
+                            "text": "ioi",
+                            "indices": [
+                                137,
+                                141
+                            ]
+                        },
+                        {
+                            "text": "survivorkween",
+                            "indices": [
+                                142,
+                                156
+                            ]
+                        },
+                        {
+                            "text": "survivor39",
+                            "indices": [
+                                157,
+                                168
+                            ]
+                        },
+                        {
+                            "text": "desigirlpower",
+                            "indices": [
+                                169,
+                                183
+                            ]
+                        },
+                        {
+                            "text": "browngirlpower",
+                            "indices": [
+                                184,
+                                199
+                            ]
+                        },
+                        {
+                            "text": "unapologeticallyme",
+                            "indices": [
+                                200,
+                                219
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "survivorcbs",
+                            "name": "SURVIVOR",
+                            "id": 69151690,
+                            "id_str": "69151690",
+                            "indices": [
+                                220,
+                                232
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1181773429848055809,
+                            "id_str": "1181773429848055809",
+                            "indices": [
+                                233,
+                                256
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGaArFMWoAE5dgM.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGaArFMWoAE5dgM.jpg",
+                            "url": "https://t.co/EVll74gVse",
+                            "display_url": "pic.twitter.com/EVll74gVse",
+                            "expanded_url": "https://twitter.com/QtKarishma/status/1181773441277542403/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1181773429848055809,
+                            "id_str": "1181773429848055809",
+                            "indices": [
+                                233,
+                                256
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGaArFMWoAE5dgM.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGaArFMWoAE5dgM.jpg",
+                            "url": "https://t.co/EVll74gVse",
+                            "display_url": "pic.twitter.com/EVll74gVse",
+                            "expanded_url": "https://twitter.com/QtKarishma/status/1181773441277542403/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 7,
+            "retweet_count": 2,
+            "favorite_count": 43,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Survivor",
+                        "indices": [
+                            56,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "teamkarishma",
+                        "indices": [
+                            66,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "firstindiansurvivor",
+                        "indices": [
+                            80,
+                            100
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/CjB52IQIRT",
+                        "expanded_url": "https://twitter.com/i/web/status/1181773441277542403",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            102,
+                            125
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        },
+        {
+            "created_at": "Wed Oct 09 02:29:05 +0000 2019",
+            "id": 1181758451795578881,
+            "id_str": "1181758451795578881",
+            "text": "the women of Lairo tribe coming to make this season one of the greats\n#survivor #survivor39 https://t.co/KS4qVKgKqv",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1098087816121249792,
+                "id_str": "1098087816121249792",
+                "name": "ryan",
+                "screen_name": "jurymanagementt",
+                "location": "Dallas, TX",
+                "url": null,
+                "description": "cheeseburger and shower! | he/him | [ FAN ACCOUNT ]",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 656,
+                "friends_count": 418,
+                "listed_count": 7,
+                "favourites_count": 19968,
+                "statuses_count": 5717,
+                "created_at": "Wed Feb 20 05:11:51 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1202422334205972485/jezrwBXg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202422334205972485/jezrwBXg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098087816121249792/1575686320",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 17,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "survivor",
+                        "indices": [
+                            70,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "survivor39",
+                        "indices": [
+                            80,
+                            91
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 744703124565172224,
+                        "id_str": "744703124565172224",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/744703124565172224/pu/img/dJoHd5mVfj5tA1HH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/744703124565172224/pu/img/dJoHd5mVfj5tA1HH.jpg",
+                        "url": "https://t.co/KS4qVKgKqv",
+                        "display_url": "pic.twitter.com/KS4qVKgKqv",
+                        "expanded_url": "https://twitter.com/maaare/status/744703163261812736/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 360,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 360,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 360,
+                                "h": 640,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 744703163261812736,
+                        "source_status_id_str": "744703163261812736",
+                        "source_user_id": 34407494,
+                        "source_user_id_str": "34407494"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 744703124565172224,
+                        "id_str": "744703124565172224",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/744703124565172224/pu/img/dJoHd5mVfj5tA1HH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/744703124565172224/pu/img/dJoHd5mVfj5tA1HH.jpg",
+                        "url": "https://t.co/KS4qVKgKqv",
+                        "display_url": "pic.twitter.com/KS4qVKgKqv",
+                        "expanded_url": "https://twitter.com/maaare/status/744703163261812736/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 9909,
+                            "variants": [
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/744703124565172224/pu/vid/180x320/X1o3zLlKlHEeJUTA.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/744703124565172224/pu/vid/360x640/aVEgtC-fhvWPxZoT.mp4"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/744703124565172224/pu/pl/6vy2dFG2tjWTwHbq.m3u8"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 360,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 360,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 360,
+                                "h": 640,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 744703163261812736,
+                        "source_status_id_str": "744703163261812736",
+                        "source_user_id": 34407494,
+                        "source_user_id_str": "34407494"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        },
+        {
+            "created_at": "Wed Oct 09 02:01:16 +0000 2019",
+            "id": 1181751452206845953,
+            "id_str": "1181751452206845953",
+            "text": "RT @JamManK9: 😴😴😴....someone please wake me up when #Survivor is on again. All this talk about me sleeping has me in the mood for a #midday…",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3202572569,
+                "id_str": "3202572569",
+                "name": "Ty",
+                "screen_name": "Dumb_Eat_Trees",
+                "location": "The Gray Area",
+                "url": null,
+                "description": "Here for fun, sarcasm & jokes. Survivor, The Circle & BB fan. #Lakers #Yankees #Cowboys #Habs #UFC",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 280,
+                "friends_count": 263,
+                "listed_count": 9,
+                "favourites_count": 26207,
+                "statuses_count": 20506,
+                "created_at": "Fri Apr 24 23:35:32 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1106358172841721856/nJ4OKd3R_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106358172841721856/nJ4OKd3R_normal.jpg",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 08 15:00:01 +0000 2019",
+                "id": 1181585042465837057,
+                "id_str": "1181585042465837057",
+                "text": "😴😴😴....someone please wake me up when #Survivor is on again. All this talk about me sleeping has me in the mood for… https://t.co/OU5rH4keAs",
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "truncated": true,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 22835746,
+                    "id_str": "22835746",
+                    "name": "Jamal Shipman",
+                    "screen_name": "JamManK9",
+                    "location": "Providence, RI",
+                    "url": "https://www.cbs.com/shows/survivor/",
+                    "description": "Survivor Season 39 Castaway",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 8774,
+                    "friends_count": 92,
+                    "listed_count": 87,
+                    "favourites_count": 438,
+                    "statuses_count": 404,
+                    "created_at": "Wed Mar 04 21:16:58 +0000 2009",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "0099B9",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_link_color": "FAB81E",
+                    "profile_sidebar_border_color": "5ED4DC",
+                    "profile_sidebar_fill_color": "95E8EC",
+                    "profile_text_color": "3C3940",
+                    "profile_use_background_image": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1171223262258454528/-JDqpUS3_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171223262258454528/-JDqpUS3_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/22835746/1568076361",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "😴😴😴....someone please wake me up when #Survivor is on again. All this talk about me sleeping has me in the mood for a #middaynap. 🤪😜 #islandoftheidols #TeamJamal39 #ioi #ioti #Survivor39 @survivorcbs https://t.co/skWGEnWInl",
+                    "display_text_range": [
+                        0,
+                        199
+                    ],
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "Survivor",
+                                "indices": [
+                                    38,
+                                    47
+                                ]
+                            },
+                            {
+                                "text": "middaynap",
+                                "indices": [
+                                    118,
+                                    128
+                                ]
+                            },
+                            {
+                                "text": "islandoftheidols",
+                                "indices": [
+                                    133,
+                                    150
+                                ]
+                            },
+                            {
+                                "text": "TeamJamal39",
+                                "indices": [
+                                    151,
+                                    163
+                                ]
+                            },
+                            {
+                                "text": "ioi",
+                                "indices": [
+                                    164,
+                                    168
+                                ]
+                            },
+                            {
+                                "text": "ioti",
+                                "indices": [
+                                    169,
+                                    174
+                                ]
+                            },
+                            {
+                                "text": "Survivor39",
+                                "indices": [
+                                    175,
+                                    186
+                                ]
+                            }
+                        ],
+                        "urls": [],
+                        "user_mentions": [
+                            {
+                                "screen_name": "survivorcbs",
+                                "name": "SURVIVOR",
+                                "id": 69151690,
+                                "id_str": "69151690",
+                                "indices": [
+                                    187,
+                                    199
+                                ]
+                            }
+                        ],
+                        "symbols": [],
+                        "media": [
+                            {
+                                "id": 1181585039085199364,
+                                "id_str": "1181585039085199364",
+                                "indices": [
+                                    200,
+                                    223
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/EGXVVS6W4AQatjs.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/EGXVVS6W4AQatjs.jpg",
+                                "url": "https://t.co/skWGEnWInl",
+                                "display_url": "pic.twitter.com/skWGEnWInl",
+                                "expanded_url": "https://twitter.com/JamManK9/status/1181585042465837057/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "large": {
+                                        "w": 600,
+                                        "h": 400,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 600,
+                                        "h": 400,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 600,
+                                        "h": 400,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "id": 1181585039085199364,
+                                "id_str": "1181585039085199364",
+                                "indices": [
+                                    200,
+                                    223
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/EGXVVS6W4AQatjs.jpg",
+                                "media_url_https": "https://pbs.twimg.com/media/EGXVVS6W4AQatjs.jpg",
+                                "url": "https://t.co/skWGEnWInl",
+                                "display_url": "pic.twitter.com/skWGEnWInl",
+                                "expanded_url": "https://twitter.com/JamManK9/status/1181585042465837057/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "large": {
+                                        "w": 600,
+                                        "h": 400,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 600,
+                                        "h": 400,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 600,
+                                        "h": 400,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "quote_count": 2,
+                "reply_count": 14,
+                "retweet_count": 6,
+                "favorite_count": 201,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Survivor",
+                            "indices": [
+                                38,
+                                47
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/OU5rH4keAs",
+                            "expanded_url": "https://twitter.com/i/web/status/1181585042465837057",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Survivor",
+                        "indices": [
+                            52,
+                            61
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JamManK9",
+                        "name": "Jamal Shipman",
+                        "id": 22835746,
+                        "id_str": "22835746",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        },
+        {
+            "created_at": "Wed Oct 09 01:27:35 +0000 2019",
+            "id": 1181742974843138048,
+            "id_str": "1181742974843138048",
+            "text": "RT @DJ_Stonedog: @survivorcbs Serious #respect to 59yo lifeguard Janet putting up a fierce challenge against Elizabeth the former Olympic S…",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 705684502681686016,
+                "id_str": "705684502681686016",
+                "name": "#SURVIVOR Rules! PJR ❤🌴🍚 left on an island",
+                "screen_name": "LeoRule4ever",
+                "location": "Michigan, USA",
+                "url": null,
+                "description": "2 time cancer Survivor💪  #Survivor tv show rocks! until you draw one 😜 unless I follow you vice versa your replies are muted✌",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1590,
+                "friends_count": 1512,
+                "listed_count": 58,
+                "favourites_count": 293956,
+                "statuses_count": 168064,
+                "created_at": "Fri Mar 04 09:21:11 +0000 2016",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1204889914355130369/F4d9fA7G_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204889914355130369/F4d9fA7G_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/705684502681686016/1548996147",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 08 18:35:58 +0000 2019",
+                "id": 1181639388502978560,
+                "id_str": "1181639388502978560",
+                "text": "@survivorcbs Serious #respect to 59yo lifeguard Janet putting up a fierce challenge against Elizabeth the former Ol… https://t.co/VZLvkWqKUf",
+                "display_text_range": [
+                    13,
+                    140
+                ],
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "truncated": true,
+                "in_reply_to_status_id": 1181594881963069443,
+                "in_reply_to_status_id_str": "1181594881963069443",
+                "in_reply_to_user_id": 69151690,
+                "in_reply_to_user_id_str": "69151690",
+                "in_reply_to_screen_name": "survivorcbs",
+                "user": {
+                    "id": 25477072,
+                    "id_str": "25477072",
+                    "name": "DJ Stonedog",
+                    "screen_name": "DJ_Stonedog",
+                    "location": "Hong Kong",
+                    "url": "https://www.facebook.com/djstonedog",
+                    "description": "Tweeting pop culture/TV/music/LGBT news. Radio RTHK host of @GaybourhoodHK & resident DJ @FLM_HK https://itun.es/hk/637eS",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 6223,
+                    "friends_count": 2502,
+                    "listed_count": 64,
+                    "favourites_count": 5133,
+                    "statuses_count": 11097,
+                    "created_at": "Fri Mar 20 07:53:39 +0000 2009",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "352726",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_link_color": "4900E6",
+                    "profile_sidebar_border_color": "829D5E",
+                    "profile_sidebar_fill_color": "EE4789",
+                    "profile_text_color": "3E4415",
+                    "profile_use_background_image": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1135220170106925056/BoZGZXdZ_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135220170106925056/BoZGZXdZ_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25477072/1515545942",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "@survivorcbs Serious #respect to 59yo lifeguard Janet putting up a fierce challenge against Elizabeth the former Olympic Swimmer...wow! #Survivor39 #survivorislandoftheidols 🏊 https://t.co/rbxKyshtWS",
+                    "display_text_range": [
+                        13,
+                        199
+                    ],
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "respect",
+                                "indices": [
+                                    21,
+                                    29
+                                ]
+                            },
+                            {
+                                "text": "Survivor39",
+                                "indices": [
+                                    136,
+                                    147
+                                ]
+                            },
+                            {
+                                "text": "survivorislandoftheidols",
+                                "indices": [
+                                    148,
+                                    173
+                                ]
+                            }
+                        ],
+                        "urls": [
+                            {
+                                "url": "https://t.co/rbxKyshtWS",
+                                "expanded_url": "https://parade.com/920232/mikebloom/survivor-island-of-the-idols-janet-carbin/",
+                                "display_url": "parade.com/920232/mikeblo…",
+                                "indices": [
+                                    176,
+                                    199
+                                ]
+                            }
+                        ],
+                        "user_mentions": [
+                            {
+                                "screen_name": "survivorcbs",
+                                "name": "SURVIVOR",
+                                "id": 69151690,
+                                "id_str": "69151690",
+                                "indices": [
+                                    0,
+                                    12
+                                ]
+                            }
+                        ],
+                        "symbols": []
+                    }
+                },
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "favorite_count": 11,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "respect",
+                            "indices": [
+                                21,
+                                29
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/VZLvkWqKUf",
+                            "expanded_url": "https://twitter.com/i/web/status/1181639388502978560",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "survivorcbs",
+                            "name": "SURVIVOR",
+                            "id": 69151690,
+                            "id_str": "69151690",
+                            "indices": [
+                                0,
+                                12
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "respect",
+                        "indices": [
+                            38,
+                            46
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DJ_Stonedog",
+                        "name": "DJ Stonedog",
+                        "id": 25477072,
+                        "id_str": "25477072",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "survivorcbs",
+                        "name": "SURVIVOR",
+                        "id": 69151690,
+                        "id_str": "69151690",
+                        "indices": [
+                            17,
+                            29
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        },
+        {
+            "created_at": "Wed Oct 09 01:15:05 +0000 2019",
+            "id": 1181739827940794369,
+            "id_str": "1181739827940794369",
+            "text": "RT @Angelmamii5: This really happened! I pissed off my best friend at her wedding and she flipped on me haha 🤣 she apologized after haha #R…",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2307748109,
+                "id_str": "2307748109",
+                "name": "bdon",
+                "screen_name": "twinkonthebrink",
+                "location": "bloomington, IN",
+                "url": null,
+                "description": "taurus ☉ leo ☽ scorpio ↥ homo ☿",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 323,
+                "friends_count": 236,
+                "listed_count": 2,
+                "favourites_count": 10084,
+                "statuses_count": 5642,
+                "created_at": "Mon Jan 27 13:41:44 +0000 2014",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1180300113530490880/upXaBmPs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180300113530490880/upXaBmPs_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2307748109/1570240469",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Sep 26 16:19:53 +0000 2019",
+                "id": 1177256488194195456,
+                "id_str": "1177256488194195456",
+                "text": "This really happened! I pissed off my best friend at her wedding and she flipped on me haha 🤣 she apologized after… https://t.co/LlTzMuaWvb",
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": true,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 834149087264010240,
+                    "id_str": "834149087264010240",
+                    "name": "Angel MaMii",
+                    "screen_name": "Angelmamii5",
+                    "location": "New York, USA",
+                    "url": "https://www.youtube.com/channel/UC2B33Lp3Z7FxOhhATGl_GpA",
+                    "description": "Angel MaMii’s Official Page!      MODEL, ACTRESS, MUSICIAN! angel_mamii@yahoo.com ,#angelmamii #deesfam❤️Johndees❤️NYC",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 11672,
+                    "friends_count": 23,
+                    "listed_count": 8,
+                    "favourites_count": 10356,
+                    "statuses_count": 6917,
+                    "created_at": "Tue Feb 21 21:13:34 +0000 2017",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": "",
+                    "profile_background_image_url_https": "",
+                    "profile_background_tile": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1206582679359098880/LngXRuhZ_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206582679359098880/LngXRuhZ_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/834149087264010240/1576506704",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": {
+                    "id": "27485069891a7938",
+                    "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+                    "place_type": "admin",
+                    "name": "New York",
+                    "full_name": "New York, NY",
+                    "country_code": "US",
+                    "country": "United States",
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -74.255641,
+                                    40.495865
+                                ],
+                                [
+                                    -74.255641,
+                                    40.915330
+                                ],
+                                [
+                                    -73.699793,
+                                    40.915330
+                                ],
+                                [
+                                    -73.699793,
+                                    40.495865
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "This really happened! I pissed off my best friend at her wedding and she flipped on me haha 🤣 she apologized after haha #RetweeetPlease #bridezilla #ThursdayMotivation #Survivor39 #weddingfail https://t.co/Yz0XFm09Yh",
+                    "display_text_range": [
+                        0,
+                        192
+                    ],
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "RetweeetPlease",
+                                "indices": [
+                                    120,
+                                    135
+                                ]
+                            },
+                            {
+                                "text": "bridezilla",
+                                "indices": [
+                                    136,
+                                    147
+                                ]
+                            },
+                            {
+                                "text": "ThursdayMotivation",
+                                "indices": [
+                                    148,
+                                    167
+                                ]
+                            },
+                            {
+                                "text": "Survivor39",
+                                "indices": [
+                                    168,
+                                    179
+                                ]
+                            },
+                            {
+                                "text": "weddingfail",
+                                "indices": [
+                                    180,
+                                    192
+                                ]
+                            }
+                        ],
+                        "urls": [],
+                        "user_mentions": [],
+                        "symbols": [],
+                        "media": [
+                            {
+                                "id": 1177256013948497920,
+                                "id_str": "1177256013948497920",
+                                "indices": [
+                                    193,
+                                    216
+                                ],
+                                "additional_media_info": {
+                                    "monetizable": false
+                                },
+                                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177256013948497920/pu/img/cBb6ricGkPk4s7B_.jpg",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177256013948497920/pu/img/cBb6ricGkPk4s7B_.jpg",
+                                "url": "https://t.co/Yz0XFm09Yh",
+                                "display_url": "pic.twitter.com/Yz0XFm09Yh",
+                                "expanded_url": "https://twitter.com/Angelmamii5/status/1177256488194195456/video/1",
+                                "type": "video",
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        9,
+                                        16
+                                    ],
+                                    "duration_millis": 21247,
+                                    "variants": [
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/vid/720x1280/7wxnTeiFFzI2kPUR.mp4?tag=10"
+                                        },
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/pl/SCZ7crmOOmHr8eSt.m3u8?tag=10"
+                                        },
+                                        {
+                                            "bitrate": 632000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/vid/320x568/33sKDwqSi9DrNeiK.mp4?tag=10"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/vid/360x640/H5sj_wlrE0Nb4WVj.mp4?tag=10"
+                                        }
+                                    ]
+                                },
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "small": {
+                                        "w": 383,
+                                        "h": 680,
+                                        "resize": "fit"
+                                    },
+                                    "large": {
+                                        "w": 720,
+                                        "h": 1280,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 675,
+                                        "h": 1200,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "id": 1177256013948497920,
+                                "id_str": "1177256013948497920",
+                                "indices": [
+                                    193,
+                                    216
+                                ],
+                                "additional_media_info": {
+                                    "monetizable": false
+                                },
+                                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177256013948497920/pu/img/cBb6ricGkPk4s7B_.jpg",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177256013948497920/pu/img/cBb6ricGkPk4s7B_.jpg",
+                                "url": "https://t.co/Yz0XFm09Yh",
+                                "display_url": "pic.twitter.com/Yz0XFm09Yh",
+                                "expanded_url": "https://twitter.com/Angelmamii5/status/1177256488194195456/video/1",
+                                "type": "video",
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        9,
+                                        16
+                                    ],
+                                    "duration_millis": 21247,
+                                    "variants": [
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/vid/720x1280/7wxnTeiFFzI2kPUR.mp4?tag=10"
+                                        },
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/pl/SCZ7crmOOmHr8eSt.m3u8?tag=10"
+                                        },
+                                        {
+                                            "bitrate": 632000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/vid/320x568/33sKDwqSi9DrNeiK.mp4?tag=10"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1177256013948497920/pu/vid/360x640/H5sj_wlrE0Nb4WVj.mp4?tag=10"
+                                        }
+                                    ]
+                                },
+                                "sizes": {
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    },
+                                    "small": {
+                                        "w": 383,
+                                        "h": 680,
+                                        "resize": "fit"
+                                    },
+                                    "large": {
+                                        "w": 720,
+                                        "h": 1280,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 675,
+                                        "h": 1200,
+                                        "resize": "fit"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 13,
+                "favorite_count": 31,
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/LlTzMuaWvb",
+                            "expanded_url": "https://twitter.com/i/web/status/1177256488194195456",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Angelmamii5",
+                        "name": "Angel MaMii",
+                        "id": 834149087264010240,
+                        "id_str": "834149087264010240",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        },
+        {
+            "created_at": "Wed Oct 09 01:06:04 +0000 2019",
+            "id": 1181737557618393088,
+            "id_str": "1181737557618393088",
+            "text": "RT @winston_hines: HIDING THE IDOL IN HER HAIR??? I’m impressed #Survivor39",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 700345020,
+                "id_str": "700345020",
+                "name": "MillionDollarSUN",
+                "screen_name": "thesunnnfor103",
+                "location": "CALIFORNIA",
+                "url": null,
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 357,
+                "friends_count": 2203,
+                "listed_count": 2,
+                "favourites_count": 126697,
+                "statuses_count": 53604,
+                "created_at": "Tue Jul 17 04:19:38 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/550493788150321153/SHhl45Eh_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/550493788150321153/SHhl45Eh_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/700345020/1420082983",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Oct 03 00:23:53 +0000 2019",
+                "id": 1179552618298970112,
+                "id_str": "1179552618298970112",
+                "text": "HIDING THE IDOL IN HER HAIR??? I’m impressed #Survivor39",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1020711859433943041,
+                    "id_str": "1020711859433943041",
+                    "name": "Winston Hines",
+                    "screen_name": "winston_hines",
+                    "location": "Kentucky, USA",
+                    "url": "https://www.instagram.com/winstonhines/",
+                    "description": null,
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 49572,
+                    "friends_count": 225,
+                    "listed_count": 231,
+                    "favourites_count": 3072,
+                    "statuses_count": 929,
+                    "created_at": "Sat Jul 21 16:47:25 +0000 2018",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": "",
+                    "profile_background_image_url_https": "",
+                    "profile_background_tile": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1062327804249939968/N_ZER0Hu_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062327804249939968/N_ZER0Hu_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020711859433943041/1556120149",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "quote_count": 3,
+                "reply_count": 13,
+                "retweet_count": 29,
+                "favorite_count": 777,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Survivor39",
+                            "indices": [
+                                45,
+                                56
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Survivor39",
+                        "indices": [
+                            64,
+                            75
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "winston_hines",
+                        "name": "Winston Hines",
+                        "id": 1020711859433943041,
+                        "id_str": "1020711859433943041",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        },
+        {
+            "created_at": "Wed Oct 09 00:50:05 +0000 2019",
+            "id": 1181733537722126337,
+            "id_str": "1181733537722126337",
+            "text": "RT @CAVX: A very special guest (kind of) joined me for my #Wandoff to kick off #Survivor's 39th season!🎶\n\nListen:\n- via podcast (47:34):\nht…",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 634151153,
+                "id_str": "634151153",
+                "name": "gabe",
+                "screen_name": "gabe_neri",
+                "location": "Philadelphia, PA",
+                "url": null,
+                "description": "bb addict",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 142,
+                "friends_count": 392,
+                "listed_count": 0,
+                "favourites_count": 20214,
+                "statuses_count": 1731,
+                "created_at": "Fri Jul 13 00:09:12 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1028817153951195138/5uijVqpT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028817153951195138/5uijVqpT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/634151153/1555261373",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 01 19:18:00 +0000 2019",
+                "id": 1179113252581597184,
+                "id_str": "1179113252581597184",
+                "text": "A very special guest (kind of) joined me for my #Wandoff to kick off #Survivor's 39th season!🎶\n\nListen:\n- via podca… https://t.co/HK5Vk0BqVR",
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "truncated": true,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20898328,
+                    "id_str": "20898328",
+                    "name": "Corey Blakeborough",
+                    "screen_name": "CAVX",
+                    "location": "Colorado",
+                    "url": null,
+                    "description": "#Wandoff enthusiast. #Survivor enthusiast. #RHAP enthusiast.\nAlso, life things sometimes.",
+                    "translator_type": "none",
+                    "protected": false,
+                    "verified": false,
+                    "followers_count": 397,
+                    "friends_count": 614,
+                    "listed_count": 19,
+                    "favourites_count": 4273,
+                    "statuses_count": 1868,
+                    "created_at": "Sun Feb 15 07:19:28 +0000 2009",
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "404040",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_link_color": "030E92",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "EDDAAF",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1179149957502128128/evhBgMbC_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179149957502128128/evhBgMbC_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20898328/1569966144",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "extended_tweet": {
+                    "full_text": "A very special guest (kind of) joined me for my #Wandoff to kick off #Survivor's 39th season!🎶\n\nListen:\n- via podcast (47:34):\nhttps://t.co/TVIs30A4gT\n(do this first for @roundhoward's laugh)\n\n- by itself: https://t.co/VNMXxgcuq2\n\n(#RHAP Patrons always hear every submission!) https://t.co/z3JvzgdrrQ",
+                    "display_text_range": [
+                        0,
+                        276
+                    ],
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "Wandoff",
+                                "indices": [
+                                    48,
+                                    56
+                                ]
+                            },
+                            {
+                                "text": "Survivor",
+                                "indices": [
+                                    69,
+                                    78
+                                ]
+                            },
+                            {
+                                "text": "RHAP",
+                                "indices": [
+                                    232,
+                                    237
+                                ]
+                            }
+                        ],
+                        "urls": [
+                            {
+                                "url": "https://t.co/TVIs30A4gT",
+                                "expanded_url": "https://robhasawebsite.com/survivor39-premiere-wiggle-room/",
+                                "display_url": "robhasawebsite.com/survivor39-pre…",
+                                "indices": [
+                                    127,
+                                    150
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/VNMXxgcuq2",
+                                "expanded_url": "https://soundcloud.com/corey-blakeborough/hat-guy?in=corey-blakeborough/sets/rhap-wandoff-s39",
+                                "display_url": "soundcloud.com/corey-blakebor…",
+                                "indices": [
+                                    206,
+                                    229
+                                ]
+                            }
+                        ],
+                        "user_mentions": [
+                            {
+                                "screen_name": "roundhoward",
+                                "name": "Josh Wigler",
+                                "id": 26288276,
+                                "id_str": "26288276",
+                                "indices": [
+                                    170,
+                                    182
+                                ]
+                            }
+                        ],
+                        "symbols": [],
+                        "media": [
+                            {
+                                "id": 1179113248215330817,
+                                "id_str": "1179113248215330817",
+                                "indices": [
+                                    277,
+                                    300
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/EF0NQIXU8AEHEpS.png",
+                                "media_url_https": "https://pbs.twimg.com/media/EF0NQIXU8AEHEpS.png",
+                                "url": "https://t.co/z3JvzgdrrQ",
+                                "display_url": "pic.twitter.com/z3JvzgdrrQ",
+                                "expanded_url": "https://twitter.com/CAVX/status/1179113252581597184/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "large": {
+                                        "w": 447,
+                                        "h": 447,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 447,
+                                        "h": 447,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 447,
+                                        "h": 447,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    }
+                                }
+                            },
+                            {
+                                "id": 1179113248236265472,
+                                "id_str": "1179113248236265472",
+                                "indices": [
+                                    277,
+                                    300
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/EF0NQIcUYAAhJ5G.png",
+                                "media_url_https": "https://pbs.twimg.com/media/EF0NQIcUYAAhJ5G.png",
+                                "url": "https://t.co/z3JvzgdrrQ",
+                                "display_url": "pic.twitter.com/z3JvzgdrrQ",
+                                "expanded_url": "https://twitter.com/CAVX/status/1179113252581597184/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "medium": {
+                                        "w": 723,
+                                        "h": 723,
+                                        "resize": "fit"
+                                    },
+                                    "large": {
+                                        "w": 723,
+                                        "h": 723,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 680,
+                                        "h": 680,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "id": 1179113248215330817,
+                                "id_str": "1179113248215330817",
+                                "indices": [
+                                    277,
+                                    300
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/EF0NQIXU8AEHEpS.png",
+                                "media_url_https": "https://pbs.twimg.com/media/EF0NQIXU8AEHEpS.png",
+                                "url": "https://t.co/z3JvzgdrrQ",
+                                "display_url": "pic.twitter.com/z3JvzgdrrQ",
+                                "expanded_url": "https://twitter.com/CAVX/status/1179113252581597184/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "large": {
+                                        "w": 447,
+                                        "h": 447,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "w": 447,
+                                        "h": 447,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 447,
+                                        "h": 447,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    }
+                                }
+                            },
+                            {
+                                "id": 1179113248236265472,
+                                "id_str": "1179113248236265472",
+                                "indices": [
+                                    277,
+                                    300
+                                ],
+                                "media_url": "http://pbs.twimg.com/media/EF0NQIcUYAAhJ5G.png",
+                                "media_url_https": "https://pbs.twimg.com/media/EF0NQIcUYAAhJ5G.png",
+                                "url": "https://t.co/z3JvzgdrrQ",
+                                "display_url": "pic.twitter.com/z3JvzgdrrQ",
+                                "expanded_url": "https://twitter.com/CAVX/status/1179113252581597184/photo/1",
+                                "type": "photo",
+                                "sizes": {
+                                    "medium": {
+                                        "w": 723,
+                                        "h": 723,
+                                        "resize": "fit"
+                                    },
+                                    "large": {
+                                        "w": 723,
+                                        "h": 723,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "w": 680,
+                                        "h": 680,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "w": 150,
+                                        "h": 150,
+                                        "resize": "crop"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 2,
+                "favorite_count": 27,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Wandoff",
+                            "indices": [
+                                48,
+                                56
+                            ]
+                        },
+                        {
+                            "text": "Survivor",
+                            "indices": [
+                                69,
+                                78
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/HK5Vk0BqVR",
+                            "expanded_url": "https://twitter.com/i/web/status/1179113252581597184",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "filter_level": "low",
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Wandoff",
+                        "indices": [
+                            58,
+                            66
+                        ]
+                    },
+                    {
+                        "text": "Survivor",
+                        "indices": [
+                            79,
+                            88
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CAVX",
+                        "name": "Corey Blakeborough",
+                        "id": 20898328,
+                        "id_str": "20898328",
+                        "indices": [
+                            3,
+                            8
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en",
+            "matching_rules": [
+                {
+                    "tag": null
+                }
+            ]
+        }
+    ],
+    "requestParameters": {
+        "maxResults": 100,
+        "fromDate": "201910090000",
+        "toDate": "201910090400"
+    }
+}
