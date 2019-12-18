@@ -33,6 +33,7 @@ var jsonArray = [s13Tonejson, s14Tonejson, s15Tonejson, s16Tonejson, s17Tonejson
 var seasonArray = ["Cook Islands", "Fiji", "China", "Micronesia", "Gabon", "Tocantis", "Samoa", "Heroes vs. Villians", "Nicaragua", "Redemption Island", "South Pacific", "One World", "Philippines", "Caramoan", "Blood vs. Water", "Cagayan", "San Juan del Sur", "Worlds Apart", "Cambodia", "Kaoh Rong", "Millennials vs Gen X", "Game Changers", "Heroes vs. Healers vs. Hustlers", "Ghost Island", "David vs. Goliath", "Edge of Extinction", "Island of the Idols"];
 
 let AllSeasonTones = [];
+let AllSeasonSentenceTones = [];
 
 function Season() {
     this.id = 0;
@@ -45,12 +46,52 @@ function Season() {
     this.analytical = 0;
     // this.users = []
 };
+function Tones() {
+    this.id = 0;
+    this.fear = 0;
+    this.joy = 0;
+    this.sadness = 0;
+    this.anger = 0;
+    this.confident = 0;
+    this.tentative = 0;
+    this.analytical = 0;
+    // this.users = []
+};
 
-
-function getTones(json) {
+function getSentenceTones(json) {
+    let newSentenceTones = new Tone()
     for (let i = 0; i < json.length; i++) {
-        let newSeason = new Season()
-  
+        for (let k = 0; k < json[i].result.sentences_tone[k].tones.length; k++){
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Joy"){
+                newSentenceTones.joy++;
+            }
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Fear"){
+                newSentenceTones.fear++;
+            }
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Anger"){
+                newSentenceTones.anger++;
+            }
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Sadness"){
+                newSentenceTones.sadness++;
+            }
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Tentative"){
+                newSentenceTones.tentative++;
+            }
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Analytical"){
+                newSentenceTones.analytical++;
+            }
+            if(json[i].result.sentences_tone[k].tones.tone_name == "Confident"){
+                newSentenceTones.confident++;
+            }
+        }
+      
+    }
+    return AllSeasonsSentenceTones;
+}
+
+function getDocumentTones(json) {
+    for (let i = 0; i < json.length; i++) {
+        let newSeason = new Season();  
         for (let k = 0; k < json[i].result.document_tone.tones.length; k++) {
             newSeason.id = i;
             if (json[i].result.document_tone.tones[k].tone_name == "Joy") {
@@ -74,27 +115,22 @@ function getTones(json) {
             if (json[i].result.document_tone.tones[k].tone_name == "Analytical") {
                 newSeason.analytical += json[i].result.document_tone.tones[k].score * 100;
             }
-
         };
         AllSeasonTones.push(newSeason);
     }
     return AllSeasonTones;
 }
 
-let newTones = getTones(jsonArray)
-// console.log(newTones)
+let newDocumentTones = getDocumentTones(jsonArray)
 
 function AssignSeasonNames(allSeasonTones) {
     for (let j = 0; j < allSeasonTones.length; j++) {
         for (let l = 0; l < seasonArray.length; l++) {
             allSeasonTones[j].name = seasonArray[j]
         }
-        // console.log(allSeasonTones[j].name)
     }
     return allSeasonTones
 }
 
-export const AssignedSeasons = AssignSeasonNames(newTones);
-console.log(seasonArray)
-// CreateChartData(AssignedSeasons);
-// export default { seasonArray, AssignedSeasons};
+export const AssignedDocumentSeasons = AssignSeasonNames(newDocumentTones);
+
