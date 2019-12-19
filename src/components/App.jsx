@@ -99,8 +99,8 @@ export default class App extends React.Component {
                     </main>
                     <Toolbar changeSeason={this.CurrentChart} />
                     <div >
+                            <Route key="home" exact path="/home" component={Home} />
                         <Switch>
-                            <Route exact path="/" component={Home} />
                             <Route key="all" path="/All" render={() => <SeasonChart chartTitle="All Seasons" chartData={this.state.chartData} />} />
                             <Route key="39" path="/:s39" render={() => <SeasonChart chartTitle="Season 39 Episodes" chartData={this.state.chartData} />} />
                         </Switch>
